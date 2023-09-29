@@ -1,0 +1,108 @@
+ DDR V2.09 20171109
+In
+DDR3
+300MHz
+BW=16  Col=10  Bk=8  Row=14  CS=1  Die BW=16  Size=256MB
+OUT
+Boot1 Release Time: May 31 2019 15:56:46, version: 2.56
+ChipType = 0xb, 2291
+bootrom_ver: 56323030, ChipType:12
+mmc2:cmd19,100
+SdmmcInit=2 0
+BootCapSize=1000
+UserCapSize=3776MB▒&▒▒▒▒,20
+SdmmcInit=0 1
+StorageInit ok = 129623
+GPT part:  0, name:            uboot, start:0x4000, size:0x2000
+GPT part:  1, name:            trust, start:0x6000, size:0x2000
+GPT part:  2, name:             misc, start:0x8000, size:0x2000
+GPT part:  3, name:             boot, start:0xa000, size:0x10000
+GPT part:  4, name:         recovery, start:0x1a000, size:0x10000
+GPT part:  5, name:           backup, start:0x2a000, size:0x10000
+GPT part:  6, name:              oem, start:0x3a000, size:0xc8000
+GPT part:  7, name:           rootfs, start:0x102000, size:0x100000
+GPT part:  8, name:         userdata, start:0x202000, size:0x55dfdf
+find part:uboot OK. first_lba:0x4000.
+find part:trust OK. first_lba:0x6000.
+LOADER Check OK! 0x60000000, 436791
+TOS    Check OK! 0x61800000, 663859
+Enter Trust OS
+INF [0x0] TEE-CORE:init_primary_helper:381: Initializing (1.1.0-386-g448a414 #2 Thu May 23 04:02:27 UTC 2019 arm)
+
+INF [0x0] TEE-CORE:init_primary_helper:382: Release version: 1.2
+
+INF [0x0] TEE-CORE:init_primary_helper:383: Next entry point address: 0x60000000
+
+INF [0x0] TEE-CORE:init_teecore:83: teecore inits done
+
+
+U-Boot 2017.09-gb586352eef-dirty (Aug 10 2023 - 18:10:45 +0800)
+
+Model: Rockchip RK3126 Evaluation board
+DRAM:  253 MiB
+Sysmem: init
+Relocation Offset is: 00000000
+Using default environment
+
+>>>>=============rockchip_dwmmc_probe==============<<<<<<<<<
+dwmmc@1021c000: 0
+MMC Device 1 not found
+no mmc device at slot 1
+switch to partitions #0, OK
+mmc0(part 0) is current device
+Bootdev: mmc 0
+MMC0: High Speed, 52Mhz
+PartType: EFI
+======[zdw]debug reg_boot_mode:0========
+boot mode: None
+Load FDT from boot part
+DTB: rk-kernel.dtb
+vdd_arm 1100000 uV
+vdd_log 1100000 uV
+Can't get crtc id, default set to id = 0
+Model: Rockchip RK3126 Linux board
+====[uboot]key_core_read type:1 ADC_KEY:1===
+====[uboot]key_core_read00 type:864,526,466 ===
+--------=====add lv uboot key_adc_event,41===526,466,864>>>>>>
+===[debug]rockchip_dnl_key_pressed(61) keyval=0
+Rockchip UBOOT DRM driver version: v1.0.1
+Using display timing dts
+Detailed mode clock 16000 kHz, flags[80000006]
+    H: 0480 0490 0531 0541
+    V: 0273 0275 0303 0334
+bus_format: 1009
+CLK: (uboot. arm: enter 600000 KHz, init 600000 KHz, kernel 0N/A)
+  apll 600000 KHz
+  dpll 600000 KHz
+  cpll 608000 KHz
+  gpll 594000 KHz
+  armclk 600000 KHz
+  aclk_cpu 148500 KHz
+  hclk_cpu 74250 KHz
+  pclk_cpu 74250 KHz
+  aclk_peri 148500 KHz
+  hclk_peri 74250 KHz
+  pclk_peri 74250 KHz
+Net:   Net Initialization Skipped
+No ethernet found.
+Hit key to stop autoboot('CTRL+C'):  0
+ANDROID: reboot reason: "(none)"
+Not AVB images, AVB skip
+Kernel image @ 0x6bdc3140 [ 0x000000 - 0x3d08c8 ]
+Fdt Ramdisk skip relocation
+Booting ZIMAGE kernel at 0x62008000(Uncompress to 0x60000000) with fdt at 0x68300000...
+
+
+## Booting Android Image at 0x62007800 ...
+Kernel load addr 0x62008000 size 3907 KiB
+## Flattened Device Tree blob at 68300000
+   Booting using the fdt blob at 0x68300000
+   XIP Kernel Image ... OK
+  'reserved-memory' region@88000000: addr=88000000 size=1800000
+  'reserved-memory' ramoops@62e00000: addr=62e00000 size=f0000
+   Using Device Tree in place at 68300000, end 6830de9d
+Adding bank: 0x60000000 - 0x61800000 (size: 0x01800000)
+Adding bank: 0x61b00000 - 0x70000000 (size: 0x0e500000)
+Total: 695.300 ms
+
+Starting kernel ...
