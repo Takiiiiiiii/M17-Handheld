@@ -1,0 +1,51 @@
+<!--
+16:9 Apsect Ratio
+(based on 1920x1080 Resolution)
+-->
+
+<theme>
+   <formatVersion>6</formatVersion>
+
+   <view name="system,basic,detailed,video">
+      <helpsystem name="help">
+         <fontSize>0.022222222222222</fontSize><!-- 24 -->
+      </helpsystem>
+   </view>
+
+   <view name="system">
+      <text name="systemInfo">
+         <pos>0.28125 0.898148148148148</pos><!-- 540 970 -->
+         <size>0.260416666666667 0.027777777777778</size><!-- 500 30 -->
+         <fontSize>0.027777777777778</fontSize><!-- 30 -->
+      </text>
+      <helpsystem name="help">
+         <pos>0.28125 0.944444444444444</pos><!-- 540 1020 -->
+      </helpsystem>
+      <image name="logo">
+         <path>./${system.theme}/logo.svg</path>
+      </image>
+      <text name="logoText">
+         <fontSize>0.025</fontSize><!-- 27 -->
+         <lineSpacing>1.2</lineSpacing>
+      </text>
+      <carousel name="systemcarousel">
+         <pos>0.028645833333333 0</pos><!-- 55 0 -->
+         <size>0.171875 1</size><!-- 330 1080 -->
+         <logoScale>1.5</logoScale>
+         <logoSize>0.1 0.1</logoSize><!-- 192 108 -->
+         <maxLogoCount>7</maxLogoCount>
+      </carousel>
+      <image name="system-marker" extra="true">
+         <pos>0 0.5</pos><!-- 0 540 -->
+         <size>0.239583333333333 0.166666666666667</size><!-- 460 180 -->
+      </image>
+      <image name="system-view-overlay" extra="true">
+         <path>./_inc/images/system-view-overlay-16-9.png</path>
+      </image>
+      <image name="system-view-art" extra="true">
+         <pos>0.229166666666667 0</pos><!-- 440 0 -->
+         <size>0 1</size>
+      </image>
+   </view>
+
+</theme>

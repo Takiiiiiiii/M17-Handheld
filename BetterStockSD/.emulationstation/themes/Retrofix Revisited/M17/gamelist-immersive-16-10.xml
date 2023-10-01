@@ -1,0 +1,31 @@
+<theme>
+   <formatVersion>6</formatVersion>
+
+   <view name="detailed,video">
+      <image name="md_marquee">
+         <origin>0.5 1</origin>
+         <pos>0.661458333333333 0.611111111111111</pos><!-- 1270  -->
+         <maxSize>0.20 0.15</maxSize>
+         <zIndex>100</zIndex>
+      </image>
+   </view>
+
+   <view name="detailed">
+      <image name="md_image">
+         <origin>0 0</origin>
+         <pos>0.322916666666667 0</pos>
+         <maxSize>0.677083333333333 2</maxSize>
+         <zIndex>10</zIndex>
+      </image>
+   </view>
+
+   <view name="video">
+      <video name="md_video">
+         <origin>0 0</origin>
+         <pos>0.322916666666667 0</pos>
+         <maxSize>0.677083333333333 2</maxSize>
+         <zIndex>10</zIndex>
+      </video>
+   </view>
+
+</theme>

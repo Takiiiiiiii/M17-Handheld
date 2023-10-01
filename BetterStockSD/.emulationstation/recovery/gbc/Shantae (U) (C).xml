@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<gameList parentHash="0">
+	<game>
+		<path>./Shantae (U) (C).gbc</path>
+		<name>Shantae (U) (C)</name>
+		<favorite>true</favorite>
+		<lang>fr,en</lang>
+		<region>wr</region>
+	</game>
+</gameList>

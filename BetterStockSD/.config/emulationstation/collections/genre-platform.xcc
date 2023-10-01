@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<filter name="genre-platform">
+     <genre>PLATEFORME</genre>
+     <genre>PLATTFORM</genre>
+     <genre>PLATFORM</genre>
+     <genre>PLATAFORMA</genre>
+</filter>

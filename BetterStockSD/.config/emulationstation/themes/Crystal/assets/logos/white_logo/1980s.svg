@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="500"
+   height="200"
+   viewBox="0 0 132.29166 52.916668"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="1980s.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <defs
+     id="defs2">
+    <filter
+       inkscape:label="Relief Print"
+       inkscape:menu="Bumps"
+       inkscape:menu-tooltip="Bumps effect with a bevel, color flood and complex lighting"
+       style="color-interpolation-filters:sRGB;"
+       id="filter1045">
+      <feGaussianBlur
+         stdDeviation="5"
+         result="result8"
+         id="feGaussianBlur1011" />
+      <feComposite
+         result="result6"
+         in="SourceGraphic"
+         operator="in"
+         in2="result8"
+         id="feComposite1013" />
+      <feComposite
+         operator="in"
+         result="result11"
+         in2="result6"
+         id="feComposite1015" />
+      <feFlood
+         result="result10"
+         flood-opacity="1"
+         flood-color="rgb(255,255,255)"
+         id="feFlood1017" />
+      <feBlend
+         mode="multiply"
+         in="result10"
+         in2="result11"
+         result="result12"
+         id="feBlend1019" />
+      <feComposite
+         result="fbSourceGraphic"
+         operator="in"
+         in2="SourceGraphic"
+         in="result12"
+         id="feComposite1021" />
+      <feFlood
+         result="result6"
+         flood-color="rgb(75,101,154)"
+         id="feFlood1023" />
+      <feComposite
+         k3="0.3"
+         k2="0.3"
+         k1="0.5"
+         operator="arithmetic"
+         result="result2"
+         in="fbSourceGraphic"
+         in2="result6"
+         id="feComposite1025" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="result2"
+         values="1 0 0 -1 0 1 0 1 -1 0 1 0 0 -1 0 -0.8 -1 0 3.9 -2.7 "
+         type="matrix"
+         id="feColorMatrix1027" />
+      <feGaussianBlur
+         result="result0"
+         in="fbSourceGraphicAlpha"
+         stdDeviation="0.5"
+         id="feGaussianBlur1029" />
+      <feDiffuseLighting
+         lighting-color="rgb(255,255,255)"
+         diffuseConstant="0.7"
+         surfaceScale="50"
+         result="result13"
+         in="result0"
+         id="feDiffuseLighting1033">
+        <feDistantLight
+           elevation="20"
+           azimuth="225"
+           id="feDistantLight1031" />
+      </feDiffuseLighting>
+      <feSpecularLighting
+         specularExponent="20"
+         specularConstant="0.7"
+         surfaceScale="10"
+         lighting-color="rgb(255,255,255)"
+         result="result1"
+         in="result0"
+         id="feSpecularLighting1037">
+        <feDistantLight
+           elevation="45"
+           azimuth="225"
+           id="feDistantLight1035" />
+      </feSpecularLighting>
+      <feBlend
+         mode="screen"
+         result="result5"
+         in2="SourceGraphic"
+         in="result13"
+         id="feBlend1039" />
+      <feComposite
+         in="result1"
+         k3="1"
+         k2="1"
+         operator="arithmetic"
+         in2="result5"
+         result="result9"
+         id="feComposite1041" />
+      <feComposite
+         in2="SourceGraphic"
+         operator="in"
+         id="feComposite1043" />
+    </filter>
+    <filter
+       inkscape:label="Relief Print"
+       inkscape:menu="Bumps"
+       inkscape:menu-tooltip="Bumps effect with a bevel, color flood and complex lighting"
+       style="color-interpolation-filters:sRGB;"
+       id="filter1141">
+      <feGaussianBlur
+         stdDeviation="5"
+         result="result8"
+         id="feGaussianBlur1107" />
+      <feComposite
+         result="result6"
+         in="SourceGraphic"
+         operator="in"
+         in2="result8"
+         id="feComposite1109" />
+      <feComposite
+         operator="in"
+         result="result11"
+         in2="result6"
+         id="feComposite1111" />
+      <feFlood
+         result="result10"
+         flood-opacity="1"
+         flood-color="rgb(255,255,255)"
+         id="feFlood1113" />
+      <feBlend
+         mode="multiply"
+         in="result10"
+         in2="result11"
+         result="result12"
+         id="feBlend1115" />
+      <feComposite
+         result="fbSourceGraphic"
+         operator="in"
+         in2="SourceGraphic"
+         in="result12"
+         id="feComposite1117" />
+      <feFlood
+         result="result6"
+         flood-color="rgb(75,101,154)"
+         id="feFlood1119" />
+      <feComposite
+         k3="0.3"
+         k2="0.3"
+         k1="0.5"
+         operator="arithmetic"
+         result="result2"
+         in="fbSourceGraphic"
+         in2="result6"
+         id="feComposite1121" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="result2"
+         values="1 0 0 -1 0 1 0 1 -1 0 1 0 0 -1 0 -0.8 -1 0 3.9 -2.7 "
+         type="matrix"
+         id="feColorMatrix1123" />
+      <feGaussianBlur
+         result="result0"
+         in="fbSourceGraphicAlpha"
+         stdDeviation="0.5"
+         id="feGaussianBlur1125" />
+      <feDiffuseLighting
+         lighting-color="rgb(255,255,255)"
+         diffuseConstant="0.7"
+         surfaceScale="50"
+         result="result13"
+         in="result0"
+         id="feDiffuseLighting1129">
+        <feDistantLight
+           elevation="20"
+           azimuth="225"
+           id="feDistantLight1127" />
+      </feDiffuseLighting>
+      <feSpecularLighting
+         specularExponent="20"
+         specularConstant="0.7"
+         surfaceScale="10"
+         lighting-color="rgb(255,255,255)"
+         result="result1"
+         in="result0"
+         id="feSpecularLighting1133">
+        <feDistantLight
+           elevation="45"
+           azimuth="225"
+           id="feDistantLight1131" />
+      </feSpecularLighting>
+      <feBlend
+         mode="screen"
+         result="result5"
+         in2="SourceGraphic"
+         in="result13"
+         id="feBlend1135" />
+      <feComposite
+         in="result1"
+         k3="1"
+         k2="1"
+         operator="arithmetic"
+         in2="result5"
+         result="result9"
+         id="feComposite1137" />
+      <feComposite
+         in2="SourceGraphic"
+         operator="in"
+         id="feComposite1139" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.8214355"
+     inkscape:cx="400"
+     inkscape:cy="59.021526"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:pagecheckerboard="true"
+     inkscape:window-width="1366"
+     inkscape:window-height="739"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-244.08332)">
+    <g
+       aria-label="1980's"
+       transform="matrix(0.99459984,0,0,1.0509543,-3.3873828,240.55835)"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter1045)"
+       id="flowRoot10">
+      <path
+         d="M 7.3339844,21.368761 4.4824219,14.025011 15.009766,6.9351674 h 8.59375 V 35.138292 H 13.525391 V 16.81798 Z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Star Jedi';-inkscape-font-specification:'Star Jedi';fill:#ffffff"
+         id="path1363" />
+      <path
+         d="m 29.013672,34.864855 v -6.523438 q 1.09375,0.292969 2.03125,0.507813 0.9375,0.214844 2.1875,0.351562 1.25,0.136719 2.734375,0.136719 2.695312,0 4.589844,-1.328125 1.894531,-1.328125 1.894531,-4.316406 -2.148438,1.71875 -6.289063,1.71875 -2.519531,0 -4.746093,-1.035156 -2.226563,-1.054688 -3.59375,-3.125 -1.367188,-2.070313 -1.367188,-4.882813 0,-2.5 1.015625,-4.375 1.035156,-1.894531 2.792969,-3.1054686 1.757812,-1.2304687 3.945312,-1.8164062 2.1875,-0.6054688 4.609375,-0.6054688 3.027344,0 5.566407,1.015625 2.539062,0.9960938 4.355468,2.8710936 1.816407,1.855469 2.792969,4.453125 0.996094,2.578125 0.996094,5.605469 0,4.84375 -1.914063,8.300781 -1.914062,3.4375 -5.3125,5.175781 -3.378906,1.738282 -7.773437,1.738282 -4.863281,0 -8.515625,-0.761719 z m 6.640625,-18.496094 q 0,1.660156 0.9375,2.675781 0.9375,1.015625 2.5,1.015625 1.660156,0 2.5,-1.035156 0.859375,-1.035156 0.859375,-2.890625 0,-1.582031 -0.859375,-2.597656 -0.859375,-1.035156 -2.5,-1.035156 -1.582031,0 -2.519531,1.09375 -0.917969,1.074218 -0.917969,2.773437 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Star Jedi';-inkscape-font-specification:'Star Jedi';fill:#ffffff"
+         id="path1365" />
+      <path
+         d="m 53.662109,27.618761 q 0,-5.507812 5.585938,-6.835937 v -0.07813 q -1.738281,-0.585938 -2.871094,-1.386719 -1.113281,-0.820313 -1.679687,-2.089844 -0.566407,-1.269531 -0.566407,-3.046875 0,-2.1875 1.074219,-3.671875 1.09375,-1.5039061 2.929688,-2.3828123 1.855468,-0.8984375 4.0625,-1.2695313 2.207031,-0.390625 4.609375,-0.390625 3.359375,0 6.171875,0.7226563 2.832031,0.703125 4.609375,2.4414062 1.777343,1.7187501 1.777343,4.5507811 0,2.597656 -1.289062,4.121094 -1.269531,1.523437 -3.75,2.441406 v -0.03906 0.07813 q 2.578125,0.644531 4.140625,2.363281 1.582031,1.699219 1.582031,4.472656 0,2.226563 -1.171875,3.789063 -1.152344,1.5625 -3.046875,2.480468 -1.894531,0.917969 -4.257812,1.328125 -2.363282,0.410157 -4.765625,0.410157 -3.261719,0 -6.25,-0.761719 -2.988282,-0.761719 -4.941407,-2.539063 -1.953125,-1.777343 -1.953125,-4.707031 z m 16.308594,-1.601562 q 0,-1.601563 -0.78125,-2.597657 -0.78125,-0.996093 -2.382812,-0.996093 -1.601563,0 -2.34375,1.015625 -0.722657,0.996093 -0.722657,2.65625 0,1.640625 0.742188,2.695312 0.742187,1.035156 2.324219,1.035156 1.601562,0 2.382812,-1.054687 0.78125,-1.074219 0.78125,-2.753906 z M 63.818359,14.903917 q 0,1.464844 0.78125,2.382813 0.800782,0.917969 2.207032,0.9375 1.347656,0 2.109375,-0.917969 0.78125,-0.9375 0.78125,-2.324219 0,-1.347656 -0.78125,-2.265625 -0.761719,-0.9375 -2.109375,-0.9375 -1.386719,0 -2.1875,0.917969 -0.800782,0.898438 -0.800782,2.207031 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Star Jedi';-inkscape-font-specification:'Star Jedi';fill:#ffffff"
+         id="path1367" />
+      <path
+         d="m 81.455078,21.056261 q 0,-3.164062 0.898438,-5.820312 0.917968,-2.675782 2.675781,-4.648438 1.777344,-1.9921873 4.375,-3.0468748 2.597656,-1.0742188 5.976562,-1.0742188 3.183594,0 5.742191,1.015625 2.57812,1.015625 4.375,2.9687496 1.8164,1.933594 2.7539,4.628907 0.95703,2.675781 0.95703,5.976562 0,4.394531 -1.58203,7.695313 -1.58203,3.28125 -4.72656,5.078125 -3.124999,1.796875 -7.519531,1.796875 -4.375,0 -7.539062,-1.816407 -3.144531,-1.835937 -4.765625,-5.15625 -1.621094,-3.320312 -1.621094,-7.597656 z m 10.488281,0 q 0,2.109375 0.07813,3.4375 0.07813,1.328125 0.371094,2.421875 0.3125,1.09375 1.035156,1.757813 0.742188,0.664062 1.953125,0.664062 1.542969,0 2.285157,-1.09375 0.742187,-1.113281 0.898437,-2.734375 0.175781,-1.640625 0.175781,-4.453125 0,-2.929687 -0.175781,-4.570312 -0.15625,-1.640625 -0.898437,-2.695313 -0.722657,-1.054687 -2.285157,-1.054687 -1.601562,0 -2.363281,1.074218 -0.742187,1.054688 -0.917969,2.695313 -0.15625,1.621094 -0.15625,4.550781 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Star Jedi';-inkscape-font-specification:'Star Jedi';fill:#ffffff"
+         id="path1369" />
+      <path
+         d="M 113.4668,19.259386 V 6.9351674 h 5.99609 V 19.259386 Z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Star Jedi';-inkscape-font-specification:'Star Jedi';fill:#ffffff"
+         id="path1371" />
+      <path
+         d="m 135.4454,24.402952 h -3.72667 q -2.72089,-0.0847 -0.80462,1.503371 3.43023,3.006743 3.36671,5.844091 -0.0635,2.837348 -3.36671,3.387878 h -8.13091 v -4.552461 h 3.21849 q 2.99615,0.0847 0.76227,-1.672765 -3.68432,-3.387879 -3.13379,-6.225227 0.55053,-2.837348 3.47258,-2.837348 h 8.34265 z"
+         style="font-size:21.68242264px;fill:#ffffff"
+         id="path1373" />
+    </g>
+    <g
+       aria-label="games"
+       transform="matrix(0.44446765,0,0,0.45914924,65.235209,277.32309)"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter1141)"
+       id="flowRoot10-3">
+      <path
+         d="M 25.166016,26.739855 V 21.03673 h 8.828125 v 14.101562 h -12.5 q -4.589844,0 -8.300782,-1.621093 -3.7109371,-1.640625 -5.8593746,-4.902344 -2.1289063,-3.261719 -2.1289063,-7.988281 0,-3.320313 1.2695313,-5.917969 1.2890625,-2.617188 3.5546876,-4.335938 2.265625,-1.7382808 5.195312,-2.5781246 2.949219,-0.859375 6.269532,-0.859375 h 7.734375 4.765625 v 8.3984376 h -8.828125 q -2.96875,0 -4.394532,0.175781 -1.425781,0.175781 -2.539062,0.585938 -1.113281,0.410156 -1.972656,1.425781 -0.859375,1.015625 -0.996094,3.59375 0.09766,2.5 0.996094,3.574219 0.898437,1.074218 2.1875,1.425781 1.289062,0.351562 2.65625,0.488281 1.367187,0.136719 4.0625,0.136719 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Star Jedi';-inkscape-font-specification:'Star Jedi';fill:#ffffff;stroke:none;stroke-opacity:1"
+         id="path1352" />
+      <path
+         d="M 32.431641,35.138292 41.708984,6.9351674 H 55.712891 L 65.146484,35.138292 H 54.482422 l -1.777344,-5.078125 h -8.378906 l -1.777344,5.078125 z M 48.740234,13.185167 44.697266,24.357042 h 7.773437 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Star Jedi';-inkscape-font-specification:'Star Jedi';fill:#ffffff;stroke:none;stroke-opacity:1"
+         id="path1354" />
+      <path
+         d="M 64.365234,35.138292 V 6.9351674 h 9.179688 L 79.716797,18.653917 85.849609,6.9351674 h 9.179688 V 35.138292 h -9.179688 v -11.71875 l -5.898437,11.71875 h -0.507813 l -5.898437,-11.71875 v 11.71875 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Star Jedi';-inkscape-font-specification:'Star Jedi';fill:#ffffff;stroke:none;stroke-opacity:1"
+         id="path1356" />
+      <path
+         d="M 96.982422,35.138292 V 6.9351674 h 24.179688 v 8.3984376 h -15 v 3.242187 h 9.6875 v 4.921875 h -9.6875 v 3.242188 h 17.38281 v 8.398437 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Star Jedi';-inkscape-font-specification:'Star Jedi';fill:#ffffff;stroke:none;stroke-opacity:1"
+         id="path1358" />
+      <path
+         d="m 145.73242,15.333605 h -6.875 q -5.01953,-0.15625 -1.48437,2.773437 6.32812,5.546875 6.21093,10.78125 -0.11718,5.234375 -6.21093,6.25 h -15 v -8.398437 h 5.9375 q 5.52734,0.15625 1.40625,-3.085938 -6.79688,-6.25 -5.78125,-11.484375 1.01562,-5.2343746 6.40625,-5.2343746 h 15.39062 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Star Jedi';-inkscape-font-specification:'Star Jedi';fill:#ffffff;stroke:none;stroke-opacity:1"
+         id="path1360" />
+    </g>
+  </g>
+</svg>

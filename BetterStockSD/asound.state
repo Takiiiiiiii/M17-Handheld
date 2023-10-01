@@ -1,0 +1,70 @@
+state.rockchiprk312x {
+	control.1 {
+		iface MIXER
+		name 'Playback Path'
+		value SPK
+		comment {
+			access 'read write'
+			type ENUMERATED
+			count 1
+			item.0 OFF
+			item.1 RCV
+			item.2 SPK
+			item.3 HP
+			item.4 HP_NO_MIC
+			item.5 BT
+			item.6 SPK_HP
+			item.7 RING_SPK
+			item.8 RING_HP
+			item.9 RING_HP_NO_MIC
+			item.10 RING_SPK_HP
+		}
+	}
+	control.2 {
+		iface MIXER
+		name 'Capture MIC Path'
+		value 'MIC OFF'
+		comment {
+			access 'read write'
+			type ENUMERATED
+			count 1
+			item.0 'MIC OFF'
+			item.1 'Main Mic'
+			item.2 'Hands Free Mic'
+			item.3 'BT Sco Mic'
+		}
+	}
+	control.3 {
+		iface MIXER
+		name 'Voice Call Path'
+		value OFF
+		comment {
+			access 'read write'
+			type ENUMERATED
+			count 1
+			item.0 OFF
+			item.1 RCV
+			item.2 SPK
+			item.3 HP
+			item.4 HP_NO_MIC
+			item.5 BT
+		}
+	}
+	control.4 {
+		iface MIXER
+		name 'Master Playback Volume'
+		value.0 8
+		value.1 8
+		comment {
+			access 'read write user'
+			type INTEGER
+			count 2
+			range '0 - 30'
+			tlv '0000000100000008fffff5d800000067'
+			dbmin -2600
+			dbmax 490
+			dbvalue.0 -1776
+			dbvalue.1 -1776
+		}
+	}
+}

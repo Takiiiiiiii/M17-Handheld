@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+<formatVersion>7</formatVersion>	
+<variables>
+
+<!-- Blue/Dark colour scheme -->
+	
+<!-- items with ## in the comments are items that people will want to change for different schemes -->
+	
+	
+
+<!-- main filter folder name -->
+
+	<themecolor>black</themecolor> <!-- ## color scheme - these are the folder locations for filters, graphics etc ## -->
+
+<!-- menu icons - the main menu icons, either light or dark -->
+
+    <cmenuicons>light</cmenuicons> <!-- ## dark / light ## -->
+
+<!-- menu filter - the filter for the main menu, either light or dark-->
+
+    <cmenufilter>dark</cmenufilter> <!-- ## dark / light ## -->
+
+<!-- Menu colours - colours used by the main menus -->
+
+    <cmenufooter>a2a2a2</cmenufooter>	<!-- ## menu footer color ## -->
+    <cmenutext>868686</cmenutext>	<!-- ## menu text color ## -->
+    <cmenuseperator>191919</cmenuseperator>	<!-- ## menu seperators ## -->
+    <cselected>FFFFFF</cselected>	<!-- ## selected menu text ## -->
+    <cmenusubtitle>a2a2a2</cmenusubtitle>	<!-- ## menu subtitle color ## -->
+    <cmenutitle>d0d0d0</cmenutitle>	<!-- ## menu title color ## -->
+    <cmenubg>1d1d1d</cmenubg>	<!-- ## menu background color ## -->
+
+<!-- Global stuff -->
+
+    <chelptext>FFFFFF</chelptext> <!-- ## color of help menu text ## -->
+    <ctextglow>0f0f0f</ctextglow> <!-- ## default glow color on text - only need to change this if light/dark theme ## -->
+	
+<!-- Selector highlight on menus and gamelist -->
+	
+	<cselector>515151</cselector>  <!-- ## main gradient for all selector bars on menus and gamelist ## -->
+    <cselectorend>303030</cselectorend>   <!-- ## main gradient for all selector bars on menus and gamelist ## -->
+	<cgradienttype>horizontal</cgradienttype> <!-- horizontal or vertical -->
+		
+<!-- controller activity -->
+
+    <ccontroller>303030</ccontroller> <!--## icons showing connected controllers ## -->
+    <cactivity>A0A0FFC0</cactivity>
+    <chotkey>FFA0A0C0</chotkey>
+
+<!-- System view colour settings for text etc -->
+
+    <cinfotext>FFFFFF</cinfotext>	<!--## info text color ## -->
+    <cdescriptiontext>FFFFFF</cdescriptiontext>	<!--## description text color ## -->
+    <cshortdescriptiontext>FFFFFF</cshortdescriptiontext>	<!--## short descirptiontext color ## -->
+
+<!-- gamelists -->
+
+	<cgamelisttext>FFFFFF</cgamelisttext>	<!-- ## non-selected text ## -->
+	<cselectedtext>FFFFFF</cselectedtext>	<!-- ## selected text ## -->
+	<cglicons>FFFFFF</cglicons> <!-- ## icons for genre, release date etc ## -->
+	<cgldetail>FFFFFF</cgldetail>  <!-- ## text for genre, release date etc ## -->
+	<cgdescription>FFFFFF</cgdescription> <!-- ## game description ## -->
+	<cglglow>00000016</cglglow>  <!-- ## gamelist text glow colour ## -->
+	<crating>b8b8b8</crating>  <!-- ## rating star color ## -->
+	
+<!-- grid and carousel view -->
+	
+	<cgtextbg>00000000</cgtextbg>  <!-- text background -->
+	<cgtbg>00000000</cgtbg>   <!-- tile background -->	
+	<cgtext>dfddda</cgtext> <!-- unselected text -->
+	<cgtextselect>FFFFFF</cgtextselect> <!-- selected text -->
+	<cgtimage>535353</cgtimage>  <!-- gridtile image color -->
+	<cgtimageselect>dfddda</cgtimageselect>  <!-- gridtile image color selected -->
+	
+<!-- grid -->
+	
+	<cgtbg>00000000</cgtbg> <!-- grid tile background color -->	
+	<cgtbgedge>00000000</cgtbgedge>   <!-- background edge color -->
+	<cgtbgedgeselect>ffffff</cgtbgedgeselect>   <!-- ##	 background edge of selected item # -->
+	
+<!-- carousel view -->
+	
+	<ccenterfade>00000000</ccenterfade>   <!-- center fade color -->
+	<cbgcenter>00000000</cbgcenter> <!-- background center color -->
+	<cbgcenterselect>00000000</cbgcenterselect> <!-- background center color selected -->
+	<cbgedge>00000000</cbgedge>   <!-- background edge color -->
+	<cbgedgeselect>00000000</cbgedgeselect>   <!-- ## background edge color selected ## -->
+	<cgt>80808080</cgt> 	<!-- gridtile -->
+	<cgtselect>FFFFFF</cgtselect>  <!-- gridtile selected -->
+
+	
+	
+
+</variables>
+</theme>

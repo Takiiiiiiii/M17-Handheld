@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<filter name="genre-adult">
+     <genre>ADULTE</genre>
+     <genre>ADULT</genre>
+     <genre>ERWACHSENE</genre>
+     <genre>ADULTO</genre>
+</filter>
+
+

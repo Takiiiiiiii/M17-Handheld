@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="500"
+   height="200"
+   viewBox="0 0 500 200"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="default.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <defs
+     id="defs2">
+    <linearGradient
+       id="a"
+       y2="828.56799"
+       xlink:href="#m"
+       gradientUnits="userSpaceOnUse"
+       x2="620.073"
+       gradientTransform="matrix(4.47849,0,0,4.47849,-2326.77,-3542.61)"
+       y1="802.30402"
+       x1="620.073" />
+    <linearGradient
+       id="m">
+      <stop
+         stop-color="#fa020e"
+         offset="0"
+         id="stop2" />
+      <stop
+         stop-color="#c60606"
+         offset="1"
+         id="stop4" />
+    </linearGradient>
+    <filter
+       id="h">
+      <feGaussianBlur
+         stdDeviation="2.6216153"
+         id="feGaussianBlur20" />
+    </filter>
+    <filter
+       id="g">
+      <feGaussianBlur
+         stdDeviation="2.6216153"
+         id="feGaussianBlur23" />
+    </filter>
+    <filter
+       id="c">
+      <feGaussianBlur
+         stdDeviation="2.6216153"
+         id="feGaussianBlur35" />
+    </filter>
+    <filter
+       id="e">
+      <feGaussianBlur
+         stdDeviation="2.6216153"
+         id="feGaussianBlur29" />
+    </filter>
+    <filter
+       id="l">
+      <feGaussianBlur
+         stdDeviation="2.6216153"
+         id="feGaussianBlur8" />
+    </filter>
+    <filter
+       id="k">
+      <feGaussianBlur
+         stdDeviation="2.6216153"
+         id="feGaussianBlur11" />
+    </filter>
+    <filter
+       id="j">
+      <feGaussianBlur
+         stdDeviation="2.6216153"
+         id="feGaussianBlur14" />
+    </filter>
+    <filter
+       id="i">
+      <feGaussianBlur
+         stdDeviation="2.6216153"
+         id="feGaussianBlur17" />
+    </filter>
+    <filter
+       id="d">
+      <feGaussianBlur
+         stdDeviation="2.6216153"
+         id="feGaussianBlur32" />
+    </filter>
+    <filter
+       id="f">
+      <feGaussianBlur
+         stdDeviation="2.6216153"
+         id="feGaussianBlur26" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.7420007"
+     inkscape:cx="364.4773"
+     inkscape:cy="146.39663"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:pagecheckerboard="true"
+     inkscape:window-width="1366"
+     inkscape:window-height="739"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-35.186023,-235.92207)" />
+</svg>

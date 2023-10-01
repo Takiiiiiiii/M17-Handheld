@@ -1,0 +1,79 @@
+html, body { 
+	margin:0px; 
+	padding:0px; 
+	font-family: Open Sans, sans-serif; 
+	font-size:12pt;
+	height:100%;
+	overflow:hidden;
+}
+
+.title { 
+	background-color:#F0F0F0; 	
+	padding:4px 8px;
+	text-align: left;
+	font-size:16pt;
+}
+
+.toolbar {
+	background-color:#304070FF;
+}
+
+.toolbarbutton {
+	color:white;
+	background-color:#304070FF;
+	border:none;
+	font-size:12pt;
+	padding:6px 8px;
+	cursor: pointer;
+}
+
+
+.toolbarbutton:hover {
+	background-color:#405080FF;
+}
+
+.systemlist {
+	color:white;
+	background-color:#202020; 
+	overflow-y:scroll;
+}
+
+.system:hover {
+	background-color:#303030;
+}
+
+.gamelist {	
+	color:white;
+	background-color:#202020; 
+	overflow-y:scroll;
+}
+
+.game:hover {
+	background-color:#303030;
+}
+
+.desc { 
+	color:#A0A0A0; 	
+	font-size:8pt;
+	text-overflow: ellipsis;
+	overflow: hidden;
+	height:22pt
+}
+
+.playitBtn {
+	background-color: #808080;
+	cursor: pointer;
+	font-size: 0.9em;
+	
+	border: solid 1px #303030;
+	padding: 3px 8px;
+	border-radius: 4px;
+}
+
+.playitBtn:hover {
+	background-color: #909090;
+}
+
+.playitBtn:active {
+	background-color: #606060;
+}

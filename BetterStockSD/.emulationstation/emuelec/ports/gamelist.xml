@@ -1,0 +1,183 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./Cannonball.sh</path>
+		<name>Cannonball</name>
+		<desc>This is an arcade-perfect port of SEGA's seminal arcade racer. Features include: Pixel-perfect 240p video. 60 FPS gameplay. Continuous mode (play all 15 tracks in one go).</desc>
+		<image>./images/system-cannonball.png</image>
+		<thumbnail>./images/system-cannonball-thumb.png</thumbnail>
+		<video>./videos/system-cannonball.mp4</video>
+		<rating>0.8</rating>
+		<releasedate>20140101T000000</releasedate>
+		<developer>Chris White, Yu Suzuki</developer>
+		<publisher>non-commercial</publisher>
+	</game>
+	<game>
+		<path>./Cave Story.sh</path>
+		<name>Cave Story</name>
+		<desc>A platform-adventure video game released in 2004 for Windows PCs. It was developed over five years by Japanese developer Daisuke "Pixel" Amaya in his free time. Cave Story features 2D platform mechanics.</desc>
+		<image>./images/system-cave_story.png</image>
+		<thumbnail>./images/system-cave_story-thumb.png</thumbnail>
+		<video>./videos/system-cave_story.mp4</video>
+		<rating>0.9</rating>
+		<releasedate>20041220T000000</releasedate>
+		<developer>Studio Pixel</developer>
+		<publisher>GPLv3</publisher>
+	</game>
+	<game>
+		<path>./Commander Keen.sh</path>
+		<name>Commander Keen</name>
+		<desc>Commander Genius is a software piece that interprets the Commander Keen Invasion of the Vorticons and Galaxy series. As fans and developers we try to implement new features, improve the gameplay and give players an experience that feels like playing the original game but a bit more refreshing.</desc>
+		<image>./images/system-commander_keen.png</image>
+		<thumbnail>./images/system-commander_keen-thumb.png</thumbnail>
+		<video>./videos/system-commander_keen.mp4</video>
+		<rating>1.0</rating>
+		<releasedate>20170326T000000</releasedate>
+		<developer>Commander Genius team</developer>
+		<publisher>non-commercial</publisher>
+	</game>
+	<game>
+		<path>./Diablo.sh</path>
+		<name>Diablo</name>
+		<desc>Diablo build for modern operating systems - Diablo is an action role-playing hack and slash video game developed by Blizzard North and released by Blizzard Entertainment in early January 1997.</desc>
+		<image>./images/system-diablo.png</image>
+		<thumbnail>./images/system-diablo-thumb.png</thumbnail>
+		<video>./videos/system-diablo.mp4</video>
+		<rating>1.0</rating>
+		<releasedate>19970101T000000</releasedate>
+		<developer>DevilutionX - Blizzard</developer>
+		<publisher>Public Domain</publisher>
+	</game>
+	<game>
+		<path>./Dinothawr.sh</path>
+		<name>Dinothawr</name>
+		<desc>Dinothawr is a block pushing puzzle game on slippery surfaces. Our hero is a dinosaur whose friends are trapped in ice. Through puzzles it is your task to free the dinos from their ice prison.</desc>
+		<image>./images/system-dinothawr.png</image>
+		<thumbnail>./images/system-dinothawr-thumb.png</thumbnail>
+		<video>./videos/system-dinothawr.mp4</video>
+		<rating>0.8</rating>
+		<releasedate>20130220T000000</releasedate>
+		<developer>Themaister, Agnes Heyer</developer>
+		<publisher>non-commercial</publisher>
+	</game>
+	<game>
+		<path>./Doom.sh</path>
+		<name>Doom</name>
+		<desc>Players assume the role of a space marine fighting his way through hordes of invading demons through the 9 levels of Hell.</desc>
+		<image>./images/system-doom.png</image>
+		<thumbnail>./images/system-doom-thumb.png</thumbnail>
+		<video>./videos/system-doom.mp4</video>
+		<rating>0.8</rating>
+		<releasedate>19931210T000000</releasedate>
+		<developer>id Software</developer>
+		<publisher>GT Interactive</publisher>
+	</game>
+	<game>
+		<path>./Doom 2.sh</path>
+		<name>Doom 2</name>
+		<desc>A first-person shooter video game, the second title of id Software's Doom franchise. It was originally released for MS-DOS computers in 1994 and Macintosh computers in 1995.</desc>
+		<image>./images/system-doom_2.png</image>
+		<thumbnail>./images/system-doom_2-thumb.png</thumbnail>
+		<video>./videos/system-doom_2.mp4</video>
+		<rating>0.9</rating>
+		<releasedate>19941010T000000</releasedate>
+		<developer>id Software</developer>
+		<publisher>GT Interactive</publisher>
+	</game>
+	<game>
+		<path>./Mr. Boom.sh</path>
+		<name>Mr. Boom</name>
+		<desc>Mr. Boom is an up to 8 player Bomberman clone. The goal of the game is to bomb away your enemies and other players.</desc>
+		<image>./images/system-mr__boom.png</image>
+		<thumbnail>./images/system-mr__boom-thumb.png</thumbnail>
+		<video>./videos/system-mr__boom.mp4</video>
+		<rating>0.8</rating>
+		<releasedate>19990225T000000</releasedate>
+		<developer>Remdy Software</developer>
+		<publisher>non-commercial</publisher>
+	</game>
+	<game>
+		<path>./OpenTyrian.sh</path>
+		<name>OpenTyrian</name>
+		<desc>OpenTyrian is an open-source port of the "cult" arcade-style vertical scrolling shooter called "Tyrian". Original game was developed by World Tree Games Productions and published in 1995 by Epic MegaGames.</desc>
+		<image>./images/system-opentyrian.png</image>
+		<thumbnail>./images/system-opentyrian-thumb.png</thumbnail>
+		<video>./videos/system-opentyrian.mp4</video>
+		<rating>1.0</rating>
+		<releasedate>1995</releasedate>
+		<developer>World Tree Games</developer>
+		<publisher>Epic MegaGames</publisher>
+	</game>
+	<game>
+		<path>./Quake.sh</path>
+		<name>Quake</name>
+		<desc>Players must find their way through various maze-like, medieval environments while battling a variety of monsters using an array of weaponry.</desc>
+		<image>./images/system-quake.png</image>
+		<thumbnail>./images/system-quake-thumb.png</thumbnail>
+		<video>./videos/system-quake.mp4</video>
+		<rating>0.8</rating>
+		<releasedate>19960622T000000</releasedate>
+		<developer>id Software</developer>
+		<publisher>GT Interactive</publisher>
+	</game>
+	<game>
+		<path>./Flashback.sh</path>
+		<name>Flashback</name>
+		<desc>REminiscence is a game engine recreation of the 1992/1993 action adventure game Flashback. It is the spiritual successor of Another World/Out Of This World and it distinguishes itself with rotoscoped graphics, and polygonal cutscenes.</desc>
+		<image>./images/system-flashback.png</image>
+		<thumbnail>./images/system-flashback-thumb.png</thumbnail>
+		<video>./videos/system-flashback.mp4</video>
+		<rating>0.8</rating>
+		<releasedate>20180114T000000</releasedate>
+		<developer>Gregory Montoir, Stuart Carnie</developer>
+		<publisher>GPLv3</publisher>
+	</game>
+	<game>
+		<path>./Rick Dangerous.sh</path>
+		<name>Rick Dangerous</name>
+		<desc>Way before Lara Croft, back in the 1980's and early 1990's, Rick Dangerous was the Indiana Jones of computer games, running away from rolling rocks, avoiding traps, from South America to a futuristic missile base via Egypt and the Schwarzendumpf castle. Xrick is a clone of Rick Dangerous, known to run on Linux, Windows, BeOs, Amiga, QNX, all sorts of gaming consoles.</desc>
+		<image>./images/system-rick_dangerous.png</image>
+		<thumbnail>./images/system-rick_dangerous-thumb.png</thumbnail>
+		<video>./videos/system-rick_dangerous.mp4</video>
+		<rating>0.8</rating>
+		<releasedate>20170326T000000</releasedate>
+		<developer>BigOrno</developer>
+		<publisher>non-commercial</publisher>
+	</game>
+	<game>
+		<path>./Prince of Persia.sh</path>
+		<name>Prince of Persia</name>
+		<desc>SDLPoP is an open-source port of Prince of Persia that runs natively on Windows and Linux. It is based on a disassembly of the DOS version.</desc>
+		<image>./images/system-prince_of_persia.png</image>
+		<thumbnail>./images/system-prince_of_persia-thumb.png</thumbnail>
+		<video>./videos/system-prince_of_persia.mp4</video>
+		<rating>1.0</rating>
+		<releasedate>20110111T000000</releasedate>
+		<developer>Dávid Nagy</developer>
+		<publisher>non-commercial</publisher>
+	</game>
+	<game>
+		<path>./VVVVVV.sh</path>
+		<name>VVVVVV</name>
+		<desc>VVVVVV is a platform game all about exploring one simple mechanical idea - what if you reversed gravity instead of jumping? The game is designed not to artificially gate your progress. In VVVVVV there are no locks, no power-ups, no switches, nothing to stop you progressing except the challenges themselves.</desc>
+		<image>./images/system-vvvvvv.png</image>
+		<thumbnail>./images/system-vvvvvv-thumb.png</thumbnail>
+		<video>./videos/system-vvvvvv.mp4</video>
+		<rating>1.0</rating>
+		<releasedate>20100111T000000</releasedate>
+		<developer>Terry Cavanagh, Simon Roth, Nicalis</developer>
+		<publisher>non-commercial</publisher>
+	</game>
+	<game>
+		<path>./2048.sh</path>
+		<name>2048</name>
+		<desc>2048 is a single-player sliding block puzzle game designed by Italian web developer Gabriele Cirulli. The game's objective is to slide numbered tiles on a grid to combine them to create a tile with the number 2048. However, one can continue to play the game after reaching the goal, creating tiles with larger numbers.</desc>
+		<image>./images/system-2048.png</image>
+		<video>./videos/system-2048.mp4</video>
+		<thumbnail>./images/system-2048-thumb.png</thumbnail>
+		<rating>1.0</rating>
+		<releasedate>20100111T000000</releasedate>
+		<developer>Gabriele Cirulli - Higor Euripedes</developer>
+		<publisher>Public Domain</publisher>
+	</game>
+</gameList>

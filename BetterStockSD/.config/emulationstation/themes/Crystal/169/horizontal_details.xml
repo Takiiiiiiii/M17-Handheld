@@ -1,0 +1,82 @@
+<!-- Horizontal icon menu -->
+
+<theme>
+  <formatVersion>4</formatVersion>
+ <include>./common.xml</include>
+
+  <feature supported="carousel">
+
+  <view name="system">
+    <carousel name="systemcarousel">
+     <type>horizontal</type>
+     <pos>.37 -0.38</pos>
+      <size>1 1</size>
+      <color>ffffff00</color>
+      <logoScale>1</logoScale>
+      <logoSize>0.2 .3</logoSize>
+      <maxLogoCount>1</maxLogoCount>
+    <logoAlignment>right</logoAlignment>
+      <defaultTransition>instant</defaultTransition>	
+    </carousel>
+  
+	<image name="logo">
+	</image>
+    
+   <helpsystem name="help">
+         <fontPath>./fonts/${font1s}</fontPath>
+         <fontSize>0.025</fontSize>     
+         <pos>0.007 0.965</pos>      
+         <textColor>${chelptext}</textColor>
+   </helpsystem>  
+
+	<text name="shortdescription" extra="true">
+	 <fontPath>./fonts/${font1s}</fontPath>
+	<visible>false</visible>
+		</text>
+
+   <text name="systemInfo">
+         <pos>0.007 0.893</pos>
+         <backgroundColor>00000000</backgroundColor>
+         <color>${cinfotext}</color>
+         <alignment>left</alignment>
+         <fontPath>./fonts/${font2s}</fontPath>
+         <fontSize>0.050</fontSize>
+         <glowColor>${ctextglow}</glowColor>
+         <glowSize>1</glowSize>
+   </text>
+
+	<image name="console" extra="true">
+		<path>./assets/logos/console/${system.theme}.png</path>
+        <pos>0.840 0.725</pos>
+         <maxSize>0.20 0.25</maxSize>
+        <alignment>right</alignment>
+      </image> 
+
+<text name="description" extra="true">
+           <fontPath>./fonts/${font3s}</fontPath>
+			<pos>.007 0.70</pos>
+            <size>0.92 0</size>
+			<alignment>left</alignment>
+			<color>${cdescriptiontext}</color>
+			<fontSize>0.038</fontSize>
+        <glowColor>${ctextglow}</glowColor>
+         <glowSize>1</glowSize>
+		</text>
+
+<image name="background" extra="true">
+         <origin>0 0</origin>
+         <pos>0 0</pos>
+         <size>1 1</size>
+         <path>./assets/filters/${themecolor}/horizontal_details.svg</path>
+      </image>
+
+	   <text name="logoText">
+         <color>${cgtbgedgeselect}</color>
+        <fontPath>./fonts/${font3s}</fontPath>
+		 <fontSize>0.05</fontSize>
+         <alignment>center</alignment>
+      </text>
+
+	  </view>
+  </feature>  
+</theme>

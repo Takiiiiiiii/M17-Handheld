@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	
+	<variables>
+		
+		<langue>zh</langue>
+
+<!-- FONTS -->
+
+<!-- menu fonts -->
+<font1m>OpenSans-Light.ttf</font1m>
+
+<!-- menu fonts -->
+<font2m>OpenSans-SemiBold.ttf</font2m>
+
+<!-- main system views -->
+<font1s>OpenSans-Bold.ttf</font1s>
+
+<!-- system info -->
+<font2s>OpenSans-Bold.ttf</font2s>
+
+<!-- System description -->
+<font3s>OpenSans-SemiBold.ttf</font3s>
+
+<!-- Font used by gamelist items -->
+<font1g>OpenSans-SemiBold.ttf</font1g>
+
+<!-- Font used by descriptions on gamelists -->
+<font2g>OpenSans-SemiBold.ttf</font2g>
+
+<!-- Font used for title on gamelist panel -->
+<font3g>BebasNeue-Regular.ttf</font3g>
+
+<!-- Font used on gamelist help system -->
+<font4g>OpenSans-SemiBold.ttf</font4g>
+
+<yes>はい</yes>
+<no>番号</no>
+<none>無し</none>
+<sysmusic>オン</sysmusic>
+<nomusic>ランダム</nomusic>
+<silence>バックグラウンドミュージックなし</silence>
+<default>デフォルト</default>
+<basiclist>簡単なリスト</basiclist>
+<simplegridName>シンプルなグリッド</simplegridName>
+<carouselViewName>カルーセル</carouselViewName>
+<carouselposterViewName>カルーセル詳細</carouselposterViewName>
+<tilesViewName>タイル</tilesViewName>
+<tilesVideoViewName>ビデオ付きタイル</tilesVideoViewName>
+<tilesVideoMarqueeViewName>ビデオとロゴのタイル</tilesVideoMarqueeViewName>
+<fanartViewName>ファンアート（デフォルト）</fanartViewName>
+<fanartvlViewName>ファンアート（フルスクリーンビデオ）</fanartvlViewName>
+<carouselvideoName>カルーセルビデオ</carouselvideoName>
+<smallscreengamelist>小画面</smallscreengamelist>
+<smallscreengamelistnh>小画面（ヘルプなし）</smallscreengamelistnh>
+<ctblue>サファイア</ctblue>
+<ctred>ルビー</ctred>
+<ctgreen>エメラルド</ctgreen>
+<ctblack>炭素</ctblack>
+<ctgold>ゴールド</ctgold>
+<systembg>コンソール</systembg>
+<artflixbg>Artflix</artflixbg>
+<whitelog>白いロゴの</whitelog>
+<colorlog>カラーロゴの</colorlog>
+<conlog>コントローラー</conlog>
+<textlog>テキストロゴ</textlog>
+<idefault>結晶</idefault>
+<idefaultrev>クリスタル（リバース）</idefaultrev>
+<horizontal>基本的な水平メニュー</horizontal>
+<hordetail>詳細（地平線）</hordetail>
+<rhc>右側のカルーセル</rhc>
+<lhc>左側のカルーセル</lhc>
+<systemdetails>詳細（垂直）</systemdetails>
+<delay1>1秒</delay1>
+<delay2>2秒</delay2>
+<delay3>3秒</delay3>
+<delay5>5秒</delay5>
+<delay10>10秒</delay10>
+<delay20>20秒</delay20>
+<delay0>遅延なし</delay0>
+<novideo>ビデオを無効にする</novideo>
+<subset.systemview>ホームページのレイアウト</subset.systemview>
+<subset.bgset>背景画像</subset.bgset>
+<subset.iconset>ヘルプアイコン</subset.iconset>
+<subset.shader>テーマシェーダー</subset.shader>
+<subset.music>システムミュージック</subset.music>
+<subset.logoset>システムロゴスタイル</subset.logoset>
+<subset.thememusic>テーマBGM</subset.thememusic>
+<subset.vdelay>ゲームリストのビデオ遅延</subset.vdelay>
+<subset.slog>ゲームリストのシステムロゴ</subset.slog>
+<subset.colorset>テーマの配色</subset.colorset>
+<subset.videoview>ゲームリストのビデオ遅延</subset.videoview>
+<subset.sysvdelay>システムビュービデオ遅延</subset.sysvdelay>
+<subset.ratio>画面比</subset.ratio>
+<panlog>パネルロゴ</panlog>
+<default>デフォルト</default>
+<panel>パネル</panel>
+<smallpanel>小さなパネル</smallpanel>
+<panelbox>ボックス画像付きパネル</panelbox>
+
+
+	</variables>
+		</theme>

@@ -1,0 +1,192 @@
+<theme>
+   <formatVersion>6</formatVersion>
+
+   <variables>
+      <mainFont>./_inc/fonts/RedHatDisplay-Regular.ttf</mainFont>
+      <boldFont>./_inc/fonts/RedHatDisplay-Bold.ttf</boldFont>
+      <spacerImage>./_inc/images/space.png</spacerImage>
+      <!-- 
+      Apsect Ratio Options:
+      16:9 = 16-9
+      16:10 = 16-10
+      -->
+      <aspectRatio>16-10</aspectRatio>
+      <!-- 
+      Gamelist Style Options:
+      default
+      immersive
+      -->
+      <gameListStyle>default</gameListStyle>
+   </variables>
+
+   <view name="system,basic,detailed,video">
+      <image name="background" extra="true">
+         <origin>0 0</origin>
+         <pos>0 0</pos>
+         <size>1 1</size>
+         <path>${spacerImage}</path>
+         <tile>true</tile>
+         <color>2E2E2E</color>
+         <zIndex>0</zIndex>
+      </image>
+      <helpsystem name="help">
+         <textColor>777777</textColor>
+         <iconColor>555555</iconColor>
+         <fontPath>${mainFont}</fontPath>
+      </helpsystem>
+   </view>
+
+   <view name="system">
+      <text name="systemInfo">
+         <origin>0 1</origin>
+         <fontPath>${boldFont}</fontPath>
+         <alignment>left</alignment>
+         <color>aaaaaa</color>
+         <backgroundColor>00000000</backgroundColor>
+      </text>
+      <helpsystem name="help">
+         <origin>0 1</origin>
+      </helpsystem>
+      <image name="logo">
+         <path>./${system.theme}/logo.svg</path>
+      </image>
+      <text name="logoText">
+         <text>${system.fullName}</text>
+         <fontPath>${boldFont}</fontPath>
+         <forceUppercase>true</forceUppercase>
+         <color>ffffff</color>
+      </text>
+      <carousel name="systemcarousel">
+         <type>vertical</type>
+         <color>00000000</color>
+         <zIndex>30</zIndex>
+      </carousel>
+      <image name="system-marker" extra="true">
+         <origin>0 0.5</origin>
+         <path>${spacerImage}</path>
+         <color>777777</color>
+         <tile>true</tile>
+         <zIndex>20</zIndex>
+      </image>
+      <image name="system-view-overlay" extra="true">
+         <origin>0 0</origin>
+         <pos>0 0</pos>
+         <size>1 1</size>
+         <zIndex>10</zIndex>
+      </image>
+      <image name="system-view-art" extra="true">
+         <default>./_inc/images/bg-default.png</default>
+         <path>./${system.theme}/bg.jpg</path>
+         <zIndex>5</zIndex>
+      </image>
+   </view>
+
+   <view name="basic,detailed,video">
+      <text name="md_lbl_genre, md_lbl_rating, md_rating, md_lbl_developer, md_lbl_publisher, md_lbl_lastplayed, md_lbl_playcount, md_playcount, md_lbl_players, md_lbl_releasedate">
+         <pos>-2 -2</pos>
+         <visible>no</visible>
+      </text>
+      <image name="logo">
+         <origin>0.5 0.5</origin>
+         <path>./${system.theme}/logo.svg</path>
+      </image>
+      <text name="logoText">
+         <origin>0.5 0.5</origin>
+         <text>${system.fullName}</text>
+         <fontPath>${boldFont}</fontPath>
+         <alignment>center</alignment>
+         <forceUppercase>true</forceUppercase>
+         <color>ffffff</color>
+      </text>
+      <textlist name="gamelist">
+         <selectorColor>424242</selectorColor>
+         <selectedColor>ffffff</selectedColor>
+         <primaryColor>888888</primaryColor>
+         <secondaryColor>888888</secondaryColor>
+         <fontPath>${boldFont}</fontPath>
+         <alignment>left</alignment>
+      </textlist>
+      <image name="gamelist-view-overlay" extra="true">
+         <origin>0 0</origin>
+         <pos>0 0</pos>
+         <size>1 1</size>
+         <zIndex>10</zIndex>
+      </image>
+   </view>
+
+   <view name="detailed,video">
+      <image name="gamelist-metadata" extra="true">
+         <origin>0.5 0</origin>
+         <path>./_inc/images/gamelist-metadata.png</path>
+         <zIndex>100</zIndex>
+      </image>
+      <text name="md_description">
+         <origin>0.5 0</origin>
+         <color>ffffff</color>
+         <fontPath>${mainFont}</fontPath>
+         <alignment>center</alignment>
+      </text>
+      <text name="md_genre">
+         <color>B3B3B3</color>
+         <fontPath>${boldFont}</fontPath>
+         <lineSpacing>1</lineSpacing>
+         <alignment>center</alignment>
+      </text> 
+      <text name="md_players">
+         <color>B3B3B3</color>
+         <fontPath>${boldFont}</fontPath>
+         <lineSpacing>1</lineSpacing>
+         <alignment>center</alignment>
+      </text>
+      <text name="md_developer">
+         <color>B3B3B3</color>
+         <fontPath>${boldFont}</fontPath>
+         <lineSpacing>1</lineSpacing>
+         <alignment>center</alignment>
+      </text>
+      <datetime name="md_releasedate">
+         <color>B3B3B3</color>
+         <fontPath>${boldFont}</fontPath>
+         <lineSpacing>1</lineSpacing>
+         <alignment>center</alignment>
+      </datetime>
+   </view>
+
+   <view name="video">
+      <video name="md_video">
+         <delay>2</delay>
+         <showSnapshotNoVideo>true</showSnapshotNoVideo>
+         <showSnapshotDelay>true</showSnapshotDelay>
+      </video>
+   </view>
+
+   <feature supported="navigationsounds">
+      <view name="all">
+         <sound name="systembrowse">
+            <path>./_inc/sounds/systembrowse.wav</path>
+         </sound>
+         <sound name="quicksysselect">
+            <path>./_inc/sounds/quicksysselect.wav</path>
+         </sound>
+         <sound name="select">
+            <path>./_inc/sounds/select.wav</path>
+         </sound>
+         <sound name="back">
+            <path>./_inc/sounds/back.wav</path>
+         </sound>
+         <sound name="scroll">
+            <path>./_inc/sounds/scroll.wav</path>
+         </sound>
+         <sound name="favorite">
+            <path>./_inc/sounds/favorite.wav</path>
+         </sound>
+         <sound name="launch">
+            <path>./_inc/sounds/launch.wav</path>
+         </sound>
+      </view>
+   </feature>
+
+   <include>./aspect-ratio-${aspectRatio}.xml</include>
+   <include>./gamelist-${gameListStyle}-${aspectRatio}.xml</include>
+
+</theme>

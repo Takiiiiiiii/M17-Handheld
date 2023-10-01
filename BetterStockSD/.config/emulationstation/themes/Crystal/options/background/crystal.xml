@@ -1,0 +1,11 @@
+<theme>
+<formatVersion>4</formatVersion>
+
+
+<view name="system, basic, detailed, grid">
+      <image name="art" extra="true">
+	     <path>./assets/backgrounds/default/default.jpg</path>
+         <path>./assets/backgrounds/default/${system.theme}.jpg</path>
+      </image>   
+</view>
+</theme>

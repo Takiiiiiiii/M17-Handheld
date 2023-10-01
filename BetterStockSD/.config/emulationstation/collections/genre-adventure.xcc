@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<filter name="genre-adventure">
+     <genre>ABENTEUER</genre>
+     <genre>AVENTURA</genre>
+     <genre>ADVENTURE</genre>
+     <genre>AVENTURE</genre>
+</filter>

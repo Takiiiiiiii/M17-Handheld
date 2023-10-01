@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<filter name="genre-educational">
+     <genre>LUDO-EDUCATIF</genre>
+     <genre>LERNSPIEL</genre>
+     <genre>EDUCATIONAL</genre>
+     <genre>EDUCACIONAL</genre>
+</filter>

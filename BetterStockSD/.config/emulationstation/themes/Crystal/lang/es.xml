@@ -1,0 +1,275 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<variables>	
+	<langue>es</langue>
+
+<!-- FONTS -->
+
+<!-- menu fonts -->
+<font1m>OpenSans-Light.ttf</font1m>
+
+<!-- menu fonts -->
+<font2m>OpenSans-SemiBold.ttf</font2m>
+
+<!-- main system views -->
+<font1s>OpenSans-Bold.ttf</font1s>
+
+<!-- system info -->
+<font2s>OpenSans-Bold.ttf</font2s>
+
+<!-- System description -->
+<font3s>OpenSans-SemiBold.ttf</font3s>
+
+<!-- Font used by gamelist items -->
+<font1g>OpenSans-SemiBold.ttf</font1g>
+
+<!-- Font used by descriptions on gamelists -->
+<font2g>OpenSans-SemiBold.ttf</font2g>
+
+<!-- Font used for title on gamelist panel -->
+<font3g>BebasNeue-Regular.ttf</font3g>
+
+<!-- Font used on gamelist help system -->
+<font4g>OpenSans-SemiBold.ttf</font4g>
+		
+<!-- Global -->
+    <yes>Sí </yes>
+    <no>No </no>
+    <none>Ninguno </none>
+    <sysmusic>Activado </sysmusic>
+    <nomusic>Aleatorio </nomusic>
+    <silence>Sin música de fondo </silence>
+    <default>Predeterminado </default>
+<!-- Vistas de biblioteca -->
+    <basiclist>Lista simple </basiclist>
+    <simplegridName>Cuadrícula / Simple </simplegridName>
+    <carouselViewName>Carrusel </carouselViewName>
+    <carouselposterViewName>Carrusel / Detallado </carouselposterViewName>
+    <tilesViewName>Azulejos </tilesViewName>
+    <tilesVideoViewName>Mosaicos con video </tilesVideoViewName>
+    <tilesVideoMarqueeViewName>Azulejos con video y logotipos </tilesVideoMarqueeViewName>
+    <fanartViewName>Fanart (predeterminado) </fanartViewName>
+    <fanartvlViewName>Fanart (video en pantalla completa) </fanartvlViewName>
+	<carouselvideoName>Carrusel / Video</carouselvideoName>
+	<smallscreengamelist>Pantalla Pequena</smallscreengamelist>
+	<smallscreengamelistnh>Pantalla Pequena (sin ayuda)</smallscreengamelistnh>
+<!-- fondos -->
+    <defaultbg>SOLO (ligero) </defaultbg>
+    <darkbg>SOLO (oscuro) </darkbg>
+    <bellabg>Bella </bellabg>
+    <systembg>Consola </systembg>
+    <artflixbg>Artflix </artflixbg>
+<!-- Estilos de logotipo -->
+    <whitelog>Logotipo blanco </whitelog>
+    <colorlog>Logotipo de color </colorlog>
+    <conlog>Controladores </conlog>
+    <textlog>Logotipo de texto </textlog>
+<!-- Iconos de ayuda -->
+	<idefault>Crystal</idefault>
+	<idefaultrev>Crystal (Inversa)</idefaultrev>
+<!-- Diseños del sistema -->
+    <horizontal>Menú horizontal </horizontal>
+    <rhc>Carrusel del lado derecho </rhc>
+    <lhc>Carrusel del lado izquierdo </lhc>
+    <systemdetails>Detallado vertical </systemdetails>
+   	<hordetail>Detallado horizontal</hordetail>
+<!-- retraso de video -->
+    <delay1>1 segundo</delay1>
+    <delay2>2 segundos</delay2>
+    <delay3>3 segundos</delay3>
+    <delay5>5 segundos</delay5>
+    <delay10>10 segundos</delay10>
+    <delay20>20 segundos</delay20>
+    <delay0>sin demora</delay0>	
+    <novideo>deshabilitar videos</novideo>	
+<!-- color schemes -->
+    <ctblue>Sapphire</ctblue>
+	<ctred>Ruby</ctred>
+	<ctgreen>Emerald</ctgreen>
+   	<ctblack>Carbon</ctblack> 
+    <ctgold>Gold</ctgold>
+<!-- Submenús -->
+    <subset.systemview>Diseño de la página de inicio </subset.systemview>
+    <subset.bgset>Imágenes de fondo </subset.bgset>
+    <subset.iconset>Iconos de ayuda</subset.iconset>
+    <subset.shader>Sombreadores de temas </subset.shader>
+    <subset.music>Música del sistema </subset.music>
+    <subset.logoset>Estilo del logotipo del sistema </subset.logoset>	
+	<subset.thememusic>Música de fondo del tema</subset.thememusic>	
+    <subset.vdelay>Retraso de video en la lista de juegos</subset.vdelay>
+    <subset.slog>Logotipo del sistema en listas de juegos</subset.slog>
+    <subset.colorset>Esquema de color del tema</subset.colorset>
+    <subset.videoview>Retraso de video de la lista de juegos</subset.videoview>
+    <subset.sysvdelay>Vista del sistema Retraso de video</subset.sysvdelay>
+<!-- Descripciones del sistema -->
+	<psx>La PlayStation (abreviada extraoficialmente como PSX) es una consola de videojuegos doméstica desarrollada y comercializada por Sony Computer Entertainment. La consola original de la serie fue la primera consola de cualquier tipo en enviar más de 100 millones de unidades, en menos de una década.</psx>
+   	<threedo>La 3DO es una consola de videojuegos doméstica concebida por el empresario y fundador de Electronic Arts Trip Hawkins, la 3DO no fue fabricada por la propia empresa. Panasonic produjo los primeros modelos, y GoldStar y Sanyo lanzaron más versiones del hardware.</threedo>
+  	<amiga>El Amiga es una familia de computadoras personales comercializadas por Commodore en las décadas de 1980 y 1990. El primer modelo se lanzó en 1985 como una computadora doméstica de alta gama y se hizo popular por sus capacidades gráficas, de audio y multitarea</amiga>
+	<cpc>La CPC 464 fue la primera computadora personal para el hogar construida por Amstrad en 1984. Fue una de las microcomputadoras más vendidas y mejor producidas, con más de 2 millones de unidades vendidas en Europa.</cpc>
+  	<arcade>Un juego de arcade o coin-op es una máquina de entretenimiento que funciona con monedas y que normalmente se instala en negocios públicos como restaurantes, bares y salas de juegos. La edad de oro de los videojuegos arcade generalmente se define como un período que comienza en algún momento a fines de la década de 1970 y termina en algún momento a mediados de la década de 1980.</arcade>
+   	<atari2600>El Atari Video Computer System (VCS) es una consola de videojuegos doméstica de segunda generación (1976-1992) desarrollada y distribuida por Atari, Inc. Fue lanzada el 11 de septiembre de 1977 en Norteamérica a un precio minorista de $ 199 .</atari2600>
+   	<atari5200>El Atari 5200 SuperSystem, es una consola de segunda generación desarrollada y distribuida por Atari. El 5200 vino con un controlador innovador con un joystick de 360 grados que no se centra con un teclado numérico, botones de inicio, pausa y reinicio.</atari5200>
+   	<atari7800>El Atari 7800 Pro System es una consola de tercera generación desarrollada y distribuida por Atari Corporation. El 7800 se considera una de las primeras consolas compatibles con versiones anteriores, ya que podría jugar juegos de Atari 2600 sin el uso de módulos adicionales.</atari7800>
+   	<jaguar>La Atari Jaguar es una consola de videojuegos doméstica desarrollada por Atari Corporation y lanzada en Norteamérica en noviembre de 1993. Parte de la quinta generación de consolas de videojuegos, compitió con Sega Genesis y Super NES de 16 bits y la 32 -bit 3DO Interactive Multiplayer que se lanzó el mismo año.</jaguar>
+   	<lynx>Atari Lynx es una consola de juegos portátil de 16 bits que fue desarrollada y distribuida por Atari Corporation. Fue lanzado en septiembre de 1989 en Norteamérica a un precio minorista de 149,95 dólares. Lynx fue el primer juego electrónico portátil del mundo con una pantalla LCD a color.</lynx>
+   	<atarist>El Atari ST es una línea de ordenadores domésticos de Atari Corporation y el sucesor de la familia Atari de 8 bits. El 1040ST, lanzado en 1986, es la primera computadora personal que se envía con un megabyte de RAM en la configuración básica y también la primera con un costo por kilobyte de menos de US $ 1.</atarist>
+   	<atomis>Atomiswave es una placa de sistema y un gabinete arcade personalizados de Sammy Corporation y se basa en la placa de sistema NAOMI de Sega. El Atomiswave usa cartuchos de juego intercambiables y el panel de control del gabinete se puede cambiar fácilmente con dos joysticks, dos pistolas de luz o un volante.</atomis>
+   	<c16>El C16 era una computadora doméstica fabricada por Commodore International, destinada a ser una computadora de nivel de entrada para reemplazar la VIC-20</c16>
+   	<c64>El Commodore 64 es un ordenador doméstico de 8 bits introducido en enero de 1982 por Commodore International. Está incluido en el Guinness World Records como el modelo de computadora individual más vendido de todos los tiempos, con estimaciones independientes que ubican el número vendido entre 10 y 17 millones de unidades.</c64>
+   	<c128>La Commodore 128, también conocida como C128, C-128, C = 128, es la última computadora doméstica de 8 bits que fue lanzada comercialmente por Commodore Business Machines (CBM). Presentado en enero de 1985 en el CES de Las Vegas, apareció tres años después de su predecesor, el superventas Commodore 64.</c128>
+   	<dreamcast>Dreamcast es una consola de videojuegos de 128 bits que fue lanzada por Sega a finales de 1998 en Japón y desde septiembre de 1999 en otros territorios. Fue la primera entrada en la sexta generación de consolas de videojuegos, anterior a la PlayStation 2 de Sony, la Xbox de Microsoft y la Nintendo GameCube.</dreamcast>
+   	<famicom>La Nintendo Famicom es una consola de videojuegos de 8 bits que fue lanzada por Nintendo en Japón en 1983. Fue lanzada como Family Computer, comúnmente abreviada como la contracción romanizada Famicom, o abreviada como FC.</famicom>
+	<fds>El Family Computer Disk System es un periférico para la consola Family Computer de Nintendo, lanzado en Japón el 21 de febrero de 1986. Utiliza disquetes patentados llamados "Disk Cards" para el almacenamiento de datos.</fds>
+	<gameandwatch>The Game and Watch es una serie de juegos electrónicos portátiles producidos por Nintendo de 1980 a 1991. Creado por el diseñador de juegos Gunpei Yokoi, cada uno presentaba un solo juego y un reloj en una pantalla LCD.</gameandwatch>
+   	<gamegear>Sega Game Gear fue la primera consola de juegos portátil de Sega. Fue la tercera consola portátil en color disponible comercialmente, después de la Atari Lynx y la TurboExpress. Comparte gran parte de su hardware con Master System y puede jugar juegos de Master System mediante el uso de un adaptador.</gamegear>
+   	<gb>La Game Boy es una consola de videojuegos portátil de 8 bits lanzada en 1989. Como la primera consola portátil de la línea Game Boy, fue creada por Gunpei Yokoi y el departamento de Investigación y Desarrollo de Nintendo, quienes diseñaron la serie Game and Watch.</gb>
+   	<gba>Game Boy Advance es una consola de videojuegos portátil de 32 bits desarrollada por Nintendo como sucesora de Game Boy Color. Los competidores de Nintendo en el mercado de dispositivos portátiles en ese momento eran Neo Geo Pocket Color, WonderSwan, GP32, Tapwave Zodiac y N-Gage.</gba>
+   	<gbc>Game Boy Color, (abreviado como GBC) es una consola de juegos portátil fabricada por Nintendo, que fue lanzada en 1998. Es la sucesora de Game Boy y cuenta con una pantalla a color, pero sin luz de fondo.</gbc>
+   	<genesis>La Genesis (Mega Drive fuera de los EE. UU.) fue la tercera consola de Sega y la sucesora del Master System. El microprocesador principal del Genesis es una CPU Motorola 68000 de 16/32 bits con una frecuencia de reloj de 7,6 MHz. La consola también proporcionó compatibilidad con versiones anteriores del Master System.</genesis>
+   	<intellivision>Intellivision 'Intelligent Telivision' es una consola de videojuegos para el hogar lanzada por Mattel Electronics en 1979. El desarrollo de la consola comenzó en 1977, el mismo año en que se introdujo su principal competidor, el Atari 2600.</intellivision>
+   	<mame>MAME (originalmente un acrónimo de Multiple Arcade Machine Emulator) es un emulador gratuito y de código abierto diseñado para recrear el hardware de los sistemas de juegos de arcade en software en computadoras personales modernas y otras plataformas.</mame>
+   	<mastersystem>El Master System es una consola de videojuegos de tercera generación que fue lanzada por Sega en 1985. El Master System era un competidor directo del Nintendo Entertainment System y era técnicamente superior a NES, que fue significativamente anterior a su lanzamiento.</mastersystem>
+   	<megadrive>El Megadrive fue la tercera consola de Sega y el sucesor del Master System. El microprocesador principal del Megadrive es una CPU Motorola 68000 de 16/32 bits con una frecuencia de reloj de 7,6 MHz. La consola también proporcionó compatibilidad con versiones anteriores del Master System.</megadrive>
+   	<msx>MSX es una arquitectura de computadora doméstica estandarizada, anunciada por Microsoft y ASCII el 16 de junio de 1983. Antes del éxito de Family Computer de Nintendo, MSX era la plataforma para la cual los principales estudios de juegos japoneses como Konami y Hudson Soft producían videojuegos.</msx>
+   	<n64>Con el nombre en código Ultra64, la Nintendo 64 fue lanzada en 1996 y fue la última gran consola doméstica en usar el cartucho como formato de almacenamiento principal. Se vendieron 32,93 millones de unidades en todo el mundo, siendo sus principales competidores Sony PlayStation y Sega Saturn.</n64>
+   	<naomi>La Sega NAOMI (New Arcade Operation Machine Idea) es una placa de sistema arcade lanzada en 1998 como sucesora del hardware Sega Model 3. Utiliza la misma arquitectura que Sega Dreamcast y se erige como uno de los sistemas arcade de Sega más exitosos de todos los tiempos, junto con Sega Model 2.</naomi>
+   	<nds>La Nintendo DS es una consola de juegos portátil de pantalla dual de 32 bits desarrollada y lanzada por Nintendo. El dispositivo salió a la venta en Norteamérica el 21 de noviembre de 2004. DS, abreviatura de "Developers 'System" o "Dual Screen", introdujo nuevas características distintivas para los juegos portátiles.</nds>
+   	<neocd>El CD Neo • Geo fue la segunda consola doméstica de SNK, lanzada como una alternativa más barata que el sistema AES. El hardware interno es el mismo, pero los juegos se ejecutan en CD-ROM mucho más baratos. Esto permitió a SNK vender juegos a un precio más competitivo.</neocd>
+   	<neogeo>La Neo • Geo AES se lanzó originalmente como una consola de alquiler para tiendas de videojuegos en Japón (llamada Neo Geo Rental System), y su alto precio hizo que SNK no la lanzara para uso doméstico; esto luego se revirtió debido a la alta demanda y llegó al mercado como una consola de lujo.</neogeo>
+   	<nes>La Nintendo Entertainment System es una consola de videojuegos de 8 bits que fue lanzada por Nintendo en Norteamérica durante 1985. Como la consola de juegos más vendida de su tiempo, la NES ayudó a revitalizar la industria de los videojuegos en los Estados Unidos luego del colapso de los videojuegos. de 1983.</nes>
+   	<ngp>Neo Geo Pocket es una consola de juegos portátil monocromática lanzada por SNK. Fue el primer sistema portátil de la compañía y es parte de la familia Neo Geo. Debutó en Japón a finales de 1998.</ngp>
+	<openbor>OpenBOR es un motor de juego de desplazamiento lateral basado en sprites y libre de regalías. ... OpenBOR está optimizado para juegos de estilo beat em 'up de desplazamiento lateral (Double Dragon, Streets of Rage, Final Fight), pero se adapta fácilmente a cualquier tipo de estilo de juego y conjunto de funciones que puedas imaginar.</openbor>
+   	<ngpc>La Neo Geo Pocket Color es una consola de videojuegos portátil en color de 16 bits fabricada por SNK. Es un sucesor de la computadora de mano monocromática Neo Geo Pocket de SNK, que debutó en 1998 en Japón, siendo el Color totalmente compatible con versiones anteriores.</ngpc>
+   	<pc88>Línea de computadoras personales japonesas de 8 bits fabricadas por NEC desde 1979 hasta 1989.</pc88>
+   	<pc98>Línea de computadoras personales japonesas de 16 y 32 bits fabricadas por NEC desde 1982 hasta 2000</pc98>
+   	<pcengine>PC Engine se lanzó en Japón el 30 de octubre de 1987. Obtuvo un fuerte apoyo de terceros y vendió más que Famicom en su debut en 1987, convirtiéndose finalmente en el principal rival de Super Famicom</pcengine>
+   	<pcfx>La PC-FX es una consola de videojuegos doméstica de 32 bits lanzada en 1994. Fue pensada como la sucesora de PC Engine y su contraparte internacional la TurboGrafx-16, dos exitosas consolas de videojuegos de finales de la década de 1980. Es la última incursión de NEC en el mercado de las consolas domésticas.</pcfx>
+   	<ports>Puertos multiplataforma de software y motores de juegos desde PC a DOS</ports>
+   	<psp>La PlayStation Portable (PSP) es una consola de juegos portátil desarrollada por Sony y lanzada en 2005. Fue el primer competidor real del dominio de la consola portátil de Nintendo, donde fallaron muchos rivales, como Neo Geo Pocket de SNK y N-Gage de Nokia. .</psp>
+   	<residual>ResidualVM es un programa informático multiplataforma que comprende recreaciones de motores de juegos en 3D con una interfaz gráfica de usuario común. Es compatible con Grim Fandango, Myst III: Exile y The Longest Journey.</residual>
+   	<saturn>El Saturn tuvo éxito inicialmente en Japón, pero no se vendió en grandes cantidades en los EE. UU. después de su lanzamiento en mayo de 1995, cuatro meses antes de la fecha de lanzamiento programada. Aunque es recordado por varios juegos bien considerados, su reputación es mixta debido a su complejo diseño de hardware.</saturn>
+   	<scumm>La utilidad de creación de scripts para la máquina virtual Maniac Mansion (ScummVM) es un conjunto de recreaciones del motor del juego. Diseñado originalmente para jugar juegos de aventuras de LucasArts que usan el sistema SCUMM, también admite una variedad de juegos que no son SCUMM.</scumm>
+   	<sega32x>La Sega 32X es un complemento para la consola de videojuegos Sega Genesis. Con el nombre en clave "Proyecto Marte", el 32X fue diseñado para expandir el poder del Génesis hasta el lanzamiento del Sega Saturn. Independientemente del Genesis, el 32X usa sus propios cartuchos ROM y tiene su propia biblioteca de juegos.</sega32x>
+   	<segacd>El CD de Sega es un accesorio de CD-ROM para la consola de videojuegos Sega Genesis producido por Sega como parte de la cuarta generación de consolas de videojuegos. Sega CD permite al usuario jugar juegos basados ​​en CD y agrega funcionalidad de hardware adicional, como una unidad de procesamiento central más rápida y mejoras gráficas.</segacd>
+   	<sfc>La Super Famicom es una consola de videojuegos doméstica de 16 bits desarrollada por Nintendo que fue lanzada en 1990 en Japón. El sistema pasó a llamarse Super Nintendo en otros países.</sfc>
+   	<sg-1000>El SG-1000 de Sega (también conocido como Mark I) fue el primer intento de la compañía en consolas domésticas, lanzado en julio de 1983. Era un sistema bastante avanzado para su época y presentaba especificaciones técnicas impresionantes. Sega lanzó una versión actualizada de la consola llamada SG-1000 Mark II.</sg-1000>
+   	<snes>La segunda consola doméstica de Nintendo introdujo capacidades de sonido y gráficos avanzados en comparación con otros sistemas en ese momento, vendiendo más de 49 millones de unidades en todo el mundo. La consola introdujo capacidades de sonido y gráficos avanzados en comparación con otros sistemas en ese momento.</snes>
+   	<supergrafx>El SuperGrafx es el sistema sucesor del PC Engine. Originalmente conocida como PC Engine 2 durante las etapas de producción, se pretendía como una verdadera consola doméstica de 16 bits, con capacidades de audio y gráficos mejoradas en comparación con su predecesora. Solo se lanzaron 6 juegos que aprovecharon el hardware.</supergrafx>
+   	<tg16>TurboGrafx-16, totalmente titulado como TurboGrafx-16 Entertainment SuperSystem y conocido en Japón como PC Engine, es una consola de videojuegos desarrollada por Hudson Soft y NEC, lanzada en Japón el 30 de octubre de 1987 y en Norteamérica el 29 de agosto de 1989.</tg16>
+   	<tg16cd>El TurboGrafx-CD es un complemento para el TurboGrafx-16. Fue lanzado para expandir la biblioteca de juegos de TurboGrafx 16. Agrega la capacidad de reproducir video de movimiento completo y audio de CD, así como una capacidad de almacenamiento enormemente ampliada.</tg16cd>
+   	<vectrex>Vectrex es una exclusiva consola de videojuegos doméstica basada en pantallas vectoriales desarrollada por Smith Engineering. Se lanzó por primera vez en Norteamérica en noviembre de 1982 y luego en Europa y Japón en 1983.</vectrex>
+   	<vic20>El VIC-20 fue la primera computadora de cualquier descripción en vender un millón de unidades.</vic20>
+	<videopac>Magnavox Odyssey 2, también conocida como Philips Odyssey 2, es una consola de videojuegos doméstica de segunda generación que se lanzó en 1978. Se vendió en Europa como Philips Videopac G7000, en Brasil como Philips Odyssey y en Japón como Odyssey2.</videopac>
+   	<virtualboy>Virtual Boy es una consola de videojuegos portátil de sobremesa de 32 bits creada por Nintendo. Se comercializó como la primera consola capaz de mostrar gráficos estereoscópicos en "3D". Las ventas no alcanzaron los objetivos y Nintendo dejó de distribuir y desarrollar juegos en 1996.</virtualboy>
+   	<wonderswan>WonderSwan es una consola de juegos portátil lanzada en Japón por Bandai. Alimentado por una unidad de procesamiento central de 16 bits, aprovechó un precio bajo y una batería de larga duración en comparación con su competencia, incluida la Game Boy de Nintendo</wonderswan>
+   	<wsc>WonderSwan es una consola de juegos portátil lanzada en Japón por Bandai. Alimentado por una unidad central de procesamiento de 16 bits, aprovechó un precio bajo y una batería de larga duración en comparación con su competencia, incluida la Game Boy de Nintendo</wsc>
+   	<x68000>El X68000 es una serie de computadoras japonesas de 32 bits creadas por Sharp. Fue el primer sistema doméstico en ofrecer gráficos con verdadera calidad arcade, y también sirvió como máquina de desarrollo para el sistema arcade Capcom CPS.</x68000>
+   	<zx81>La ZX81 es una computadora doméstica que fue producida por Sinclair Research y fabricada en Dundee, Escocia, por Timex Corporation. Fue lanzado en el Reino Unido en marzo de 1981 como el sucesor del ZX80 de Sinclair y diseñado para ser una introducción de bajo costo a la informática doméstica para el público en general.</zx81>
+   	<spectrum>El ZX Spectrum es un ordenador personal doméstico de 8 bits lanzado en el Reino Unido en 1982 por Sinclair Research. Conocido durante el desarrollo como ZX81 Color y ZX82, fue lanzado como ZX Spectrum por Sinclair para resaltar la pantalla a color de la máquina</spectrum>
+	<coleco>ColecoVision es la consola de videojuegos doméstica de segunda generación de Coleco Industries que se lanzó en agosto de 1982.</coleco>
+	<cps1>El Capcom Play System 1 es una placa del sistema arcade desarrollada por Capcom que ejecutaba software de juegos almacenado en cartuchos ROM extraíbles. Se lanzaron más de dos docenas de títulos de arcade para CPS-1, antes de que Capcom cambiara el desarrollo del juego a su sucesor, el CP System II.</cps1>
+	<cps2>La CPS-2 es una placa de sistema arcade que Capcom utilizó por primera vez en 1993 para Super Street Fighter II. Fue el sucesor de su hardware arcade anterior CP System y Capcom Power System Changer y fue reemplazado por el hardware CP System III en 1996</cps2>
+	<cps3>El CPS-3 es una placa de sistema arcade que Capcom utilizó por primera vez en 1996 con el juego arcade Red Earth. Fue el segundo sucesor del hardware arcade CP System, después del CP System II. Sería la última placa de sistema patentada que produciría Capcom.</cps3>
+	<uzebox>El Uzebox es una consola de juegos de código abierto retro-minimalista de 8 bits. Se basa en un microcontrolador AVR de 8 bits de uso general fabricado por Atmel.</uzebox>
+	<amigacd32>La Amiga CD32 es una consola de videojuegos doméstica de 32 bits desarrollada por Commodore y lanzada en Europa, Australia, Canadá y Brasil. Se anunció por primera vez en el Museo de Ciencias de Londres el 16 de julio de 1993 y se lanzó en septiembre del mismo año.</amigacd32>
+	<atari800>La familia Atari de 8 bits es una serie de computadoras domésticas de 8 bits introducidas por Atari, Inc. en 1979 como Atari 400 y Atari 800 y fabricadas hasta 1992. Todas las máquinas de la familia son técnicamente similares y difieren principalmente en envases.</atari800>
+	<daphne>Daphne es un emulador de juegos de arcade para Windows, Linux y Mac OS X, desarrollado por Matt Ownby. Ejecuta juegos para varios sistemas basados ​​en LaserDisc, incluida la mayoría de los juegos de hardware Sega LaserDisc.</daphne>
+	<fbneo>Final Burn Neo es un emulador para juegos arcade y consolas selectas. Está basado en los emuladores FinalBurn y versiones antiguas de MAME.</fbneo>
+	<gc>La GameCube es la entrada de Nintendo en la sexta generación de consolas de videojuegos y es la sucesora de su consola anterior, la Nintendo 64. La GameCube compitió con la PlayStation 2 de Sony y la Xbox de Microsoft.</gc>
+	<mplayer></mplayer>
+	<msx2>MSX es una arquitectura de computadora doméstica estandarizada, anunciada por Microsoft y ASCII el 16 de junio de 1983. Inicialmente fue concebida por Microsoft como un producto para el sector oriental y comercializada conjuntamente por Kazuhiko Nishi, entonces vicepresidente de Microsoft y director de ASCII Corporation.</msx2>
+	<pc></pc>
+	<pce-cd>TurboGrafx-16, totalmente titulado como TurboGrafx-16 Entertainment SuperSystem y conocido en Japón como PC Engine, es una consola de videojuegos desarrollada por Hudson Soft y NEC, lanzada en Japón el 30 de octubre de 1987 y en el norte América el 29 de agosto de 1989.</pce-cd>
+	<pokemini>Pokémon Mini es una consola de juegos portátil que fue diseñada y fabricada por Nintendo y que tiene como tema la franquicia de medios Pokémon. Es el sistema de juego más pequeño con cartuchos intercambiables jamás producido por Nintendo.</pokemini>
+	<pspminis>PSP Minis son juegos digitales de 100 MB o más pequeños que se lanzaron junto con PSPgo. En total, se lanzaron 290 juegos de Mini.</pspminis>
+	<sc-3000>El SC-3000 es el primer y único ordenador diseñado y fabricado por Sega. Fue lanzado por primera vez en julio de 1983 en Japón y sirve como computadora doméstica equivalente a la consola de videojuegos basada en cartuchos SG-1000.</sc-3000>
+	<snesmsu1>El MSU-1 es un chip complementario de cartucho que permite muchas mejoras a los juegos SNES, incluidos, entre otros, video de movimiento completo y sonido con calidad de CD al agregar hasta 4 GB de almacenamiento para contenido adicional.</snesmsu1>
+	<wii>La Wii es una consola de videojuegos doméstica lanzada por Nintendo en 2006. Como consola de séptima generación, la Wii compitió con la Xbox 360 de Microsoft y la PlayStation 3 de Sony. Nintendo declaró que su consola apunta a un grupo demográfico más amplio que el de las otras dos .</wii>
+    <pico8>El Pico-8 (estilizado como PICO-8) es una máquina virtual y un motor de juego creado por Lexaloffle Games. Está diseñado para imitar una consola de videojuegos de fantasía, emulando las duras limitaciones de hardware de las consolas de videojuegos de la década de 1980.</pico8>
+<!-- colecciones -->
+	<artoffighting>Art of Fighting es una trilogía de videojuegos de lucha que se lanzó para la plataforma Neo Geo a principios de la década de 1990. Fue la segunda franquicia de juegos de lucha creada por SNK, después de la serie Fatal Fury y está ambientada en el mismo universo ficticio que una precuela de la serie Fatal Fury.</artoffighting>
+	<batman>Batman ha aparecido en más de 50 videojuegos que abarcan computadoras, teléfonos móviles y sistemas de consola desde la década de 1980</batman>
+	<capcom>Capcom es un desarrollador y editor de videojuegos japonés. Ha creado una serie de franquicias de juegos multimillonarios, que incluyen Street Fighter, Mega Man, Darkstalkers, Resident Evil, en Ghosts 'n Goblins.</capcom>
+	<crashbandicoot>Crash Bandicoot es una franquicia de videojuegos de plataformas. Desarrollada originalmente por Naughty Dog como exclusiva para la consola PlayStation de Sony, la serie ha visto numerosas entregas creadas por numerosos desarrolladores y publicadas en múltiples plataformas. Actualmente, la franquicia es propiedad de Activision Blizzard y está publicada por ella.</crashbandicoot>
+	<dbz>La serie de videojuegos Dragon Ball se basa en la serie de manga y anime del mismo nombre creada por Akira Toriyama. La serie sigue las aventuras de Goku mientras entrena en artes marciales y explora el mundo en busca de los siete orbes que conceden deseos conocidos como Dragon Balls. Los juegos son de varios géneros, principalmente juegos de rol, plataformas y lucha, aunque estos últimos se han convertido en los más destacados.</dbz>
+	<donkeykong>Donkey Kong es una serie de videojuegos que presenta las aventuras de un gorila llamado Donkey Kong, concebido por Shigeru Miyamoto en 1981. La franquicia consta principalmente de dos géneros de juegos, pero también incluye títulos derivados adicionales de varios géneros.</donkeykong>
+	<cavestory>Cave Story es un juego de plataformas y aventuras de Metroidvania de 2004 para Microsoft Windows. Fue desarrollado durante cinco años por el desarrollador japonés Daisuke "Pixel" Amaya en su tiempo libre. Cave Story presenta mecánicas de plataforma 2D y recuerda a los juegos que Amaya jugó en su juventud, como Metroid y Castlevania</cavestory>
+	<castlevania>Castlevania es una serie de videojuegos de terror gótico de acción y aventura sobre cazadores de vampiros creada y desarrollada por Konami. Se ha lanzado en varias plataformas, desde los primeros sistemas hasta las consolas modernas, así como en dispositivos portátiles como teléfonos móviles.</castlevania>
+	<doom>Doom es una franquicia de videojuegos que se lanzó por primera vez en 1993. La serie se centra en las hazañas de un marine espacial sin nombre que opera bajo los auspicios de Union Aerospace Corporation (UAC), que lucha contra hordas de demonios y muertos vivientes.</doom>
+	<doubledragon>Double Dragon es un videojuego beat 'em up de 1987 desarrollado por Technōs Japan y distribuido en Norteamérica y Europa por Taito. El juego es un sucesor espiritual y tecnológico del anterior beat 'em up de Technos, Nekketsu Kōha Kunio-kun (lanzado fuera de Japón por Taito como Renegade)</doubledragon>
+	<fatalfury>Fatal Fury es una serie de juegos de lucha desarrollada por SNK para el sistema Neo Geo. Fatal Fury y su serie hermana, Art of Fighting, están ambientadas en el mismo universo ficticio. Art of Fighting tuvo lugar varios años antes del primer Fatal Fury.</fatalfury>
+	<finalfantasy>Final Fantasy es una antología japonesa de fantasía. La franquicia se centra en una serie de videojuegos de rol de fantasía y ciencia. El primer juego de la serie se lanzó en 1987, y desde entonces se lanzaron otras 15 entradas numeradas principales.</finalfantasy>
+	<finalfight>Final Fight es una serie de videojuegos beat 'em up de Capcom, que comenzó con el lanzamiento de arcade de Final Fight en 1989. Ambientado en la ciudad ficticia de Metro,</finalfight>
+	<gta>Grand Theft Auto es una serie de acción y aventuras lanzada por primera vez en Playstation en 1997. La mayoría de los juegos de la serie se desarrollan en escenarios ficticios inspirados en ciudades, normalmente Liberty City como Nueva York, Vice City como Miami o el San Andreas como los estados de California y Nevada</gta>
+	<kof>The King of Fighters es una serie de juegos de lucha de SNK que comenzó con el lanzamiento de The King of Fighters '94 en 1994. La serie se desarrolló originalmente para el hardware arcade Neo Geo MVS de SNK.</kof>
+	<konami>Konami es un editor de videojuegos cuyos títulos principales incluyen la serie de acción Castlevania, la serie de terror de supervivencia Silent Hill, la serie de disparos de acción Contra, la serie de aventuras de plataformas Ganbare Goemon, la serie de acción sigilosa Metal Gear.</konami>
+	<mario>Mario es un personaje ficticio de la franquicia de videojuegos de Mario, propiedad de Nintendo y creado por el diseñador de videojuegos japonés Shigeru Miyamoto. Actuando como la mascota de la compañía, además de ser el protagonista epónimo de la serie, Mario ha aparecido en más de 200 videojuegos desde su creación.</mario>
+	<megaman>Mega Man, conocido como Rockman en Japón, es una franquicia de videojuegos de ciencia ficción creada por Capcom, protagonizada por una serie de personajes robot, cada uno conocido por el apodo de "Mega Man". Mega Man, lanzado para Nintendo Entertainment System en 1987, fue el primero de una serie que se expandió a más de 50 juegos en múltiples sistemas.</megaman>
+	<metalslug>Metal Slug es una serie de videojuegos de correr y disparar creados originalmente por Nazca Corporation antes de fusionarse con SNK en 1996 después de la finalización del primer juego de la serie. Los juegos derivados incluyen un juego de disparos en tercera persona para conmemorar el décimo aniversario de la serie y un juego de defensa de torres para la plataforma móvil.</metalslug>
+	<metroid>Metroid es una franquicia de juegos de acción y ciencia ficción creada por Nintendo. Metroid sigue al cazarrecompensas espacial Samus Aran, quien protege la galaxia de los Piratas Espaciales y sus intentos de aprovechar el poder de las criaturas parasitarias de Metroid.</metroid>
+	<tekken>Tekken es una franquicia de medios japonesa centrada en una serie de videojuegos de lucha y juegos de arcade desarrollados y publicados por Bandai Namco Entertainment. Los juegos principales de la serie siguen los eventos del Torneo King of Iron Fist, donde los jugadores controlan una gran cantidad de personajes para ganar el torneo y hacerse con el control de la empresa.</tekken>
+	<midway>Midway era un desarrollador y editor de videojuegos estadounidense. Las franquicias de Midway incluían Mortal Kombat, Rampage, Spy Hunter, NBA Jam, Cruis'n y NFL Blitz. Midway doblado en 2009</midway>
+	<mortalkombat>Mortal Kombat es una serie de juegos lanzados por primera vez en 1992. El juego original ha generado muchas secuelas y spin-offs que consisten en varios juegos de acción y aventuras, así como una serie de cómics y un juego de cartas</mortalkombat>
+	<namco>Namco fue un desarrollador y editor japonés de videojuegos de arcade y consolas domésticas, originalmente con sede en Ōta, Tokio. En 2005, después de 50 años, se fusionaron en Bandai.</namco>
+	<residentevil>Resident Evil es una serie de juegos creados por Capcom. La franquicia comenzó con el juego Resident Evil, lanzado en 1996 para PlayStation, y se le atribuye la definición del género de terror de supervivencia y el regreso de los zombis a la cultura popular.</residentevil>
+	<silenthill>Silent Hill es una franquicia de medios de terror centrada en una serie de videojuegos de survival horror, creada por Keiichiro Toyama, desarrollada y publicada por Konami.</silenthill>
+	<sonic>Sonic es una franquicia creada y propiedad de Sega. La franquicia sigue a Sonic, un erizo azul antropomórfico que lucha contra el malvado Doctor Eggman, un científico loco.</sonic>
+	<streetfighter>Street Fighter es una franquicia desarrollada y publicada por Capcom. El primer juego de la serie se lanzó en 1987, seguido de otros cinco juegos de la serie principal, varios spin-offs y crossovers y numerosas apariciones en varios otros medios.</streetfighter>
+	<tombraider>Tomb Raider es una franquicia de medios que hizo su debut en 1996. Desde el lanzamiento del Tomb Raider original, la serie se convirtió en una franquicia del mismo nombre, y Lara se convirtió en un ícono importante de la industria de los videojuegos. .</tombraider>
+	<zelda>The Legend of Zelda es una franquicia de videojuegos de acción y aventuras de alta fantasía creada por los diseñadores de juegos japoneses Shigeru Miyamoto y Takashi Tezuka. Es principalmente desarrollado y publicado por Nintendo.</zelda>
+	<irem>Irem Software Engineering es un desarrollador y editor de consolas de videojuegos japonés, y anteriormente también fue desarrollador y fabricante de juegos de arcade. La empresa tiene su sede en Chiyoda, Tokio.</irem>
+	<metalgear>Metal Gear es una serie de videojuegos sigilosos de acción y aventuras creados por Hideo Kojima y desarrollados y publicados por Konami. El primer juego, Metal Gear, fue lanzado en 1987 para ordenadores domésticos MSX. Se han lanzado varias secuelas para múltiples consolas, que han ampliado la trama del juego original.</metalgear>
+	<atari>La Atari, Inc. original, fundada en Sunnyvale, California en 1972 por Nolan Bushnell y Ted Dabney, fue pionera en los juegos de arcade, las consolas de videojuegos y las computadoras domésticas. Los productos de la compañía, como Pong y Atari 2600, ayudaron a definir la industria del entretenimiento electrónico desde la década de 1970 hasta mediados de la de 1980.</atari>
+	<dataeast>Data East Corporation (デ ー タ イ ー ス ト 株式会社, Dēta Īsuto kabushiki gaisha), también abreviado como DECO, era una empresa japonesa de videojuegos e ingeniería electrónica. La empresa estuvo en funcionamiento desde 1976 hasta 2003 y lanzó 150 títulos de videojuegos.</dataeast>
+	<kaneko>Kaneko Co. Ltd. (カ ネ コ 株式会社), fue un editor de videojuegos japonés fundado en Suginami, Tokio, Japón por Hiroshi Kaneko. Publicó una serie de juegos tanto con su marca como con otras compañías, como Air Buster, Nexzr, Shogun Warriors, DJ Boy, Guts'n y la serie Gals Panic.</kaneko>
+	<nintendo>Nintendo ha producido algunas de las consolas más exitosas en la industria de los videojuegos, como Game Boy, Super Nintendo Entertainment System, Nintendo DS, Wii y Nintendo Switch.</nintendo>
+	<sega>Sega es un desarrollador y editor de videojuegos multinacional japonés con sede en Shinagawa, Tokio. Sega ha producido varias franquicias de juegos con ventas multimillonarias, incluidas Sonic the Hedgehog, Total War y Yakuza, y es el productor de juegos de arcade más prolífico del mundo.</sega>
+	<snk>SNK Corporation (株式会社 SNK, Kabushiki-gaisha Esu Enu Kē) es una empresa japonesa de hardware y software de videojuegos. SNK es conocido por la creación de la familia Neo Geo de consolas de juegos portátiles, domésticas y recreativas en 1990.</snk>
+	<taito>Taito es una empresa japonesa que se especializa en videojuegos, juguetes, gabinetes de arcade y centros de juegos, con sede en Shinjuku, Tokio. La empresa fue fundada por Michael Kogan en 1953 como Taito Trading Company, que importaba vodka, máquinas expendedoras y máquinas de discos en Japón. Comenzaría la producción de videojuegos en 1973.</taito>
+	<toaplan>Toaplan fue un desarrollador de videojuegos japonés responsable de la creación de una amplia gama de tiradores de desplazamiento y otros juegos de arcade. Su primer juego de disparos, Tiger-Heli en las salas de juegos, fue un éxito y ayudó a establecer a Toaplan como un productor líder de juegos de disparos durante las décadas de 1980 y 1990.</toaplan>
+	<twoplayer>"Si Pac-Man nos hubiera afectado cuando éramos niños, todos estaríamos corriendo en cuartos oscuros, masticando pastillas y escuchando música electrónica repetitiva". - Marcus Brigstocke</twoplayer>
+	<fourplayer>“Hay una diferencia entre jugar y jugar. El primero es un acto de alegría, el segundo, un acto ". - Vera Nazarian</fourplayer>
+	<setupscripts>"Un juego finito se juega con el propósito de ganar, un juego infinito con el propósito de continuar el juego". - James P. Carse</setupscripts>
+	<favorites>“La gente decía que los videojuegos son malos porque te adormecen hasta la muerte. El verdadero problema con los juegos es que se supone que el jugador debe probar todo. Si había una cueva, entra. Si había un extraño misterioso, habla con él. Pero en los juegos tienes un millón de vidas, en la vida, solo una ”- Holly Black</favorites>
+	<notplayed>"Un juego retrasado eventualmente es bueno, un mal juego es malo para siempre". - Shigeru Miyamoto</notplayed>
+	<lastplayed>“Lo peor que puede decir un niño sobre la tarea es que es demasiado difícil. Lo peor que puede decir un niño sobre un juego es que es demasiado fácil ". - Henry Jenkins</lastplayed>
+	<allgames>"¡No dejamos de jugar porque envejecemos, envejecemos porque dejamos de jugar!" - Benjamin Franklin</allgames>
+	<quake>Quake es una serie de videojuegos de disparos en primera persona, desarrollados por id Software y, a partir de 2010, publicados por Bethesda Softworks. La serie está compuesta por el juego homónimo de 1996 y sus secuelas independientes y no lineales que varían en el escenario y la trama.</quake>
+	<cheevos>Retroachievements.org es un servicio que proporciona un mecanismo de desbloqueo de trofeos / logros similar a las consolas modernas, para juegos retro. Los sistemas compatibles incluyen Sega Megadrive, Super Nintendo, Nintendo 64, Playstation y Neo-Geo.</cheevos>
+	<atlus>Atlus es una empresa japonesa de desarrollo, publicación y distribución de videojuegos con sede en Tokio. Una subsidiaria de Sega, la compañía es conocida por sus series Megami Tensei, Persona, Etrian Odyssey y Trauma Center, entre otras. Su mascota corporativa es Jack Frost, un personaje parecido a un muñeco de nieve de su serie Shin Megami Tensei.</atlus>
+	<activision>Activision se formó en octubre de 1979 en Sunnyvale, California, por antiguos desarrolladores de juegos de Atari, molestos por la forma en que fueron tratados en Atari, para desarrollar sus propios juegos para la popular consola de videojuegos doméstica Atari 2600. Activision fue el primer desarrollador de videojuegos de consola independiente de terceros.</activision>
+	<codemasters>The Codemasters Software Company es un desarrollador y editor de videojuegos británico con sede en Southam, Inglaterra. Fundado por los hermanos Richard y David Darling en octubre de 1986, Codemasters es uno de los estudios de juegos británicos más antiguos, y en 2005 fue nombrado el mejor desarrollador de videojuegos independiente por la revista Develop.</codemasters>
+	<acclaim>Acclaim Entertainment, Inc. era un editor de videojuegos estadounidense con sede en Glen Cove, Nueva York. Formado por ex empleados de Activision llamados Acclaim para que estuviera por encima de Activision y Accolade (también formado por ex empleados de Activision) en listas alfabéticas.</acclaim>
+	<ocean>Ocean Software Ltd fue una empresa británica de desarrollo de software, que se convirtió en uno de los mayores desarrolladores y editores de videojuegos europeos de los años 80 y 90. Ocean fue la primera empresa de juegos en obtener licencias de películas que incluían Rambo, Short Circuit y Cobra</ocean>
+	<rockstar>Rockstar Games, Inc. es un editor de videojuegos estadounidense con sede en la ciudad de Nueva York. La compañía se estableció en diciembre de 1998 como una subsidiaria de Take-Two Interactive, utilizando los activos que Take-Two había adquirido previamente de BMG Interactive, incluido DMA Design, creadores de Grand Theft Auto.</rockstar>
+	<ultimate>Ashby Computers and Graphics Limited fue un desarrollador y editor de videojuegos británico, fundado en 1982 por los ex desarrolladores de juegos de arcade Tim y Chris Stamper. Ultimate lanzó una serie de juegos exitosos para las computadoras ZX Spectrum, Amstrad CPC, BBC Micro, MSX y Commodore 64 desde 1983 hasta su cierre en 1988.</ultimate>
+	<ea>Electronic Arts Inc. (EA) es una empresa estadounidense de videojuegos con sede en Redwood City, California. Es la segunda compañía de juegos más grande de América y Europa por ingresos y capitalización de mercado después de Activision Blizzard y por delante de Take-Two Interactive, CD Projekt y Ubisoft a partir de mayo de 2020.</ea>
+	<easports>EA Sports es una división de Electronic Arts que desarrolla y publica videojuegos deportivos. Anteriormente un truco de marketing de EA, en el que intentaron imitar las redes deportivas de la vida real llamándose a sí mismos "EA Sports Network", pronto creció hasta convertirse en una sub-etiqueta por sí misma, lanzando series de juegos como FIFA y Madden NFL.</easports>
+	<eidos>Eidos Interactive fue un editor de software británico de 1995 a 2005 más famoso por la serie de juegos Tomb Raider junto con la serie Championship Manager. Tras una serie de adquisiciones, ahora es propiedad del grupo japonés Square Enix.</eidos>
+	<gt>GT Interactive Software Corporation (GTI) se fundó en febrero de 1993 como una división de GoodTimes Home Video, un distribuidor de cintas de vídeo propiedad de la familia Cayre, con Ron Chaimowitz como cofundador y presidente. Después de múltiples fusiones y adquisiciones, la empresa es actualmente parte de Atari.inc</gt>
+	<infogrames>Infogrames fue un desarrollador y editor de software de 1983 a 2009 más famoso por la serie Alone In The Dark. La compañía ahora es parte y se conoce como Atari.inc</infogrames>
+	<lucasarts>LucasArts Entertainment Company, que opera como Lucasfilm Games, es un licenciante estadounidense. Hasta 2013, también fue desarrollador y editor de videojuegos. LucasArts es mejor conocido por sus juegos de aventuras gráficas, así como por los juegos basados ​​en las franquicias de Star Wars e Indiana Jones.</lucasarts>
+    <simpsons>Los Simpson es una representación satírica de la vida estadounidense, personificada por la familia Simpson, que está formada por Homer, Marge, Bart, Lisa y Maggie. El programa de televisión original está ambientado en la ciudad ficticia de Springfield y parodia la cultura y la sociedad estadounidenses, la televisión y la condición humana.</simpsons>
+    <tmnt>Las Tortugas Ninja Adolescentes Mutantes son cuatro tortugas superhéroes. Nombrados en honor a artistas del Renacimiento italiano, fueron entrenados en el arte marcial japonés del ninjutsu. Desde su hogar en las alcantarillas de la ciudad de Nueva York, luchan contra varios enemigos mientras intentan permanecer ocultos de la sociedad.</tmnt>
+    <battletoads>Battletoads es una franquicia de videojuegos de Rare que comenzó con el juego beat 'em up original Battletoads en 1991. Protagonizada por tres sapos antropomórficos que llevan el nombre de afecciones de la piel, Rash, Zitz y Pimple, la serie fue creada para rivalizar con las Tortugas Ninja. serie de juegos.</battletoads>
+    <pokemon>Pokémon es una serie de videojuegos publicados por Nintendo y The Pokémon Company. Creado por Satoshi Tajiri, los primeros juegos, Pocket Monsters Red and Green, lanzados en 1996 en Japón para Game Boy, y la serie principal de videojuegos de rol (RPG), denominada "serie principal" por sus desarrolladores, han continuado en cada generación de dispositivos portátiles de Nintendo.</pokemon>
+    <lego>Desde 1995, se han lanzado 85 videojuegos comerciales basados en Lego, el sistema de construcción producido por The Lego Group. Los géneros han incluido juegos de aventuras, juegos de mesa y juegos de carreras.</lego>
+    <tic80>TIC-80 es una computadora de fantasía para crear, jugar y compartir pequeños juegos. Los juegos están restringidos a pantallas de 240x136 píxeles, paleta de 16 colores, 256 sprites de colores de 8x8, sonido de 4 canales, etc.</tic80>
+    <samsho>Samurai Shodown, conocido en Japón como Samurai Spirits, es una serie de juegos de lucha de SNK. Ambientado en el Japón del siglo XVIII, los juegos también incluyen personajes extranjeros y monstruos de ficción.</samsho>
+    <solarus>Solarus es un motor de juego ligero, gratuito y de código abierto para juegos de rol de acción. Construido en C ++, ejecuta juegos creados en Lua.</solarus>
+	<ddr>Dance Dance Revolution (también conocido como Dancing Stage en los primeros juegos europeos), es una serie de videojuegos musicales producida por Konami. Introducido en Japón en 1998, los jugadores se paran en una "plataforma de baile" y golpean flechas de colores al ritmo de las señales musicales y visuales.</ddr>
+	<tux>SuperTux, SuperTux Kart y SuperTux Party son juegos de código abierto inspirados en los juegos de Super Mario. Desarrollados desde mediados de los 90, cuentan con una amplia gama de mascotas de código abierto como Tux, Mozilla Thunderbird y Pidgin.</tux>
+	<subset.ratio>Relación de pantalla</subset.ratio>
+	<d1970s>La década de 1970 vio el comienzo de la edad de oro de los juegos de arcade. Las máquinas recreativas que funcionan con monedas se hicieron populares con clásicos como Pac-Man, Galaxians y Space Invaders. También lo es la llegada de las primeras consolas domésticas como la Atari 2600.</d1970s>
+	<d1980s>La década de 1980 vio el amanecer de los sistemas de juegos domésticos asequibles con computadoras hogareñas de la talla de Sinclair y Commadore y los primeros lanzamientos de consolas a gran escala de los pesos pesados ​​Sega y Nintendo.</d1980s>
+	<d1990s>La década de 1990 vio el resurgimiento de los arcade cuando se lanzaron juegos de lucha de gran impacto como Streetfighter, Tekken y Mortal Kombat. Para el mercado doméstico, se lanzaron consolas de quinta generación como Sony Playstation, Sega Saturn y Nintendo 64.</d1990s>
+	<easyrpg>Easy RPG es un intérprete y editor de juegos de rol de código abierto y gratuito que te permite jugar juegos compatibles con RPG Maker 2000 y 2003.</easyrpg>	
+	<panlog>Logotipos del panel</panlog>
+	<default>Predeterminado</default>
+	<panel>Panel</panel>
+	<smallpanel>Panel pequeño</smallpanel>
+	<panelbox>Panel con Boxart</panelbox>
+<ecwolf>ECWolf es un puerto de origen avanzado para Wolfenstein 3D, Spear of Destiny y Super 3D Noah's Ark basado en el código base Wolf4SDL.</ecwolf>
+	</variables>
+</theme>

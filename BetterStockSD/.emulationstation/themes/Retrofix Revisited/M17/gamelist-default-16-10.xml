@@ -1,0 +1,21 @@
+<theme>
+   <formatVersion>6</formatVersion>
+
+   <view name="detailed">
+      <image name="md_image">
+         <origin>0.5 0.5</origin>
+         <pos>0.661458333333333 0.333333333333333</pos><!-- 1270 400 -->
+         <maxSize>0.578125 0.533333333333333</maxSize><!-- 1110 640 -->
+      </image>
+   </view>
+
+   <view name="video">
+      <video name="md_video">
+         <origin>0.5 0.5</origin>
+         <pos>0.661458333333333 0.333333333333333</pos><!-- 1270 400 -->
+         <maxSize>0.578125 0.533333333333333</maxSize><!-- 1110 640 -->
+         <zIndex>110</zIndex>
+      </video>
+   </view>
+
+</theme>

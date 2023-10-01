@@ -1,0 +1,345 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./Cannonball.sh</path>
+		<name>Cannonball</name>
+		<desc>This is an arcade-perfect port of SEGA's seminal arcade racer. Features include: Pixel-perfect 240p video. 60 FPS gameplay. Continuous mode (play all 15 tracks in one go).</desc>
+		<image>./images/screenshots/cannonball-screenshot.png</image>
+		<thumbnail>./images/icons/cannonball-icon.png</thumbnail>
+		<marquee>./images/logos/cannonball-logo.png</marquee>
+		<video>./videos/cannonball.mp4</video>
+		<rating>0.8</rating>
+		<releasedate>20140101T000000</releasedate>
+		<developer>Chris White, Yu Suzuki</developer>
+		<publisher>non-commercial</publisher>
+	</game>
+	<game>
+		<path>./Cave Story.sh</path>
+		<name>Cave Story</name>
+		<desc>A platform-adventure video game released in 2004 for Windows PCs. It was developed over five years by Japanese developer Daisuke "Pixel" Amaya in his free time. Cave Story features 2D platform mechanics.</desc>
+		<image>./images/screenshots/cave_story-screenshot.png</image>
+		<thumbnail>./images/icons/cave_story-icon.png</thumbnail>
+		<marquee>./images/logos/cave_story-logo.png</marquee>
+		<video>./videos/cave_story.mp4</video>
+		<rating>0.9</rating>
+		<releasedate>20041220T000000</releasedate>
+		<developer>Studio Pixel</developer>
+		<publisher>GPLv3</publisher>
+	</game>
+	<game>
+		<path>./Commander Keen.sh</path>
+		<name>Commander Keen</name>
+		<desc>Commander Genius is a software piece that interprets the Commander Keen Invasion of the Vorticons and Galaxy series. As fans and developers we try to implement new features, improve the gameplay and give players an experience that feels like playing the original game but a bit more refreshing.</desc>
+		<image>./images/screenshots/commander_keen-screenshot.png</image>
+		<thumbnail>./images/icons/commander_keen-icon.png</thumbnail>
+		<marquee>./images/logos/commander_keen-logo.png</marquee>
+		<video>./videos/commander_keen.mp4</video>
+		<rating>1.0</rating>
+		<releasedate>20170326T000000</releasedate>
+		<developer>Commander Genius team</developer>
+		<publisher>non-commercial</publisher>
+	</game>
+	<game>
+		<path>./Diablo.sh</path>
+		<name>Diablo</name>
+		<desc>Diablo build for modern operating systems - Diablo is an action role-playing hack and slash video game developed by Blizzard North and released by Blizzard Entertainment in early January 1997.</desc>
+		<image>./images/screenshots/diablo-screenshot.png</image>
+		<thumbnail>./images/icons/diablo-icon.png</thumbnail>
+		<marquee>./images/logos/diablo-logo.png</marquee>
+		<video>./videos/diablo.mp4</video>
+		<rating>1.0</rating>
+		<releasedate>19970101T000000</releasedate>
+		<developer>DevilutionX - Blizzard</developer>
+		<publisher>Public Domain</publisher>
+	</game>
+	<game>
+		<path>./Dinothawr.sh</path>
+		<name>Dinothawr</name>
+		<desc>Dinothawr is a block pushing puzzle game on slippery surfaces. Our hero is a dinosaur whose friends are trapped in ice. Through puzzles it is your task to free the dinos from their ice prison.</desc>
+		<image>./images/screenshots/dinothawr-screenshot.png</image>
+		<thumbnail>./images/icons/dinothawr-icon.png</thumbnail>
+		<marquee>./images/logos/dinothawr-logo.png</marquee>
+		<video>./videos/dinothawr.mp4</video>
+		<rating>0.8</rating>
+		<releasedate>20130220T000000</releasedate>
+		<developer>Themaister, Agnes Heyer</developer>
+		<publisher>non-commercial</publisher>
+	</game>
+	<game>
+		<path>./Doom.sh</path>
+		<name>Doom</name>
+		<desc>Players assume the role of a space marine fighting his way through hordes of invading demons through the 9 levels of Hell.</desc>
+		<image>./images/screenshots/doom-screenshot.png</image>
+		<thumbnail>./images/icons/doom-icon.png</thumbnail>
+		<marquee>./images/logos/doom-logo.png</marquee>
+		<video>./videos/doom.mp4</video>
+		<rating>0.8</rating>
+		<releasedate>19931210T000000</releasedate>
+		<developer>id Software</developer>
+		<publisher>GT Interactive</publisher>
+	</game>
+	<game>
+		<path>./Doom 2.sh</path>
+		<name>Doom 2</name>
+		<desc>A first-person shooter video game, the second title of id Software's Doom franchise. It was originally released for MS-DOS computers in 1994 and Macintosh computers in 1995.</desc>
+		<image>./images/screenshots/doom_2-screenshot.png</image>
+		<thumbnail>./images/icons/doom_2-icon.png</thumbnail>
+		<marquee>./images/logos/doom_2-logo.png</marquee>
+		<video>./videos/doom_2.mp4</video>
+		<rating>0.9</rating>
+		<releasedate>19941010T000000</releasedate>
+		<developer>id Software</developer>
+		<publisher>GT Interactive</publisher>
+	</game>
+	<game>
+		<path>./Mr. Boom.sh</path>
+		<name>Mr. Boom</name>
+		<desc>Mr. Boom is an up to 8 player Bomberman clone. The goal of the game is to bomb away your enemies and other players.</desc>
+		<image>./images/screenshots/mr__boom-screenshot.png</image>
+		<thumbnail>./images/icons/mr__boom-icon.png</thumbnail>
+		<marquee>./images/logos/mr__boom-logo.png</marquee>
+		<video>./videos/mr__boom.mp4</video>
+		<rating>0.8</rating>
+		<releasedate>19990225T000000</releasedate>
+		<developer>Remdy Software</developer>
+		<publisher>non-commercial</publisher>
+	</game>
+	<game>
+		<path>./OpenTyrian.sh</path>
+		<name>OpenTyrian</name>
+		<desc>OpenTyrian is an open-source port of the "cult" arcade-style vertical scrolling shooter called "Tyrian". Original game was developed by World Tree Games Productions and published in 1995 by Epic MegaGames.</desc>
+		<image>./images/screenshots/opentyrian-screenshot.png</image>
+		<thumbnail>./images/icons/opentyrian-icon.png</thumbnail>
+		<marquee>./images/logos/opentyrian-logo.png</marquee>
+		<video>./videos/opentyrian.mp4</video>
+		<rating>1.0</rating>
+		<releasedate>1995</releasedate>
+		<developer>World Tree Games</developer>
+		<publisher>Epic MegaGames</publisher>
+	</game>
+	<game>
+		<path>./OpenJazz.sh</path>
+		<name>OpenJazz</name>
+		<desc>Port Of Jazz Jackrabbit.</desc>
+		<image>./images/screenshots/openjazz-screenshot.png</image>
+		<thumbnail>./images/icons/openjazz-icon.png</thumbnail>
+		<marquee>./images/logos/openjazz-logo.png</marquee>
+		<video>./videos/openjazz.mp4</video>
+		<rating>1.0</rating>
+		<releasedate>20210516T000000</releasedate>
+		<developer>sana2dang, AlisterT</developer>
+		<publisher>non-commercial</publisher>
+	</game>
+	<game>
+		<path>./Quake.sh</path>
+		<name>Quake</name>
+		<desc>Players must find their way through various maze-like, medieval environments while battling a variety of monsters using an array of weaponry.</desc>
+		<image>./images/screenshots/quake-screenshot.png</image>
+		<thumbnail>./images/icons/quake-icon.png</thumbnail>
+		<marquee>./images/logos/quake-logo.png</marquee>
+		<video>./videos/quake.mp4</video>
+		<rating>0.8</rating>
+		<releasedate>19960622T000000</releasedate>
+		<developer>id Software</developer>
+		<publisher>GT Interactive</publisher>
+	</game>
+	<game>
+		<path>./Flashback.sh</path>
+		<name>Flashback</name>
+		<desc>REminiscence is a game engine recreation of the 1992/1993 action adventure game Flashback. It is the spiritual successor of Another World/Out Of This World and it distinguishes itself with rotoscoped graphics, and polygonal cutscenes.</desc>
+		<image>./images/screenshots/flashback-screenshot.png</image>
+		<thumbnail>./images/icons/flashback-icon.png</thumbnail>
+		<marquee>./images/logos/flashback-logo.png</marquee>
+		<video>./videos/flashback.mp4</video>
+		<rating>0.8</rating>
+		<releasedate>20180114T000000</releasedate>
+		<developer>Gregory Montoir, Stuart Carnie</developer>
+		<publisher>GPLv3</publisher>
+	</game>
+	<game>
+		<path>./Rick Dangerous.sh</path>
+		<name>Rick Dangerous</name>
+		<desc>Way before Lara Croft, back in the 1980's and early 1990's, Rick Dangerous was the Indiana Jones of computer games, running away from rolling rocks, avoiding traps, from South America to a futuristic missile base via Egypt and the Schwarzendumpf castle. Xrick is a clone of Rick Dangerous, known to run on Linux, Windows, BeOs, Amiga, QNX, all sorts of gaming consoles.</desc>
+		<image>./images/screenshots/rick_dangerous-screenshot.png</image>
+		<thumbnail>./images/icons/rick_dangerous-icon.png</thumbnail>
+		<marquee>./images/logos/rick_dangerous-logo.png</marquee>
+		<video>./videos/rick_dangerous.mp4</video>
+		<rating>0.8</rating>
+		<releasedate>20170326T000000</releasedate>
+		<developer>BigOrno</developer>
+		<publisher>non-commercial</publisher>
+	</game>
+	<game>
+		<path>./Prince of Persia.sh</path>
+		<name>Prince of Persia</name>
+		<desc>SDLPoP is an open-source port of Prince of Persia that runs natively on Windows and Linux. It is based on a disassembly of the DOS version.</desc>
+		<image>./images/screenshots/prince_of_persia-screenshot.png</image>
+		<thumbnail>./images/icons/prince_of_persia-icon.png</thumbnail>
+		<marquee>./images/logos/prince_of_persia-logo.png</marquee>
+		<video>./videos/prince_of_persia.mp4</video>
+		<rating>1.0</rating>
+		<releasedate>20110111T000000</releasedate>
+		<developer>Dávid Nagy</developer>
+		<publisher>non-commercial</publisher>
+	</game>
+	<game>
+		<path>./VVVVVV.sh</path>
+		<name>VVVVVV</name>
+		<desc>VVVVVV is a platform game all about exploring one simple mechanical idea - what if you reversed gravity instead of jumping? The game is designed not to artificially gate your progress. In VVVVVV there are no locks, no power-ups, no switches, nothing to stop you progressing except the challenges themselves.</desc>
+		<image>./images/screenshots/vvvvvv-screenshot.png</image>
+		<thumbnail>./images/icons/vvvvvv-icon.png</thumbnail>
+		<marquee>./images/logos/vvvvvv-logo.png</marquee>
+		<video>./videos/vvvvvv.mp4</video>
+		<rating>1.0</rating>
+		<releasedate>20100111T000000</releasedate>
+		<developer>Terry Cavanagh, Simon Roth, Nicalis</developer>
+		<publisher>non-commercial</publisher>
+	</game>
+	<game>
+		<path>./Duke Nukem.sh</path>
+		<name>Duke Nukem</name>
+		<desc>Duke Nukem 3D is a first-person shooter video game developed by 3D Realms. It is a sequel to the platform games Duke Nukem and Duke Nukem II, published by 3D Realms. Duke Nukem 3D features the adventures of the titular Duke Nukem, voiced by Jon St. John, who fights against an alien invasion on Earth.</desc>
+		<image>./images/screenshots/duke_nukem-screenshot.png</image>
+		<thumbnail>./images/icons/duke_nukem-icon.png</thumbnail>
+		<marquee>./images/logos/duke_nukem-logo.png</marquee>
+		<video>./videos/duke_nukem.mp4</video>
+		<rating>1.0</rating>
+		<releasedate>19960129T000000</releasedate>
+		<developer>3D Realms</developer>
+		<publisher>FormGen</publisher>
+	</game>
+	<game>
+		<path>./Hydra Castle Labyrinth.sh</path>
+		<name>Hydra Castle Labyrinth</name>
+		<desc>Hydra Castle Labyrinth (a "metroidvania" kind of game).</desc>
+		<image>./images/screenshots/hydra_castle_labyrinth-screenshot.png</image>
+		<thumbnail>./images/icons/hydra_castle_labyrinth-icon.png</thumbnail>
+		<marquee>./images/logos/hydra_castle_labyrinth-logo.png</marquee>
+		<video>./videos/hydra_castle_labyrinth.mp4</video>
+		<rating>1.0</rating>
+		<releasedate>20110129T000000</releasedate>
+		<developer>ptitSeb</developer>
+		<publisher>Nicalis, Inc.</publisher>
+	</game>
+	<game>
+		<path>./Bermuda Syndrome.sh</path>
+		<name>Bermuda Syndrome</name>
+		<desc>Bermuda Syndrome is a PC game developed by Century Interactive and published by BMG Interactive in 1995. The game is similar in gameplay and appearance to the classic Flashback from 1992. The player controls the main character from a third person sidescrolling perspective..</desc>
+		<image>./images/screenshots/bermuda_syndrome-screenshot.png</image>
+		<thumbnail>./images/icons/bermuda_syndrome-icon.png</thumbnail>
+		<marquee>./images/logos/bermuda_syndrome-logo.png</marquee>
+		<video>./videos/bermuda_syndrome.mp4</video>
+		<rating>1.0</rating>
+		<releasedate>19950129T000000</releasedate>
+		<developer>Century Interactive</developer>
+		<publisher>BMG Interactive</publisher>
+	</game>
+	<game>
+		<path>./RigelEngine.sh</path>
+		<name>RigelEngine</name>
+		<desc>RigelEngine is an open-source recreation of the 2D side-scroller Duke Nukem II, originally released by Apogee in 1993.</desc>
+		<image>./images/screenshots/rigelengine-screenshot.png</image>
+		<thumbnail>./images/icons/rigelengine-icon.png</thumbnail>
+		<marquee>./images/logos/rigelengine-logo.png</marquee>
+		<video>./videos/rigelengine.mp4</video>
+		<rating>1.0</rating>
+		<releasedate>1993</releasedate>
+		<developer>Apogee Software</developer>
+		<publisher>Apogee Software</publisher>
+	</game>
+	<game>
+		<path>./Sonic 2.sh</path>
+		<name>Sonic 2</name>
+		<desc>Sonic the Hedgehog 2 is a 1992 platform game developed and published by Sega for the Sega Genesis. It is the second main entry in the Sonic the Hedgehog series, and introduced Sonic's sidekick, Miles "Tails" Prower, controllable by a second player.</desc>
+		<image>./images/screenshots/sonic_2-screenshot.png</image>
+		<thumbnail>./images/icons/sonic_2-icon.png</thumbnail>
+		<marquee>./images/logos/sonic_2-logo.png</marquee>
+		<video>./videos/sonic_2.mp4</video>
+		<rating>1.0</rating>
+		<releasedate>1992</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+	</game>
+	<game>
+		<path>./Sonic CD.sh</path>
+		<name>Sonic CD</name>
+		<desc>Sonic the Hedgehog CD is a 1993 platform game for the Sega CD. The story follows Sonic the Hedgehog as he attempts to save an extraterrestrial body, Little Planet, from Doctor Robotnik.</desc>
+		<image>./images/screenshots/sonic_cd-screenshot.png</image>
+		<thumbnail>./images/icons/sonic_cd-icon.png</thumbnail>
+		<marquee>./images/logos/sonic_cd-logo.png</marquee>
+		<video>./videos/sonic_cd.mp4</video>
+		<rating>1.0</rating>
+		<releasedate>1993</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+	</game>
+	<game>
+		<path>./SuperTux.sh</path>
+		<name>SuperTux</name>
+		<desc>SuperTux is a free and open-source two-dimensional platform video game published under the GNU General Public License. The game was inspired by Nintendo's Super Mario Bros. series; instead of Mario, the hero in the game is Tux, the official mascot of the Linux kernel.</desc>
+		<image>./images/screenshots/supertux-screenshot.png</image>
+		<thumbnail>./images/icons/supertux-icon.png</thumbnail>
+		<marquee>./images/logos/supertux-logo.png</marquee>
+		<video>./videos/supertux.mp4</video>
+		<rating>1.0</rating>
+		<releasedate>2004</releasedate>
+		<developer>SuperTux Development Team</developer>
+		<publisher>Pelya, SuperTux Development Team</publisher>
+	</game>
+	<game>
+		<path>./SuperTuxKart.sh</path>
+		<name>SuperTuxKart</name>
+		<desc>SuperTuxKart is a free and open-source kart racing game, distributed under the terms of the GNU General Public License, version 3. It features mascots of various open-source projects.</desc>
+		<image>./images/screenshots/supertuxkart-screenshot.png</image>
+		<thumbnail>./images/icons/supertuxkart-icon.png</thumbnail>
+		<marquee>./images/logos/supertuxkart-logo.png</marquee>
+		<video>./videos/supertuxkart.mp4</video>
+		<rating>1.0</rating>
+		<releasedate>2007</releasedate>
+		<developer>SuperTuxKart Team</developer>
+		<publisher>SuperTuxKart Team</publisher>
+	</game>
+	<game>
+		<path>./Supermariowar.sh</path>
+		<name>Supermariowar</name>
+		<desc>A fan-made multiplayer Super Mario Bros. style deathmatch game</desc>
+		<image>./images/screenshots/supermariowar-screenshot.png</image>
+		<thumbnail>./images/icons/supermariowar-icon.png</thumbnail>
+		<marquee>./images/logos/supermariowar-logo.png</marquee>
+		<video>./videos/supermariowar.mp4</video>
+		<rating>0.8</rating>
+		<releasedate>2006</releasedate>
+		<developer>Michael Schaffer, Florian Hufsky, Supermariowar Team</developer>
+		<publisher>Supermariowar Team</publisher>
+	</game>
+	<game>
+		<path>./Sonic 1.sh</path>
+		<name>Sonic 1</name>
+		<desc>Sonic the Hedgehog is a platform game developed by Sonic Team and published by Sega for the Sega Genesis home video game console. It was released in North America in June 1991 and in PAL regions and Japan the following month.</desc>
+		<image>./images/screenshots/sonic_1-screenshot.png</image>
+		<video>./videos/sonic_1.mp4</video>
+		<marquee>./images/logos/sonic_1-logo.png</marquee>
+		<thumbnail>./images/icons/sonic_1-icon.png</thumbnail>
+		<rating>1.0</rating>
+		<releasedate>1991</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<playcount>1</playcount>
+		<lastplayed>20210901T082306</lastplayed>
+	</game>
+	<game>
+		<path>./2048.sh</path>
+		<name>2048</name>
+		<desc>2048 is a single-player sliding block puzzle game designed by Italian web developer Gabriele Cirulli. The game's objective is to slide numbered tiles on a grid to combine them to create a tile with the number 2048. However, one can continue to play the game after reaching the goal, creating tiles with larger numbers.</desc>
+		<image>./images/screenshots/2048-screenshot.png</image>
+		<video>./videos/2048.mp4</video>
+		<marquee>./images/logos/2048-logo.png</marquee>
+		<thumbnail>./images/icons/2048-icon.png</thumbnail>
+		<rating>1.0</rating>
+		<releasedate>20100111T000000</releasedate>
+		<developer>Gabriele Cirulli - Higor Euripedes</developer>
+		<publisher>Public Domain</publisher>
+		<playcount>1</playcount>
+		<lastplayed>20141231T180123</lastplayed>
+	</game>
+</gameList>

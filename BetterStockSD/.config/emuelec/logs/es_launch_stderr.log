@@ -1,0 +1,5 @@
+No ROM file header found.
+"DONKEY KONG COUNTRY" [checksum ok] HiROM, 32Mbits, Type: ROM+RAM+BAT, Mode: 21, TV: NTSC, S-RAM: 2Kb, ROMId: 8X   Company: 01
+Failed to open /storage/roms/snes/Donkey Kong Country (USA).srm: No such file or directory
+Post Color Buffer Success
+xkbcommon: ERROR: failed to add default include path /usr/share/X11/xkb

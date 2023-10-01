@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<filter name="silenthill">
+	<system>psp</system>
+	<system>gba</system>
+	<system>psx</system>
+	<text>SILENT HILL</text>
+</filter>

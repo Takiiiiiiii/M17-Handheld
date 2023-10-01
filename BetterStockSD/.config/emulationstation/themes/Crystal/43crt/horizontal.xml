@@ -1,0 +1,63 @@
+<!-- Horizontal icon menu -->
+
+<theme>
+  <formatVersion>4</formatVersion>
+ 
+   <include>./common.xml</include>
+
+
+  <feature supported="carousel">
+
+  <view name="system">
+
+    <carousel name="systemcarousel">
+     <type>horizontal</type>
+     <pos>0 0</pos>
+      <size>1 1</size>
+      <color>ffffff00</color>
+      <logoScale>1.5</logoScale>
+      <logoSize>0.45 0.45</logoSize>
+      <maxLogoCount>1</maxLogoCount>
+    <logoAlignment>center</logoAlignment>
+      <defaultTransition>instant</defaultTransition>	
+    </carousel>
+   
+   <text name="systemInfo">
+         <pos>0.00 0.738</pos>
+         <backgroundColor>00000000</backgroundColor>
+         <color>${cinfotext}</color>
+          <size>1 0</size>
+         <alignment>center</alignment>
+         <fontPath>./fonts/${font2s}</fontPath>
+         <fontSize>0.10</fontSize>
+   </text>
+	  
+   <helpsystem name="help"> 
+         <pos>0.007 0.965</pos>      
+   </helpsystem>
+
+<image name="background" extra="true">
+         <origin>0 0</origin>
+         <pos>0 0</pos>
+         <size>1 1</size>
+         <path>./assets/filters/${themecolor}/crt-band.svg</path>
+      </image>
+
+	   <text name="logoText">
+         <color>${cgtbgedgeselect}</color>
+        <fontPath>./fonts/${font1s}</fontPath>
+		 <fontSize>0.1</fontSize>
+         <alignment>left</alignment>
+      </text>
+
+		<text name="description" extra="true">
+	<visible>false</visible>
+		</text>
+
+  <text name="shortdescription" extra="true">
+	<visible>false</visible>
+		</text>
+
+	  </view>
+  </feature>  
+</theme>

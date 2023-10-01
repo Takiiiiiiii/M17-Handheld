@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<filter name="genre-puzzles">
+     <genre>PUZZLE</genre>
+     <genre>PUZZLE-GAME</genre>
+     <genre>QUEBRA-CABEÇAS</genre>
+</filter>
+

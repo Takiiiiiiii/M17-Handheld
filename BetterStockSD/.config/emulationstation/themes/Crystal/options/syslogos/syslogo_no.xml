@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+    <formatVersion>4</formatVersion>
+	<view name="basic, detailed, grid">	
+
+      <image name="background" extra="true">
+      </image>	
+	     <image name="system_logo" extra="true">
+        <path>./assets/empty.png</path> 
+      </image>
+    </view>
+</theme>

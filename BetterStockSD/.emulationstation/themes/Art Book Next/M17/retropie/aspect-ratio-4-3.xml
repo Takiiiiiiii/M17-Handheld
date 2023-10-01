@@ -1,0 +1,8 @@
+<theme>
+   <formatVersion>6</formatVersion>
+   <view name="detailed,video">
+      <text name="md_description">
+         <size>0.40 0.25</size>
+      </text>
+   </view>
+</theme>

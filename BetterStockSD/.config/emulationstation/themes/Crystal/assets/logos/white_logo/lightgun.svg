@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="470.78687"
+   height="71.199318"
+   viewBox="0 0 124.56235 18.838153"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="lightgun.svg"
+   inkscape:version="1.0.1 (1.0.1+r73)">
+  <defs
+     id="defs2">
+    <rect
+       x="2.0913119"
+       y="8.7527943"
+       width="127.69708"
+       height="34.515415"
+       id="rect12" />
+    <rect
+       x="2.0913119"
+       y="8.7527943"
+       width="127.69708"
+       height="34.515415"
+       id="rect12-5" />
+    <rect
+       x="2.0913119"
+       y="8.7527943"
+       width="127.69708"
+       height="34.515415"
+       id="rect25" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#8a8a8a"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.92695504"
+     inkscape:cx="319.5662"
+     inkscape:cy="35.726578"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1366"
+     inkscape:window-height="740"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:object-nodes="false"
+     inkscape:snap-intersection-paths="false"
+     inkscape:object-paths="false"
+     inkscape:snap-smooth-nodes="false"
+     inkscape:snap-midpoints="false"
+     inkscape:snap-object-midpoints="false"
+     inkscape:snap-center="false"
+     inkscape:snap-others="false"
+     inkscape:snap-nodes="false">
+    <sodipodi:guide
+       position="34.437566,43.73027"
+       orientation="0,-1"
+       id="guide415" />
+    <sodipodi:guide
+       position="-20.565234,43.730271"
+       orientation="1,0"
+       id="guide417" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-23.25768,-4.1004704)">
+    <g
+       aria-label="lightgun"
+       transform="matrix(1.9616158,0,0,2.966644,19.15814,-47.404271)"
+       id="text10"
+       style="font-style:normal;font-weight:normal;font-size:16.9333px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect12);fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1">
+      <path
+         d="m 5.2667906,21.617292 h 4.233325 v 1.058332 H 2.0917969 v -5.291657 h 3.1749937 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.9333px;font-family:'8-bit Arcade In';-inkscape-font-specification:'8-bit Arcade In';fill:#ffffff"
+         id="path1449" />
+      <path
+         d="m 13.733441,22.675624 h -3.174994 v -5.291657 h 3.174994 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.9333px;font-family:'8-bit Arcade In';-inkscape-font-specification:'8-bit Arcade In';fill:#ffffff"
+         id="path1451" />
+      <path
+         d="m 21.141759,22.675624 h -5.291656 v -1.058332 h -1.058331 v -3.174993 h 1.058331 v -1.058332 h 5.291656 v 1.058332 h -3.174993 v 3.174993 h 2.116662 V 20.558961 H 19.025097 V 19.50063 h 3.174994 v 2.116662 h -1.058332 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.9333px;font-family:'8-bit Arcade In';-inkscape-font-specification:'8-bit Arcade In';fill:#ffffff"
+         id="path1453" />
+      <path
+         d="m 30.666742,22.675624 h -3.174994 v -2.116663 h -1.058331 v 2.116663 h -3.174994 v -5.291657 h 3.174994 v 2.116663 h 1.058331 v -2.116663 h 3.174994 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.9333px;font-family:'8-bit Arcade In';-inkscape-font-specification:'8-bit Arcade In';fill:#ffffff"
+         id="path1455" />
+      <path
+         d="m 38.075058,22.675624 h -5.291656 v -1.058332 h 1.058331 v -3.174993 h -2.116662 v -1.058332 h 7.408319 v 1.058332 h -2.116663 v 3.174993 h 1.058331 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.9333px;font-family:'8-bit Arcade In';-inkscape-font-specification:'8-bit Arcade In';fill:#ffffff"
+         id="path1457" />
+      <path
+         d="m 46.54171,22.675624 h -5.291656 v -1.058332 h -1.058331 v -3.174993 h 1.058331 v -1.058332 h 5.291656 v 1.058332 h -3.174993 v 3.174993 h 2.116662 V 20.558961 H 44.425048 V 19.50063 h 3.174994 v 2.116662 H 46.54171 Z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.9333px;font-family:'8-bit Arcade In';-inkscape-font-specification:'8-bit Arcade In';fill:#ffffff"
+         id="path1459" />
+      <path
+         d="m 55.008358,22.675624 h -5.291656 v -1.058332 h -1.058331 v -4.233325 h 3.174994 v 4.233325 h 1.058331 v -4.233325 h 3.174994 v 4.233325 h -1.058332 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.9333px;font-family:'8-bit Arcade In';-inkscape-font-specification:'8-bit Arcade In';fill:#ffffff"
+         id="path1461" />
+      <path
+         d="m 64.533342,22.675624 h -2.116663 v -1.058332 h -2.116662 v -1.058331 h -1.058332 v 2.116663 h -2.116662 v -5.291657 h 2.116662 v 1.058332 h 2.116663 v 1.058331 h 1.058331 v -2.116663 h 2.116663 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.9333px;font-family:'8-bit Arcade In';-inkscape-font-specification:'8-bit Arcade In';fill:#ffffff"
+         id="path1463" />
+    </g>
+    <g
+       aria-label="lightgun"
+       transform="matrix(1.9616158,0,0,2.966644,19.154378,-47.471571)"
+       id="text10-5"
+       style="font-style:normal;font-weight:normal;font-size:16.9333px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect12-5);fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1">
+      <path
+         d="M 10.558447,23.733955 H 2.0917969 V 22.675624 H 9.5001156 V 21.617292 H 10.558447 Z M 5.2667906,21.617292 v -4.233325 h 1.0583313 v 4.233325 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.9333px;font-family:'8-bit Arcade Out';-inkscape-font-specification:'8-bit Arcade Out';fill:#808080"
+         id="path1466" />
+      <path
+         d="m 14.791772,23.733955 h -4.233325 v -1.058331 h 3.174994 v -5.291657 h 1.058331 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.9333px;font-family:'8-bit Arcade Out';-inkscape-font-specification:'8-bit Arcade Out';fill:#808080"
+         id="path1468" />
+      <path
+         d="m 15.850103,22.675624 h -1.058331 v -1.058332 h 1.058331 v 1.058332 h 5.291656 v -1.058332 h 1.058332 V 19.50063 h -3.174994 v 1.058331 h 1.058331 v 1.058331 h -2.116662 v -3.174993 h 3.174993 v -1.058332 h 1.058332 v 1.058332 h 1.058331 v 4.233325 h -1.058331 v 1.058331 h -6.349988 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.9333px;font-family:'8-bit Arcade Out';-inkscape-font-specification:'8-bit Arcade Out';fill:#808080"
+         id="path1470" />
+      <path
+         d="m 31.725073,23.733955 h -8.46665 v -1.058331 h 3.174994 v -2.116663 h 1.058331 v 2.116663 h 3.174994 v -5.291657 h 1.058331 z M 26.433417,19.50063 v -2.116663 h 1.058331 v 2.116663 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.9333px;font-family:'8-bit Arcade Out';-inkscape-font-specification:'8-bit Arcade Out';fill:#808080"
+         id="path1472" />
+      <path
+         d="m 38.075058,21.617292 h -1.058331 v -3.174993 h 2.116663 v -1.058332 h 1.058331 v 2.116663 h -2.116663 v 2.116662 h 1.058332 v 2.116663 h -6.349988 v -1.058331 h 5.291656 z m -6.349987,-3.174993 h 2.116662 v 1.058331 h -2.116662 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.9333px;font-family:'8-bit Arcade Out';-inkscape-font-specification:'8-bit Arcade Out';fill:#808080"
+         id="path1474" />
+      <path
+         d="m 41.250054,22.675624 h -1.058331 v -1.058332 h 1.058331 v 1.058332 h 5.291656 v -1.058332 h 1.058332 V 19.50063 h -3.174994 v 1.058331 h 1.058331 v 1.058331 h -2.116662 v -3.174993 h 3.174993 v -1.058332 h 1.058332 v 1.058332 h 1.058331 v 4.233325 h -1.058331 v 1.058331 h -6.349988 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.9333px;font-family:'8-bit Arcade Out';-inkscape-font-specification:'8-bit Arcade Out';fill:#808080"
+         id="path1476" />
+      <path
+         d="m 49.716702,22.675624 h -1.058331 v -1.058332 h 1.058331 v 1.058332 h 5.291656 v -1.058332 h 1.058332 v -4.233325 h 1.058331 v 5.291657 H 56.06669 v 1.058331 h -6.349988 z m 2.116663,-1.058332 v -4.233325 h 1.058331 v 4.233325 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.9333px;font-family:'8-bit Arcade Out';-inkscape-font-specification:'8-bit Arcade Out';fill:#808080"
+         id="path1478" />
+      <path
+         d="m 60.300017,23.733955 h -3.174994 v -1.058331 h 2.116662 v -2.116663 h 1.058332 v 1.058331 h 2.116662 v 1.058332 h 2.116663 v -5.291657 h 1.058331 v 6.349988 h -3.174994 v -1.058331 h -2.116662 z m 1.058331,-4.233325 v -1.058331 h 1.058331 v 1.058331 z m -2.116663,-1.058331 v -1.058332 h 1.058332 v 1.058332 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.9333px;font-family:'8-bit Arcade Out';-inkscape-font-specification:'8-bit Arcade Out';fill:#808080"
+         id="path1480" />
+    </g>
+  </g>
+</svg>

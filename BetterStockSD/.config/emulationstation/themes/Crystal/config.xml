@@ -1,0 +1,79 @@
+<theme>
+    <formatVersion>4</formatVersion>
+
+    <include>./lang/en.xml</include>
+	<include lang="es">./lang/es.xml</include>
+	<include lang="es_MX">./lang/es.xml</include>
+	<include lang="eu">./lang/en.xml</include>
+	<include lang="fr">./lang/fr.xml</include> 
+	<include lang="pt">./lang/pt.xml</include>
+	<include lang="pt_BR">./lang/pt.xml</include>
+	<include lang="ru">./lang/ru.xml</include>
+	<include lang="ko">./lang/ko.xml</include>
+	<include lang="zh">./lang/zh_min.xml</include>
+	<include lang="jp">./lang/jp_min.xml</include>
+<!--	
+	<include lang="de">./lang/de.xml</include>
+-->
+	
+	<include subset="ratio" name="default" displayName="${default}">./options/display/169.xml</include>
+	<include subset="ratio" name="169" displayName="16:9 (1080p)">./options/display/169.xml</include>
+	<include subset="ratio" name="169p480" displayName="16:9 (480p)">./options/display/169p480.xml</include>
+    <include subset="ratio" name="43" displayName="4:3 (480p)">./options/display/43.xml</include>
+    <include subset="ratio" name="43crt" displayName="4:3 (CRT)">./options/display/43crt.xml</include>
+
+    <include subset="thememusic" name="yes" displayName="${yes}">./options/sound/sound_on.xml</include>
+    <include subset="thememusic" name="no" displayName="${no}">./options/sound/sound_off.xml</include>
+
+    <include subset="sysvdelay" name="d3" displayName="${delay3}">./options/sysvideodelay/video_delay_3.xml</include>
+    <include subset="sysvdelay" name="d5" displayName="${delay5}">./options/sysvideodelay/video_delay_5.xml</include>
+    <include subset="sysvdelay" name="d10" displayName="${delay10}">./options/sysvideodelay/video_delay_10.xml</include>
+    <include subset="sysvdelay" name="d20" displayName="${delay20}">./options/sysvideodelay/video_delay_20.xml</include>
+    <include subset="sysvdelay" name="d0" displayName="${delay0}">./options/sysvideodelay/video_delay_0.xml</include>   
+    <include subset="sysvdelay" name="dnv" displayName="${novideo}">./options/sysvideodelay/no_video.xml</include>
+
+	<include subset="vdelay" name="1" displayName="${delay1}">./options/videodelay/video_delay_1.xml</include>
+    <include subset="vdelay" name="2" displayName="${delay2}">./options/videodelay/video_delay_2.xml</include>
+    <include subset="vdelay" name="3" displayName="${delay3}">./options/videodelay/video_delay_3.xml</include>
+    <include subset="vdelay" name="0" displayName="${delay0}">./options/videodelay/video_delay_0.xml</include>
+    <include subset="vdelay" name="nv" displayName="${novideo}">./options/videodelay/no_video.xml</include>
+
+    <include subset="colorset" name="Default" displayName="${default}">./options/colorschemes/red.xml</include>
+	<include subset="colorset" name="Ruby" displayName="${ctred}">./options/colorschemes/red.xml</include>
+    <include subset="colorset" name="Carbon" displayName="${ctblack}">./options/colorschemes/black.xml</include>
+    <include subset="colorset" name="Sapphire" displayName="${ctblue}">./options/colorschemes/blue.xml</include>
+    <include subset="colorset" name="Emerald" displayName="${ctgreen}">./options/colorschemes/green.xml</include>
+    <include subset="colorset" name="Amber" displayName="Amber">./options/colorschemes/orange.xml</include>
+
+    <include subset="logoset" name="Default" displayName="${default}">./options/logosets/color.xml</include>
+	<include subset="logoset" name="Color" displayName="${colorlog}">./options/logosets/color.xml</include>
+    <include subset="logoset" name="White" displayName="${whitelog}">./options/logosets/white.xml</include>
+    <include subset="logoset" name="Controllers" displayName="${conlog}">./options/logosets/controllers.xml</include>
+    <include subset="logoset" name="Panel" displayName="${panlog}">./options/logosets/panel.xml</include>
+
+    <include subset="iconset" name="Default" displayName="${default}">./options/helpicons/crystal.xml</include>
+	<include subset="iconset" name="Crystal" displayName="${idefault}">./options/helpicons/crystal.xml</include>
+	<include subset="iconset" name="Crystal Reverse" displayName="${idefaultrev}">./options/helpicons/crystal-rev.xml</include>
+	<include subset="iconset" name="Crystal X" displayName="Crystal X-Box">./options/helpicons/crystalx.xml</include>
+	<include subset="iconset" name="Crystal F" displayName="Crystal Famicom">./options/helpicons/crystalf.xml</include>
+	<include subset="iconset" name="Crystal S" displayName="Crystal SNES">./options/helpicons/crystals.xml</include>
+	<include subset="iconset" name="Crystal PSX" displayName="Crystal PSX">./options/helpicons/crystalpsx.xml</include>
+	<include subset="iconset" name="Crystal dream" displayName="Crystal Dreamcast">./options/helpicons/crystaldream.xml</include>
+	<include subset="iconset" name="Crystal saturn" displayName="Crystal Saturn">./options/helpicons/crystalsaturn.xml</include>   
+
+    <include subset="systemview" name="Default" displayName="${default}">./${ratset}/panel.xml</include>
+	<include subset="systemview" name="panel" displayName="${panel}">./${ratset}/panel.xml</include>
+    <include subset="systemview" name="small panel" displayName="${smallpanel}">./${ratset}/smallpanel.xml</include>
+	<include subset="systemview" name="horizontal detailed" displayName="${hordetail}">./${ratset}/horizontal_details.xml</include>
+	<include subset="systemview" name="detailed view" displayName="${systemdetails}">./${ratset}/details.xml</include>
+	<include subset="systemview" name="horizontal" displayName="${horizontal}">./${ratset}/horizontal.xml</include>
+	<include subset="systemview" name="carousel left" displayName="${lhc}">./${ratset}/carousel-left.xml</include>
+	<include subset="systemview" name="carousel right" displayName="${rhc}">./${ratset}/carousel-right.xml</include>
+
+ 
+    <include subset="bgset" name="crystal" displayName="${default}">./options/background/crystal.xml</include>
+	 
+    <include subset="slog" name="yes" displayName="${yes}">./options/syslogos/syslogo_yes.xml</include>
+    <include subset="slog" name="no" displayName="${no}">./options/syslogos/syslogo_no.xml</include>
+
+</theme>

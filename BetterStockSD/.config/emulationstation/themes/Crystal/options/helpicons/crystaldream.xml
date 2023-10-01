@@ -1,0 +1,22 @@
+<theme>
+	<formatVersion>4</formatVersion>
+	
+	<view name="menu, system, basic, detailed, grid">
+		<helpsystem name="help">
+			<iconColor>FFFFFFFF</iconColor>
+			<iconUpDown>./assets/helpicons/crystal/updown.svg</iconUpDown>
+			<iconLeftRight>./assets/helpicons/crystal/leftright.svg</iconLeftRight>
+			<iconUpDownLeftRight>./assets/helpicons/crystal/all.svg</iconUpDownLeftRight>
+			<iconA>./assets/helpicons/crystaldream/a.svg</iconA>
+			<iconB>./assets/helpicons/crystaldream/b.svg</iconB>
+			<iconX>./assets/helpicons/crystaldream/x.svg</iconX>
+			<iconY>./assets/helpicons/crystaldream/y.svg</iconY>
+			<iconL>./assets/helpicons/crystal/l.svg</iconL>
+			<iconR>./assets/helpicons/crystal/r.svg</iconR>
+            <iconLr>./assets/helpicons/crystal/lr.svg</iconLr>
+			<iconStart>./assets/helpicons/crystaldream/start.svg</iconStart>
+			<iconSelect>./assets/helpicons/crystaldream/select.svg</iconSelect>
+		</helpsystem>		
+	</view>
+	
+</theme>

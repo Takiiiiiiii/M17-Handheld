@@ -1,0 +1,7 @@
+retro: tasks/task_content.c, content_load, 273 deinit(will reinit later)
+Thread(601) set SCHED_RR
+Thread(601) bound to cpu: 3
+Thread(607) set SCHED_RR
+Thread(607) bound to cpu: 0
+Set video mode: 299x224
+arm_release_ver of this libMali is r7p0-00rel0, rk_so_ver is '2', built at '10:34:14', on 'Dec  6 2018'. 

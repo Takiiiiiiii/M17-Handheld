@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<filter name="genre-cardgames">
+     <genre>JEU DE CARTES</genre>
+     <genre>KARTENSPIELE</genre>
+     <genre>PLAYING CARDS</genre>
+     <genre>JUEGOS DE CARTAS</genre>
+     <genre>JOGO DE CARTAS</genre>
+</filter>
+
+

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<filter name="genre-shooter">
+     <genre>SHOOTER</genre>
+     <genre>TIR</genre>
+     <genre>TIRO</genre>
+</filter>
+
+
+

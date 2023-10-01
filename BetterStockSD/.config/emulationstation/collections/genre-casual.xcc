@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<filter name="genre-casual">
+     <genre>GELEGENHEITSSPIEL</genre>
+     <genre>CASUAL GAME</genre>
+     <genre>JUEGO CASUAL</genre>
+     <genre>JOGO CASUAL</genre>
+</filter>

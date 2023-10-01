@@ -1,0 +1,54 @@
+<!-- left side carousel icon menu -->
+
+<theme>
+<formatVersion>4</formatVersion>
+    <include>./common.xml</include>
+
+<view name="system">
+      <carousel name="systemcarousel">
+			<type>vertical</type>
+			<pos>0.11 0</pos>
+			<size>0.32 1</size>
+			<logoScale>1.5</logoScale>
+			<logoSize>0.2 0.2</logoSize>
+			<color>00000000</color>
+			<origin>0 0</origin>
+			<logoAlignment>center</logoAlignment>
+			<maxLogoCount>6</maxLogoCount>
+			<zIndex>29</zIndex>
+		</carousel>
+
+		<image name="logo">
+	</image>
+
+	<text name="description" extra="true">
+	<visible>false</visible>
+		</text>
+
+  <text name="shortdescription" extra="true">
+	<visible>false</visible>
+		</text>
+
+	  <text name="systemInfo">
+         <pos>.50 0.45</pos>
+         <alignment>left</alignment>
+       <fontSize>0.07</fontSize>
+   </text>
+	
+	 <helpsystem name="help">   
+         <pos>0.007 0.965</pos>      
+   </helpsystem> 
+
+<image name="background" extra="true">
+       <path>./assets/filters/${themecolor}/crt-left.svg</path>
+      </image>
+
+	   <text name="logoText">
+         <color>${cgtbgedgeselect}</color>
+        <fontPath>./fonts/${font1s}</fontPath>
+		 <fontSize>0.05</fontSize>
+         <alignment>center</alignment>
+      </text>
+ 
+</view>
+</theme>

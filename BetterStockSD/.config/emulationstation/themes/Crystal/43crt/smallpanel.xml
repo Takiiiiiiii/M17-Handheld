@@ -1,0 +1,67 @@
+<!-- Horizontal icon menu -->
+
+<theme>
+  <formatVersion>4</formatVersion>
+    <include>./common.xml</include>
+
+  <feature supported="carousel">
+  <view name="system">
+
+        <image name="logo">
+		<path>./assets/panels/4-3/${system.theme}.jpg</path>
+	    </image>
+
+    <carousel name="systemcarousel">
+     <type>horizontal</type>
+     <pos>0 0</pos>
+      <size>1 1</size>
+      <color>ffffff00</color>
+      <logoScale>1</logoScale>
+      <logoSize>1 1</logoSize>
+      <maxLogoCount>1</maxLogoCount>
+    <logoAlignment>left</logoAlignment>
+      <defaultTransition>instant</defaultTransition>	
+    </carousel>
+
+	       <image name="art">
+<visible>false</visible>
+      </image>	
+    
+   <text name="systemInfo">
+         <pos>0.00 0.738</pos>
+         <backgroundColor>00000000</backgroundColor>
+         <color>${cinfotext}</color>
+          <size>1 0</size>
+         <alignment>center</alignment>
+         <fontPath>./fonts/${font2s}</fontPath>
+         <fontSize>0.10</fontSize>
+   </text>
+	  
+   <helpsystem name="help"> 
+         <pos>0.007 0.965</pos>      
+   </helpsystem>
+
+	<text name="description" extra="true">
+	<visible>false</visible>
+		</text>
+
+  <text name="shortdescription" extra="true">
+	<visible>false</visible>
+		</text>
+
+<image name="background" extra="true">
+         <origin>0 0</origin>
+         <pos>0 0</pos>
+         <size>1 1</size>
+      </image>
+
+	   <text name="logoText">
+         <color>${cgtbgedgeselect}</color>
+        <fontPath>./fonts/${font1s}</fontPath>
+		 <fontSize>0.1</fontSize>
+         <alignment>center</alignment>
+      </text>
+
+	  </view>
+  </feature>  
+</theme>

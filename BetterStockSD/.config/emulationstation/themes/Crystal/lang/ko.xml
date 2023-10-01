@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+    <formatVersion>7</formatVersion>
+	
+    <variables>
+		
+    	<langue>ko</langue>
+
+
+<!-- FONTS -->
+
+<!-- menu fonts -->
+<font1m>NanumGothicLight.ttf</font1m>
+
+
+<font2m>NanumGothicBold.ttf</font2m>
+
+<!-- main system views -->
+<font1s>NanumGothicExtraBold.ttf</font1s>
+
+<!-- system info -->
+<font2s>NanumGothicExtraBold.ttf</font2s>
+
+<!-- System description -->
+<font3s>NanumGothic.ttf</font3s>
+
+<!-- Font used by gamelist items -->
+<font1g>NanumGothicBold.ttf</font1g>
+
+<!-- Font used by descriptions on gamelists -->
+<font2g>NanumGothic.ttf</font2g>
+
+<!-- Font used for title on gamelist panel -->
+<font3g>NanumGothicExtraBold.ttf</font3g>
+
+<!-- Font used on gamelist help system -->
+<font4g>NanumGothicBold.ttf</font4g>
+
+<!-- Global --> 	
+        <yes>Yes</yes>
+        <no>No</no>
+        <none>None</none>
+        <sysmusic>On</sysmusic>
+        <nomusic>Random</nomusic>
+        <silence>Without Background Music</silence>	
+        <default>Default</default>
+<!-- Library views -->		
+        <basiclist>Simple List</basiclist>
+        <simplegridName>Grid / Simple</simplegridName>
+        <carouselViewName>Carousel</carouselViewName>
+        <carouselposterViewName>Carousel / Detailed</carouselposterViewName>	
+        <tilesViewName>Tiles</tilesViewName>
+        <tilesVideoViewName>Tiles with Video</tilesVideoViewName>
+        <tilesVideoMarqueeViewName>Tiles with Video and Logos</tilesVideoMarqueeViewName>
+        <fanartViewName>Fanart (Default)</fanartViewName>
+        <fanartvlViewName>Fanart (Full Screen Video)</fanartvlViewName>
+        <carouselvideoName>Carousel / Video</carouselvideoName>
+	<smallscreengamelist>Small Screen</smallscreengamelist>
+	<smallscreengamelistnh>Small Screen (No Help)</smallscreengamelistnh>
+<!-- color schemes -->
+        <ctblue>Sapphire</ctblue>
+        <ctred>Ruby</ctred>
+        <ctgreen>Emerald</ctgreen>
+        <ctblack>Carbon</ctblack>
+        <ctgold>Gold</ctgold>
+<!-- backgrounds -->
+        <defaultbg>SOLO (Light)</defaultbg>
+        <darkbg>SOLO (Dark)</darkbg>
+        <bellabg>Bella</bellabg>
+        <systembg>Console</systembg>
+        <artflixbg>Artflix</artflixbg>
+<!-- Logo Styles -->
+        <whitelog>White Logo's</whitelog>
+        <colorlog>Color Logo's</colorlog>
+        <conlog>Controllers</conlog>
+        <textlog>Text Logo's</textlog>
+<!-- Help Icons -->
+        <idefault>Crystal</idefault>
+        <idefaultrev>Crystal (Reverse)</idefaultrev>
+<!-- System layouts -->		
+        <horizontal>Basic Horizontal Menu</horizontal>
+        <hordetail>Detailed (Horizonta)</hordetail>
+        <rhc>Right Side Carousel</rhc>
+        <lhc>Left Side Carousel</lhc>
+        <systemdetails>Detailed (Vertical)</systemdetails>
+<!-- Video delay -->
+        <delay1>1 second</delay1>
+        <delay2>2 seconds</delay2>
+        <delay3>3 seconds</delay3>
+        <delay5>5 seconds</delay5>
+        <delay10>10 seconds</delay10>
+        <delay20>20 seconds</delay20>
+        <delay0>no delay</delay0>
+        <novideo>disable videos</novideo>	
+<!-- Submenus -->
+        <subset.systemview>Homepage Layout</subset.systemview>
+        <subset.bgset>Background Images</subset.bgset>
+        <subset.iconset>Help Icons</subset.iconset>
+        <subset.shader>Theme Shaders</subset.shader>
+        <subset.music>System Music</subset.music>
+        <subset.logoset>System Logo Style</subset.logoset>
+        <subset.thememusic>Theme Background Music</subset.thememusic>
+        <subset.vdelay>Video delay on gamelist</subset.vdelay>
+        <subset.slog>System Logo on Gamelists</subset.slog>
+        <subset.colorset>Theme Colour Scheme</subset.colorset>
+        <subset.videoview>Gamelist Video Delay</subset.videoview>
+        <subset.sysvdelay>System view Video Delay</subset.sysvdelay>
+<!-- System descriptions -->
+        <psx>PlayStation (비공식적으로 PSX로 약칭)은 Sony Computer Entertainment에서 개발 및 판매하는 가정용 비디오 게임 콘솔입니다. 시리즈의 원래 콘솔은 10년 만에 1 억 대 이상을 출하 한 최초의 콘솔이었습니다.</psx>
+        <threedo>3DO는 기업가이자 Electronic Arts 창립자 인 Trip Hawkins가 고안 한 홈 비디오 게임 콘솔로, 3DO는 회사 자체에서 제조 한 것이 아닙니다. Panasonic은 첫 번째 모델을 생산했으며 GoldStar와 Sanyo는 하드웨어의 추가 버전을 출시했습니다.</threedo>
+        <amiga>Amiga는 1980년대와 1990년대에 Commodore가 판매 한 개인용 컴퓨터 제품군입니다. 첫 번째 모델은 1985년에 고급 가정용 컴퓨터로 출시되었으며 그래픽, 오디오 및 멀티 태스킹 기능으로 인기를 얻었습니다.</amiga>
+        <cpc>CPC 464는 Amstrad가 1984년에 제작 한 최초의 개인용 가정용 컴퓨터였습니다. 유럽에서 200 만 대 이상이 판매 된 베스트셀러이자 가장 많이 생산 된 마이크로 컴퓨터 중 하나였습니다.</cpc>
+        <arcade>아케이드 게임 또는 동전 게임기는 일반적으로 레스토랑, 바 및 오락실과 같은 공공 사업에 설치되는 동전식 엔터테인먼트 기계입니다. 아케이드 비디오 게임의 황금기는 일반적으로 1970년대 후반에 시작하여 1980년대 중반에 끝나는 기간으로 정의됩니다.</arcade>
+        <atari2600>Atari Video Computer System (VCS)은 Atari, Inc.에서 개발 및 배포 한 2 세대 (1976 ~ 1992) 가정용 비디오 게임 콘솔입니다. 1977년 9월 11일 북미에서 소매가 199 달러에 출시되었습니다.</atari2600>
+        <atari5200>Atari 5200 SuperSystem은 Atari에서 개발 및 배포 한 2세대 콘솔입니다. 5200에는 숫자 키패드, 시작, 일시 중지 및 재설정 버튼을 가진 360도 non-centering 조이스틱인 혁신적인 컨트롤러가 함께 제공됩니다.</atari5200>
+        <atari7800>Atari 7800 Pro System은 Atari Corporation에서 개발 및 배포 한 3 세대 콘솔입니다. 7800은 추가 모듈을 사용하지 않고도 Atari 2600 게임을 플레이 할 수 있는 최초의 하위 호환성을 가진 콘솔 중 하나로 간주됩니다.</atari7800>
+        <jaguar>Atari Jaguar는 Atari Corporation에서 개발하여 1993년 11월 북미에서 출시한 가정용 비디오 게임 콘솔입니다. 5 세대 비디오 게임 콘솔로 16 비트 Sega Genesis, Super NES 및 같은 해에 출시 된 32 비트 3DO Interactive Multiplayer와 경쟁했습니다.</jaguar>
+        <lynx>Atari Lynx는 Atari Corporation에서 개발 및 배포 한 16 비트 휴대용 게임 콘솔입니다. 1989년 9월 북미에서 149.95 달러에 출시되었습니다. Lynx는 컬러 LCD 화면이있는 세계 최초의 휴대용 전자 게임이었습니다.</lynx>
+        <atarist>Atari ST는 Atari Corporation의 가정용 컴퓨터 제품군이며 Atari 8 비트 제품군의 후속 제품입니다. 1986년에 출시 된 1040ST는 기본 구성에 1 MB의 RAM이 탑재 된 최초의 개인용 컴퓨터이자 KB당 비용이 미화 1 달러 미만인 최초의 개인용 컴퓨터입니다.</atarist>
+        <atomis>Atomiswave는 Sammy Corporation의 맞춤형 아케이드 시스템 보드 및 캐비닛이며 Sega의 NAOMI 시스템 보드를 기반으로합니다. Atomiswave는 교체 가능한 게임 카트리지를 사용하며 캐비닛의 제어판은 듀얼 조이스틱, 듀얼 라이트 건 또는 스티어링 휠로 쉽게 전환 할 수 있습니다.</atomis>
+        <c16>C16은 Commodore International에서 만든 가정용 컴퓨터로 VIC-20을 대체하는 보급형 컴퓨터였습니다.</c16>
+        <c64>Commodore 64는 Commodore International이 1982년 1월에 소개 한 8 비트 가정용 컴퓨터입니다. 기네스 세계 기록에 가장 많이 팔린 단일 컴퓨터 모델로 기록되어 있으며, 독립적 인 추정치에 따르면 1000 만 ~ 1700 만 대가 판매되었습니다.</c64>
+        <c128>C128, C-128, C = 128로도 알려진 Commodore 128은 CBM (Commodore Business Machines)에서 상용으로 출시 한 마지막 8 비트 가정용 컴퓨터입니다. 1985년 1월 라스 베이거스의 CES에서 소개 된이 제품은 이전 제품인 베스트셀러 Commodore 64 이후 3년 만에 등장했습니다.</c128>
+        <dreamcast>Dreamcast는 Sega가 1998년 후반 일본에서, 1999년 9월부터 타지역에서 출시 한 128 비트 비디오 게임 콘솔입니다. 소니의 PlayStation 2, Microsoft의 Xbox 및 Nintendo GameCube를 앞선 6 세대 비디오 게임 콘솔의 시초였습니다.</dreamcast>
+        <famicom>Nintendo Famicom은 1983년 일본 Nintendo에서 출시 한 8 비트 비디오 게임 콘솔입니다. Family Computer, 짧게는 Famicom, 약어로는 FC로 출시되었습니다.</famicom>
+        <fds>Family Computer Disk System은 1986년 2월 21일 일본에서 출시 된 Nintendo의 Family Computer 콘솔 용 주변 장치입니다. 데이터 저장을 위해 "Disk Cards"라는 독점 플로피 디스크를 사용합니다. </fds>
+        <gameandwatch>The Game and Watch는 1980년 ~ 1991년까지 Nintendo에서 제작 한 휴대용 전자 게임 시리즈입니다. 게임 디자이너 Gunpei Yokoi가 제작했으며, 각각 하나의 게임과 LCD 화면의 시계를 특징으로 합니다.</gameandwatch>
+        <gamegear>Sega Game Gear는 Sega의 첫 번째 휴대용 게임 콘솔이었습니다. Atari Lynx와 TurboExpress에 이어 세 번째 상용 컬러 휴대용 콘솔이었습니다. 대부분의 하드웨어를 마스터 시스템과 공유하며 어댑터를 사용하여 마스터 시스템 게임을 할 수 있습니다.</gamegear>
+        <gb>The Game Boy는 1989년에 출시 된 8 비트 휴대용 비디오 게임 콘솔입니다. Game Boy 라인의 첫 번째 휴대용 콘솔로서 Game and Watch 시리즈를 디자인 한 Gunpei Yokoi와 Nintendo의 연구 개발에 의해 만들어졌습니다.</gb>
+        <gba>Game Boy Advance는 Nintendo에서 Game Boy Color의 후속 제품으로 개발 한 32 비트 휴대용 비디오 게임 콘솔입니다. 당시 휴대용 시장에서 Nintendo의 경쟁자는 Neo Geo Pocket Color, WonderSwan, GP32, Tapwave Zodiac 및 N-Gage였습니다.</gba>
+        <gbc>Game Boy Color (GBC로 약칭)는 1998년에 출시 된 닌텐도에서 제조 한 휴대용 콘솔입니다. Game Boy의 후속 제품으로 컬러 화면은 있지만 백라이트는 없습니다.</gbc>
+        <genesis>Genesis (미국 이외 지역의 Mega Drive)는 세가의 세 번째 콘솔이자 마스터 시스템의 후속 콘솔이었습니다. Genesis의 메인 마이크로 프로세서는 7.6MHz 속도의 16/32 비트 Motorola 68000 CPU입니다. 콘솔은 또한 마스터 시스템과의 하위 호환성을 제공했습니다.</genesis>
+        <intellivision>Intellivision 'Intelligent Telivision'은 Mattel Electronics가 1979년에 출시한 가정용 비디오 게임 콘솔입니다. 콘솔 개발은 주요 경쟁 업체 의 Atari 2600이 출시 된 해인 1977년에 시작되었습니다.</intellivision>
+        <mame>MAME (원래 Multiple Arcade Machine Emulator의 약어)는 최신 개인용 컴퓨터 및 기타 플랫폼의 소프트웨어에서 아케이드 게임 시스템의 하드웨어를 재현하도록 설계된 무료 오픈 소스 에뮬레이터입니다.</mame>
+        <mastersystem>Master System은 1985년 Sega가 출시 한 3 세대 비디오 게임 콘솔입니다. Master System은 Nintendo Entertainment System의 직접적인 경쟁자였으며 출시 이전에 크게 앞선 NES보다 기술적으로 우월했습니다.</mastersystem>
+        <megadrive>Megadrive는 Sega의 세 번째 콘솔이자 Master System의 후속 제품입니다. Megadrive의 메인 마이크로 프로세서는 7.6MHz 속도의 16/32 비트 Motorola 68000 CPU입니다. 콘솔은 또한 마스터 시스템과의 하위 호환성을 제공했습니다.</megadrive>
+        <msx>MSX는 1983년 6월 16일 Microsoft와 ASCII가 발표 한 표준화 된 가정용 컴퓨터 아키텍처입니다. Nintendo의 Family Computer가 성공하기 전에 MSX는 Konami 및 Hudson Soft와 같은 일본의 주요 게임 스튜디오에서 비디오 게임을 제작하는 플랫폼이었습니다.</msx>
+        <n64>코드 명 Ultra64 인 Nintendo 64는 1996년에 출시되었으며 카트리지를 기본 스토리지 형식으로 사용하는 마지막 주요 홈 콘솔이었습니다. 전 세계적으로 3293만대가 판매되었으며 주요 경쟁자는 Sony PlayStation과 Sega Saturn입니다.</n64>
+        <naomi>Sega NAOMI (New Arcade Operation Machine Idea)는 1998년 Sega Model 3 하드웨어의 후속 제품으로 출시된 아케이드 시스템 보드입니다. Sega Dreamcast와 동일한 아키텍처를 사용하며 Sega Model 2와 함께 Sega의 가장 성공적인 아케이드 시스템 중 하나입니다.</naomi>
+        <nds>Nintendo DS는 Nintendo에서 개발 및 출시 한 32 비트 듀얼 스크린 휴대용 게임 콘솔입니다. 이 장치는 2004년 11월 21일 북미에서 판매되었습니다. "개발자 시스템"또는 "듀얼 스크린"의 줄임말 인 DS는 휴대용 게임에 독특한 새 기능을 도입했습니다.</nds>
+        <neocd>Neo•Geo CD는 AES 시스템보다 저렴한 대안으로 출시 된 SNK의 두 번째 홈 콘솔입니다. 내부 하드웨어는 동일하지만 게임은 CD-ROM으로 제공되어 매우 저렴하게 즐길 수 있었습니다. 이를 통해 SNK는보다 경쟁력있는 가격으로 게임을 판매 할 수 있었습니다.</neocd>
+        <neogeo>Neo•Geo AES는 원래 일본의 비디오 게임 상점용 렌탈 콘솔(Neo Geo Rental System이라고 함)로 출시되었습니다. 가격이 높기 때문에 SNK는 가정용으로 출시하지 않았습니다. 나중에 높은 수요로 인해 고급 콘솔로 출시되었습니다.</neogeo>
+        <nes>Nintendo Entertainment System은 1985년 북미에서 Nintendo가 출시 한 8 비트 비디오 게임 콘솔입니다. 당시 베스트셀러 게임 콘솔 인 NES는 1983년 비디오 게임 충돌 이후 미국 비디오 게임 산업의 활성화를 도왔습니다.</nes>
+        <ngp>Neo Geo Pocket은 SNK에서 출시 한 흑백 휴대용 게임 콘솔입니다. 회사 최초의 휴대용 시스템이었으며 Neo Geo 제품군의 일부입니다. 1998년 말 일본에서 데뷔했다.</ngp>
+        <openbor>OpenBOR는 로열티가 없는 스프라이트 기반의 사이드 스크롤링 게임 엔진입니다. ... OpenBOR은 횡 스크롤링 진행형 격투 게임(Double Dragon, Streets of Rage, Final Fight)에 최적화되어 있지만, 어떤 종류의 게임 플레이 스타일이나 피쳐 세트도 쉽게 수용할 수 있습니다.</openbor>    
+        <ngpc>Neo Geo Pocket Color는 SNK가 제조한 16비트 컬러 휴대용 비디오 게임기입니다. 1998년 일본에서 출시된 SNK의 흑백 Neo Geo Pocket 휴대용의 후속작이며, Color는 완전한 하위 호환성을 가집니다.</ngpc>
+        <pc88>1979년부터 1989년까지 NEC에서 제조 한 일본 8 비트 개인용 컴퓨터 라인업.</pc88>
+        <pc98>1982년부터 2000년까지 NEC에서 제조 한 일본의 16 비트 및 32 비트 개인용 컴퓨터 라인업</pc98>
+        <pcengine>PC 엔진은 1987년 10월 30일 일본에서 출시되었습니다. 제3의 강력한 지지를 얻어 1987년 데뷔 때 Famicom을 제치고 결국 Super Famicom의 주요 경쟁자가 되었습니다.</pcengine>
+        <pcfx>PC-FX는 1994년에 출시 된 32 비트 가정용 비디오 게임 콘솔입니다. PC 엔진과 1980년대 후반에 성공한 두 대의 성공적인 비디오 게임 콘솔 인 TurboGrafx-16의 후속 제품입니다. NEC의 가정용 콘솔 시장에 대한 마지막 진출입니다.</pcfx>
+        <ports>PC에서 DOS까지 소프트웨어 및 게임 엔진의 다중 플랫폼 포트</ports>
+        <psp>PlayStation Portable (PSP)은 Sony가 개발하여 2005년에 출시 한 휴대용 게임 콘솔입니다. SNK의 Neo Geo Pocket과 Nokia의 N-Gage와 같은 많은 도전자들이 실패한 Nintendo의 휴대용 게임 지배에 대한 최초의 진정한 경쟁자였습니다.</psp>
+        <residual>ResidualVM은 공통 그래픽 사용자 인터페이스를 사용하는 3D 게임 엔진 재현으로 구성된 크로스 플랫폼 컴퓨터 프로그램입니다. Grim Fandango, Myst III : Exile 및 The Longest Journey를 지원합니다.</residual>
+        <saturn>새턴은 처음에는 일본에서 성공했지만 1995년 5월 출시 이후 미국에서 대량 판매에 실패했습니다. 잘 알려진 여러 게임으로 기억되지만 복잡한 하드웨어 디자인으로 인해 명성이 엇갈립니다.</saturn>
+        <scumm>Maniac Mansion Virtual Machine (ScummVM) 용 스크립트 작성 유틸리티는 게임 엔진을 재창조 한 세트입니다. 원래 SCUMM 시스템을 사용하는 LucasArts 어드벤처 게임을 플레이하도록 설계되었으며, 다양한 비 SCUMM 게임도 지원합니다.</scumm>
+        <sega32x>Sega 32X는 Sega Genesis 비디오 게임 콘솔의 추가 기능입니다. 코드 명 "Project Mars"인 32X는 Sega Saturn이 출시 될 때까지 Genesis의 능력을 확장하도록 설계되었습니다. Genesis와는 별개로 32X는 자체 ROM 카트리지를 사용하고 자체 게임 라이브러리를 가지고 있습니다.</sega32x>
+        <segacd>Sega CD는 Sega가 4세대 비디오 게임 콘솔의 일부로 제작 한 Sega Genesis 비디오 게임 콘솔용 CD-ROM 액세서리입니다. Sega CD를 사용하면 사용자가 CD기반 게임을 즐길 수 있으며 더 빠른 CPU 및 그래픽 향상과 같은 하드웨어 기능을 추가 할 수 있습니다.</segacd>
+        <sfc>Super Famicom은 1990년 일본에서 출시된 Nintendo가 개발 한 16비트 홈 비디오 게임 콘솔입니다. 이 시스템은 다른 국가에서 Super Nintendo로 이름이 변경되었습니다.</sfc>
+        <sg-1000>Sega의 SG-1000(일명 Mark I)은 1983년 7월에 출시된 가정용 콘솔에 대한 회사의 첫 번째 시도였습니다. 당시에는 상당히 발전된 시스템이었으며 인상적인 기술 사양을 특징으로했습니다. Sega는 SG-1000 Mark II라는 콘솔의 업데이트 된 버전을 출시했습니다.</sg-1000>
+        <snes>Nintendo의 두 번째 홈 콘솔은 당시 다른 시스템에 비해 고급 그래픽 및 사운드 기능을 도입하여 전 세계적으로 4900만대 이상 판매되었습니다. 콘솔은 당시 다른 시스템에 비해 고급 그래픽 및 사운드 기능을 도입했습니다.</snes>
+        <supergrafx>SuperGrafx는 PC 엔진의 후속 시스템입니다. 원래 생산 단계에서 PC Engine 2로 알려졌던 이 제품은 이전 제품보다 향상된 그래픽 및 오디오 기능을 갖춘 진정한 16비트 홈 콘솔로 알려졌습니다. 하드웨어의 장점을 활용한 게임은 단 6개만 출시되었습니다.</supergrafx>
+        <tg16>TurboGrafx-16 Entertainment SuperSystem이라는 타이틀이 붙은 TurboGrafx-16은 일본에서 1987년 10월 30일, 북미에서 1989년 8월 29일 발매된 Hudson Soft와 NEC가 개발한 비디오 게임 콘솔입니다.</tg16>
+        <tg16cd>TurboGrafx-CD는 TurboGrafx-16의 추가 기능입니다. TurboGrafx 16의 게임 라이브러리를 확장하기 위해 출시되었습니다. 풀 모션 비디오 및 CD 오디오 재생 기능은 물론 저장 용량도 대폭 확대했습니다.</tg16cd>
+        <vectrex>Vectrex는 Smith Engineering에서 개발 한 고유 한 벡터 디스플레이 기반 홈 비디오 게임 콘솔입니다. 1982 년 11 월 북미에서 처음 출시되었고 1983 년 유럽과 일본에서 출시되었습니다.</vectrex>
+        <vic20>VIC-20은 100만대를 판매 한 최초의 컴퓨터였습니다.</vic20>
+        <videopac>Philips Odyssey 2로도 알려진 Magnavox Odyssey 2는 1978 년에 출시 된 2 세대 가정용 비디오 게임 콘솔입니다. 유럽에서는 Philips Videopac G7000으로, 브라질에서는 Philips Odyssey로, 일본에서는 Odyssey2로 판매되었습니다.</videopac>
+        <virtualboy>Virtual Boy는 Nintendo에서 만든 32비트 탁상용 휴대용 비디오 게임 콘솔입니다. 입체 "3D"그래픽을 표시 할 수있는 최초의 콘솔로 판매되었습니다. 판매는 목표를 달성하지 못했고 Nintendo는 1996년 유통 및 게임 개발을 중단했습니다.</virtualboy>
+        <wonderswan>WonderSwan은 Bandai가 일본에서 출시한 휴대용 게임기입니다. 16비트 CPU로 구동되며 Nintendo의 Game Boy를 포함한 경쟁 제품에 비해 저렴한 가격과 긴 배터리 수명을 활용했습니다.</wonderswan>
+        <wsc>WonderSwan은 Bandai가 일본에서 출시한 휴대용 게임기입니다. 16비트 CPU로 구동되며 Nintendo의 Game Boy를 포함한 경쟁 제품에 비해 저렴한 가격과 긴 배터리 수명을 활용했습니다.</wsc>
+        <x68000>X68000은 Sharp가 만든 32비트 일본 컴퓨터 시리즈입니다. 진정한 아케이드 품질의 그래픽을 제공하는 최초의 홈 시스템이었으며 Capcom CPS 아케이드 시스템의 개발 기계로도 사용되었습니다.</x68000>
+        <zx81>ZX81은 Sinclair Research에서 생산하고 Timex Corporation이 스코틀랜드의 Dundee에서 제조한 가정용 컴퓨터입니다. 1981년 3월 영국에서 Sinclair ZX80의 후속 제품으로 출시되었으며 일반 대중을 위한 저렴한 가정용 컴퓨팅 도입을 위해 설계되었습니다.</zx81>
+        <spectrum>ZX Spectrum은 Sinclair Research가 1982년 영국에서 출시한 8비트 개인용 가정용 컴퓨터입니다. 개발 과정에서 ZX81 Color 및 ZX82라고 불렸으며 Sinclair에서 ZX Spectrum으로 출시하여 기계의 컬러 디스플레이를 강조했습니다.</spectrum>
+        <coleco>ColecoVision은 1982년 8월에 출시된 Coleco Industries의 2세대 가정용 비디오 게임 콘솔입니다.</coleco>
+        <cps1>Capcom Play System 1은 이동식 ROM 카트리지에 저장된 게임 소프트웨어를 실행하는 Capcom에서 개발 한 아케이드 시스템 보드입니다. Capcom이 게임 개발을 후속 제품인 CP System II로 전환하기 전에 CPS-1용으로 24개 이상의 아케이드 타이틀이 출시되었습니다.</cps1>
+        <cps2>CPS-2는 Capcom이 1993년 Super Street Fighter II에 처음 사용한 아케이드 시스템 보드입니다. 이전 CP System 및 Capcom Power System Changer 아케이드 하드웨어의 후속 제품으로 1996년 CP System III 하드웨어에 의해 계승되었습니다.</cps2>
+        <cps3>CPS-3은 아케이드 게임 Red Earth와 함께 1996년 Capcom에서 처음 사용된 아케이드 시스템 보드입니다. CP System II에 이어 CP System 아케이드 하드웨어의 두번째 후속 제품이었습니다. Capcom이 생산할 마지막 독점 시스템 보드가 될 것입니다.</cps3>
+        <uzebox>Uzebox는 레트로 미니멀리스트 8비트 오픈 소스 게임 콘솔입니다. Atmel에서 만든 AVR 8비트 범용 마이크로 컨트롤러를 기반으로 합니다.</uzebox>
+        <amigacd32>Amiga CD32는 Commodore가 개발하고 유럽, 호주, 캐나다 및 브라질에서 출시 된 32비트 홈 비디오 게임 콘솔입니다. 1993년 7월 16일 런던의 과학 박물관에서 처음 발표되었으며 같은 해 9월에 공개되었습니다.</amigacd32>
+        <atari800>Atari 8비트 제품군은 Atari, Inc.에서 1979년에 Atari 400 및 Atari 800으로 소개하고 1992년까지 제조된 일련의 8비트 가정용 컴퓨터입니다. 제품군의 모든 기계는 기술적으로 유사하며 주로 포장이 다릅니다. </atari800>
+        <daphne>Daphne은 Matt Ownby가 개발한 Windows, Linux 및 Mac OS X용 아케이드 게임 에뮬레이터입니다. 대부분의 Sega LaserDisc 하드웨어 게임을 포함하여 여러 LaserDisc 기반 시스템용 게임을 실행합니다. </daphne>
+        <fbneo>Final Burn Neo는 아케이드 게임 및 일부 콘솔용 에뮬레이터입니다. FinalBurn 및 옛버전의 MAME 에뮬레이터를 기반으로 합니다.</fbneo>
+        <gc>GameCube는 Nintendo의 6세대 비디오 게임 콘솔에 진입했으며, 이전 콘솔인 Nintendo 64의 후속 제품입니다. GameCube는 Sony의 PlayStation 2 및 Microsoft의 Xbox와 경쟁했습니다.</gc>
+        <mplayer> </mplayer>
+        <msx2>MSX는 1983년 6월 16일에 Microsoft와 ASCII가 발표한 표준화 된 가정용 컴퓨터 아키텍처입니다. 처음에는 Microsoft가 동양 지역의 상품으로 구상되었고, 당시 Microsoft 부사장이자 ASCII Corporation의 이사였던 Kazuhiko Nishi가 공동으로 마케팅하였습니다.</msx2>
+        <pc> </pc>
+        <pce-cd>TurboGrafx-16 Entertainment SuperSystem이라는 타이틀이 붙은 TurboGrafx-16은 일본에서 1987년 10월 30일, 북미에서 1989년 8월 29일 발매된 Hudson Soft와 NEC가 개발한 비디오 게임 콘솔입니다.</pce-cd>
+        <pokemini>Pokémon Mini는 Nintendo에서 설계 및 제조하고 Pokémon 미디어 프랜차이즈를 테마로 한 휴대용 게임 콘솔입니다. Nintendo에서 생산한 교체 가능한 카트리지가 있는 가장 작은 게임 시스템입니다.</pokemini>
+        <pspminis>PSP Mini는 PSPgo와 함께 출시된 100MB이하의 디지털 게임입니다. 총 290 개의 Mini 게임이 출시되었습니다.</pspminis>
+        <sc-3000>SC-3000은 Sega가 설계하고 제조한 최초이자 유일한 컴퓨터입니다. 1983년 7월 일본에서 처음 출시되었으며 SG-1000 카트리지 기반 비디오 게임 콘솔과 동등한 가정용 컴퓨터로 사용됩니다.</sc-3000>
+        <snesmsu1>MSU-1은 추가 콘텐츠를 위해 최대 4GB의 스토리지를 추가하여 풀 모션 비디오 및 CD품질 사운드를 포함하되 이에 국한되지 않는 SNES 게임의 많은 향상을 허용하는 카트리지 애드온 칩입니다.</snesmsu1>
+        <wii>Wii는 2006년 Nintendo에서 출시한 가정용 비디오 게임 콘솔입니다. 7세대 콘솔인 Wii는 Microsoft의 Xbox 360 및 Sony의 PlayStation 3과 경쟁했습니다. Nintendo는 콘솔이 다른 두 대의 콘솔보다 더 넓은 인구 통계를 목표로한다고 밝혔습니다.</wii>
+        <pico8>Pico-8(PICO-8 형식)은 Lexaloffle Games에서 만든 가상 머신 및 게임 엔진입니다. 1980년대 경 비디오 게임 콘솔의 가혹한 하드웨어 한계를 모방하여 판타지 비디오 게임 콘솔을 모방하도록 설계되었습니다.</pico8>
+<!-- collections -->
+        <artoffighting>Art of Fighting은 1990년대 초 Neo Geo 플랫폼 용으로 출시된 격투 비디오 게임 3부작입니다. Fatal Fury 시리즈에 이어 SNK가 만든 두번째 격투 게임 프랜차이즈이며 Fatal Fury 시리즈의 전편과 동일한 가상의 세계를 배경으로합니다.</artoffighting>
+        <batman>배트맨은 1980년대 부터 컴퓨터, 휴대폰, 콘솔 시스템을 포함한 50개 이상의 비디오 게임에 등장했습니다.</batman>
+        <capcom>Capcom은 일본의 비디오 게임 개발사이자 유통사입니다. Street Fighter, Mega Man, Darkstalkers, Resident Evil 및 Ghosts 'n Goblins를 포함하여 수많은 수백만 판매 게임 프랜차이즈를 만들었습니다.</capcom>
+        <crashbandicoot>Crash Bandicoot는 플랫폼 비디오 게임 프랜차이즈입니다. 원래 Naughty Dog가 Sony의 PlayStation 콘솔 전용으로 개발한 이 시리즈는 수많은 개발자가 제작하고 여러 플랫폼에 게시된 수많은 할부를 보았습니다. 프랜차이즈는 현재 Activision Blizzard가 소유하고 발행합니다.</crashbandicoot>
+        <dbz>Dragon Ball 비디오 게임 시리즈는 Akira Toriyama가 만든 같은 이름의 만화 및 애니메이션 시리즈를 기반으로 합니다. 시리즈는 손오공의 모험을 따라 그가 무술을 훈련하고 드래곤 볼로 알려진 7개의 소원을 부여하는 구슬을 찾아 세계를 탐험합니다.</dbz>
+        <donkeykong>Donkey Kong은 1981년 Shigeru Miyamoto가 구상한 Donkey Kong이라는 고릴라의 모험을 담은 비디오 게임 시리즈입니다. 프랜차이즈는 주로 두가지 게임 장르로 구성되어 있지만 다양한 장르의 추가 스핀 오프 타이틀도 포함합니다.</donkeykong>
+        <cavestory>Cave Story는 2004년 Microsoft Windows용 Metroidvania 플랫폼 어드벤처 게임입니다. 일본 개발자 Daisuke "Pixel" Amaya가 여가 시간을 이용해 5 년에 걸쳐 개발했습니다. Cave Story는 2D 플랫폼 메커니즘을 특징으로 하며 Metroid 및 Castlevania와 같이 Amaya가 젊었을 때 했던 게임을 연상시킵니다.</cavestory>
+        <castlevania>Castlevania는 Konami가 만들고 개발한 뱀파이어 사냥꾼에 관한 액션 어드벤처 고딕 공포 비디오 게임 시리즈입니다. 초기 시스템에서 최신 콘솔에 이르기까지 다양한 플랫폼과 휴대폰과 같은 휴대용 장치로 출시되었습니다.</castlevania>
+        <doom>Doom은 1993년에 처음으로 출시된 비디오 게임 프랜차이즈입니다. 이 시리즈는 수많은 악마와 언데드와 싸우는 Union Aerospace Corporation (UAC)의 후원으로 운영되는 이름 없는 우주 해군의 공적에 중점을 둡니다.</doom>
+        <doubledragon>Double Dragon은 Technōs Japan에서 개발하고 Taito가 북미와 유럽에 배포한 1987년 진행형 격투 게임 비디오 게임입니다. 이 게임은 Technos의 초기 진행형 격투 게임인 Nekketsu Kōha Kunio-kun의 정신적, 기술적 후계자입니다.</doubledragon>
+        <fatalfury>Fatal Fury는 SNK에서 Neo Geo 시스템을 위해 개발한 격투 게임 시리즈입니다. Fatal Fury와 자매 시리즈 인 Art of Fighting은 동일한 가상의 세계를 배경으로합니다. Art of Fighting은 첫번째 Fatal Fury가 있기 몇 년 전에 열렸습니다.</fatalfury>
+        <finalfantasy>Final Fantasy는 일본 만화 판타지 시리즈입니다. 프랜차이즈는 일련의 판타지 및 과학 판타지 롤플레잉 비디오 게임을 중심으로합니다. 시리즈의 첫번째 게임은 1987년에 출시되었으며 이후 15개의 다른 메인 넘버 엔트리가 출시되었습니다.</finalfantasy>
+	<tekken>Tekken은 Bandai Namco Entertainment에서 개발하고 게시한 일련의 격투 비디오 및 아케이드 게임을 중심으로한 일본 미디어 프랜차이즈입니다. 시리즈의 주요 게임은 플레이어가 토너먼트에서 승리하고 회사를 제어하기 위해 수많은 캐릭터를 제어하는 King of Iron Fist Tournament의 이벤트를 따릅니다.</tekken>
+        <finalfight>Final Fight는 1989년 Final Fight의 아케이드 출시로 시작된 Capcom의 가상의 Metro City를 배경으로한 진행형 격투 비디오 게임 시리즈입니다.</finalfight>
+        <gta>Grand Theft Auto는 1997년 플레이 스테이션에서 처음 출시된 액션 어드벤처 시리즈입니다. 시리즈 대부분의 게임은 일반적으로 리버티 시티 (뉴욕시), 바이스 시티 (마이애미) 또는 산 안드레아스 주 캘리포니아와 네바다 주 같은 도시를 모델로한 가상의 로케일로 설정됩니다. </gta>
+        <kof>The King of Fighters는 1994년 The King of Fighters '94의 출시로 시작된 SNK의 격투 게임 시리즈입니다. 이 시리즈는 원래 SNK의 Neo Geo MVS 아케이드 하드웨어용으로 개발되었습니다.</kof>
+        <konami>Konami는 액션 Castlevania 시리즈, 서바이벌 호러 Silent Hill 시리즈, 액션 슈팅 게임 Contra 시리즈, 플랫폼 어드벤처 Ganbare Goemon 시리즈, 스텔스 액션 Metal Gear 시리즈 등의 주요 타이틀을 보유한 비디오 게임 유통사입니다.</konami>
+        <mario>Mario는 Nintendo가 소유하고 일본 비디오 게임 디자이너 Shigeru Miyamoto가 만든 Mario 비디오 게임 프랜차이즈의 가상 캐릭터입니다. 회사의 마스코트이자 시리즈의 시조 주인공인 Mario는 제작 이후 200개가 넘는 비디오 게임에 출연했습니다.</mario>
+        <megaman>일본에서 Rockman으로 알려진 Mega Man은 Capcom이 만든 공상 과학 비디오 게임 프랜차이즈로 각각 "Mega Man"이라는 별명으로 알려진 일련의 로봇 캐릭터가 출연합니다. 1987년 Nintendo Entertainment System용으로 출시된 Mega Man은 여러 시스템에서 50개 이상의 게임으로 확장된 시리즈의 첫 번째입니다.</megaman>
+        <metalslug>Metal Slug는 시리즈의 첫번째 게임이 완료된 후 1996년 SNK와 합병되기 전에 Nazca Corporation이 원래 만든 달리기(Run)와 총(Gun) 비디오 게임 시리즈입니다. 스핀 오프 게임에는 시리즈 10주년을 기념하는 3인칭 슈팅 게임과 모바일 플랫폼용 타워 디펜스 게임이 포함됩니다.</metalslug>
+        <metroid>Metroid는 Nintendo에서 만든 공상 과학 액션 게임 프랜차이즈입니다. Metroid는 우주 해적들로 부터 은하계를 보호하는 우주 탐험 현상금 사냥꾼 Samus Aran과 기생 Metroid 생물의 힘을 활용하려는 시도를 따릅니다.</metroid>
+        <midway>Midway는 미국의 비디오 게임 개발사이자 유통사였습니다. Midway의 프랜차이즈에는 Mortal Kombat, Rampage, Spy Hunter, NBA Jam, Cruis'n 및 NFL Blitz가 포함되었습니다. Midway는 2009년 사업을 접었다.</midway>
+        <mortalkombat>Mortal Kombat는 1992년에 처음 출시된 게임 시리즈입니다. 원래 게임은 여러 액션 어드벤처 게임, 만화책 시리즈 및 카드 게임으로 구성된 많은 속편과 스핀 오프를 생성했습니다.</mortalkombat>
+        <namco>Namco는 원래 도쿄 오타에 본사를 둔 아케이드 및 홈 콘솔 비디오 게임의 일본 개발사이자 유통사였습니다. 50년만인 2005년에 그들은 반다이로 합병했습니다.</namco>
+        <residentevil>Resident Evil은 Capcom에서 만든 게임 시리즈입니다. 프랜차이즈는 1996년 PlayStation용으로 출시된 게임 Resident Evil으로 시작되었으며, 생존 공포 장르를 정의하고 좀비를 대중 문화로 되돌린 공로를 인정 받았습니다.</residentevil>
+        <silenthill>사일런트 힐은 도야마 케이이치로가 제작하고 코나미가 개발 및 유통한 서바이벌 호러 비디오 게임 시리즈를 중심으로한 공포 미디어 프랜차이즈입니다.</silenthill>
+        <sonic>Sonic은 Sega가 만들고 소유한 프랜차이즈입니다. 프랜차이즈는 미친 과학자인 사악한 닥터 에그맨과 싸우는 의인화된 푸른 고슴도치 Sonic을 따릅니다.</sonic>
+        <streetfighter>Street Fighter는 Capcom에서 개발 및 유통한 프랜차이즈입니다. 이 시리즈의 첫 번째 게임은 1987년에 출시되었으며 5개의 다른 메인 시리즈 게임, 다양한 스핀 오프 및 크로스 오버, 다양한 기타 미디어에 수많은 출연이 이어졌습니다.</streetfighter>
+        <tombraider>Tomb Raider는 1996년 데뷔한 미디어 프랜차이즈입니다. 오리지널 Tomb Raider가 출시된 이래 시리즈는 같은 이름의 프랜차이즈로 발전했으며 Lara는 비디오 게임 산업의 주요 아이콘이 되었습니다.</tombraider>
+        <zelda>The Legend of Zelda는 일본 게임 디자이너 Shigeru Miyamoto와 Takashi Tezuka가 만든 하이 판타지 액션 어드벤처 비디오 게임 프랜차이즈입니다. 주로 Nintendo에서 개발하고 유통합니다.</zelda>
+        <irem>Irem Software Engineering은 일본의 비디오 게임 콘솔 개발사이자 유통사이며 이전에는 아케이드 게임의 개발사이자 제조업체이기도 합니다. 본사는 도쿄 치요다에 있습니다.</irem>
+        <metalgear>Metal Gear는 Hideo Kojima가 제작하고 Konami가 개발 및 유통한 스텔스 액션 어드벤처 비디오 게임 시리즈입니다. 첫 번째 게임인 Metal Gear는 1987년 MSX 가정용 컴퓨터용으로 출시되었습니다. 여러 콘솔에 대한 여러 속편이 출시되어 원래 게임의 줄거리가 확장되었습니다.</metalgear>
+        <atari>Nolan Bushnell과 Ted Dabney가 1972년 California Sunnyvale에서 설립한 Atari, Inc.는 아케이드 게임, 가정용 비디오 게임 콘솔 및 가정용 컴퓨터 분야의 선구자였습니다. Pong 및 Atari 2600과 같은 회사의 제품은 1970년대부터 1980년대 중반까지 전자 엔터테인먼트 산업을 정의하는데 도움이되었습니다.</atari>
+        <dataeast>DECO라고도하는 Data East Corporation (データイースト株式会社, Dēta Īsuto kabushiki gaisha)은 일본의 비디오 게임 및 전자 엔지니어링 회사였습니다. 회사는 1976년부터 2003년까지 운영되었으며 150개의 비디오 게임 타이틀을 출시했습니다.</dataeast>
+        <kaneko>Kaneko Co. Ltd. (カネコ株式会社)는 Hiroshi Kaneko가 일본 도쿄 스기 나미에서 설립한 일본 비디오 게임 유통사입니다. Air Buster, Nexzr, Shogun Warriors, DJ Boy, Guts'n 및 Gals Panic 시리즈와 같은 브랜드 및 다른 회사로 많은 게임을 출시했습니다.</kaneko>
+        <nintendo>Nintendo는 Game Boy, Super Nintendo Entertainment System, Nintendo DS, Wii 및 Nintendo Switch와 같은 비디오 게임 업계에서 가장 성공적인 콘솔을 생산했습니다.</nintendo>
+        <sega>Sega는 도쿄 시나가와에 본사를 두고 있는 일본의 다국적 비디오 게임 개발 및 유통사입니다. Sega는 Sonic the Hedgehog, Total War 및 Yakuza를 포함하여 수백만부 판매된 게임 프랜차이즈를 제작했으며 세계에서 가장 많은 아케이드 게임 제작사입니다.</sega>
+        <snk>SNK Corporation (株式会社 SNK, Kabushiki-gaisha Esu Enu Kē)은 일본의 비디오 게임 하드웨어 및 소프트웨어 회사입니다. SNK는 1990년에 아케이드, 홈 및 휴대용 게임 콘솔의 Neo Geo 제품군을 만든 것으로 유명합니다.</snk>
+        <taito>Taito는 도쿄 신주쿠에 본사를 둔 비디오 게임, 장난감, 아케이드 캐비닛 및 게임 센터를 전문으로 하는 일본 회사입니다. 이 회사는 1953년 Michael Kogan에 의해 Taito Trading Company로 설립되어 보드카, 자동 판매기 및 주크 박스를 일본으로 수입했습니다. 1973년부터 비디오 게임 제작을 시작했습니다.</taito>
+        <toaplan>Toaplan은 다양한 스크롤 슈팅 게임 및 기타 아케이드 게임 제작을 담당한 일본 비디오 게임 개발사였습니다. 그들의 첫번째 슈팅 게임인 Tiger-Heli on 아케이드는 성공을 거두었으며 Toaplan이 1980년대와 1990년대에 슈팅 게임의 선두 프로듀서로 자리 매김하도록 도왔습니다.</toaplan>
+        <twoplayer>“만약 팩맨이 어렸을 때 우리에게 영향을 미쳤다면 우리는 모두 어두운 방에서 뛰어 다니고 약을 먹으며 반복되는 전자 음악을 듣게 될 것입니다.” ― 마커스 브리그 스토크</twoplayer>
+        <fourplayer>“playing과 playing games에는 차이가 있습니다. 전자는 기쁨의 행위이고 후자는 행위입니다.” ― 베라 나자리안</fourplayer>
+        <setupscripts>“유한 게임은 승리를 목적으로 하고, 무한 게임은 게임을 계속하기 위한 것입니다.” ― 제임스 P. 카스</setupscripts>
+        <favorites>“사람들은 비디오 게임이 당신을 무감각하게 만들었기 때문에 나쁘다고 말했습니다. 게임의 진짜 문제는 플레이어가 모든 것을 시도해야 한다는 것입니다. 동굴이 있으면 들어가고 이상한 낯선 사람이 있으면 그에게 말을 걸어요. 하지만 게임에는 백만명의 생명이 있고, 인생에는 단 하나뿐입니다.”― Holly Black</favorites>
+        <notplayed>“지연된 게임은 결국 좋은 것이고 나쁜 게임은 영원히 나쁜 것입니다.” ― 미야모토 시게루</notplayed>
+        <lastplayed>“아이가 숙제에 대해 말할 수 있는 최악의 것은 숙제가 너무 어렵다는 것입니다. 아이가 게임에 대해 말할 수 있는 최악의 것은 너무 쉽다는 것입니다.” ― 헨리 젠킨스</lastplayed>
+        <allgames>“우리는 늙어서 노는 것을 멈추는 것이 아니고, 노는 것을 그만두기 때문에 늙어가는 것입니다!” - 벤자민 프랭클린</allgames>
+	<quake>퀘이크(Quake)는 id Software가 개발하고 Bethesda Softworks가 2010년 출시한 1인칭 슈팅 게임 시리즈입니다. 이 시리즈는 1996년의 시조 게임과 설정과 플롯이 다른 비선형 독립형 속편으로 구성됩니다.</quake>	
+	<cheevos>Retroachievements.org는 레트로 게임을 위해 최신 콘솔과 유사한 트로피/업적 잠금 해제 메커니즘을 제공하는 서비스입니다. 지원되는 시스템에는 Sega Megadrive, Super Nintendo, Nintendo 64, Playstation 및 Neo-Geo가 포함됩니다.</cheevos>
+	<atlus>Atlus는 도쿄에 본사를 둔 일본의 비디오 게임 개발, 유통 및 배포 회사입니다. Sega의 자회사인 이 회사는 Megami Tensei, Persona, Etrian Odyssey 및 Trauma Center 시리즈 등으로 유명합니다. 회사 마스코트는 Shin Megami Tensei 시리즈의 눈사람 같은 캐릭터인 Jack Frost입니다.</atlus>
+	<activision>Activision은 1979년 10월 캘리포니아 Sunnyvale에서 Atari 게임 개발자가 Atari에서 대우받은 방식에 화가 나서 인기있는 Atari 2600 가정용 비디오 게임 콘솔용 게임을 개발하기 위해 설립되었습니다. Activision은 최초의 독립적인 타사 콘솔 비디오 게임 개발사였습니다.</activision>
+	<codemasters>Codemasters Software Company는 영국의 Southam에 본사를 둔 영국의 비디오 게임 개발 및 유통사입니다. 1986년 10월 Richard와 David Darling 형제가 설립한 Codemasters는 영국에서 가장 오래된 게임 스튜디오 중 하나이며 2005년에는 잡지 Develop에서 최고의 독립 비디오 게임 개발사로 선정되었습니다.</codemasters>
+ 	<acclaim>Acclaim Entertainment, Inc.는 뉴욕 글렌 코브에 본사를 둔 미국 비디오 게임 유통사 입니다. Acclaim이라는 이름의 전 Activision 직원에 의해 구성되어 알파벳순 목록에서 Activision 및 Accolade(이전 Activision 직원에 의해 구성됨)보다 위에 있습니다.</acclaim>
+	<ocean>Ocean Software Ltd는 영국 소프트웨어 개발회사로 1980년대와 1990년대에 유럽에서 가장 큰 비디오 게임 개발 및 유통사 중 하나가 되었습니다. Ocean은 Rambo, Short Circuit 및 Cobra를 포함한 영화 라이센스를 확보 한 최초의 게임 회사입니다.</ocean>
+	<rockstar>Rockstar Games, Inc.는 뉴욕에 본사를 둔 미국 비디오 게임 유통사입니다. 이 회사는 1998년 12월에 Take-Two Interactive의 자회사로 설립되었으며, 이전에 Grand Theft Auto의 제작사인 DMA Design을 포함하여 BMG Interactive에서 인수한 자산을 사용합니다.</rockstar>
+	<ultimate>Ashby Computers and Graphics Limited는 전 아케이드 게임 개발자인 Tim과 Chris Stamper가 1982년에 설립한 영국의 비디오 게임 개발 및 유통사였습니다. Ultimate는 1983년 부터 1988년 폐업할 때까지 ZX Spectrum, Amstrad CPC, BBC Micro, MSX 및 Commodore 64 컴퓨터를 위한 일련의 성공적인 게임을 출시했습니다.</ultimate>
+	<ea>Electronic Arts Inc. (EA)는 캘리포니아 주 레드 우드 시티에 본사를 둔 미국 비디오 게임 회사입니다. Activision Blizzard에 이어 2020년 5월 기준 Take-Two Interactive, CD Projekt 및 Ubisoft보다 앞서 매출 및 시가 총액 기준으로 미주 및 유럽에서 두 번째로 큰 게임 회사입니다.</ea>
+	<easports>EA Sports는 스포츠 비디오 게임을 개발 및 유통하는 Electronic Arts의 한 부서입니다. 이전에는 EA의 마케팅 기믹으로, 스스로를 "EA Sports Network"라고 부르며 실제 스포츠 네트워크를 모방하려고 시도했습니다. 곧 자체적으로 하위 레이블로 성장하여 FIFA 및 Madden NFL과 같은 게임 시리즈를 출시했습니다.</easports>
+	<eidos>Eidos Interactive는 1995년 부터 2005년까지 챔피언십 매니저 시리즈와 함께 Tomb Raider 시리즈 게임으로 가장 유명한 영국 소프트웨어 유통사였습니다. 일련의 Takeoever에 이어 이제는 Japanese Square Enix 그룹이 소유하고 있습니다.</eidos>
+	<gt>GT Interactive Software Corporation (GTI)은 1993년 2월에 Cayre 가족 소유의 비디오 테이프 유통 업체인 GoodTimes Home Video의 사업부로 설립되었으며 Ron Chaimowitz가 공동 창업자 겸 사장입니다. 여러 번의 합병 및 인수후 회사는 현재 Atari.inc의 일부입니다.</gt>
+	<infogrames>Infogrames는 1983년부터 2009년까지 Alone In The Dark 시리즈로 가장 유명한 소프트웨어 개발 및 유통사였습니다. 이 회사는 이제 Atari.inc의 일부로 알려져 있습니다.</infogrames>
+	<lucasarts>Lucasfilm Games로 사업을 하는 LucasArts Entertainment Company는 미국의 라이센스 계약사입니다. 2013년까지는 비디오 게임 개발 및 유통사이기도 했습니다. LucasArts는 그래픽 어드벤처 게임과 Star Wars 및 Indiana Jones 프랜차이즈를 기반으로한 게임으로 가장 잘 알려져 있습니다.</lucasarts>
+	<simpsons>The Simpsons는 Homer, Marge, Bart, Lisa 및 Maggie로 구성된 Simpson 가족이 대표하는 미국 생활의 풍자적 묘사입니다. 오리지널 TV 쇼는 가상의 마을인 스프링 필드를 배경으로 하며 미국 문화와 사회, 텔레비전, 인간의 조건을 패러디합니다.</simpsons>
+	<tmnt>십대 돌연변이 닌자 거북이는 네 마리의 슈퍼 히어로 거북이입니다. 이탈리아 르네상스 예술가들의 이름을 딴 그들은 일본의 닌술 (ninjutsu) 무술 훈련을 받았습니다. 뉴욕시 하수구에 있는 집에서 그들은 사회로 부터 숨어 있기 위해 노력하면서 다양한 적들과 싸웁니다.</tmnt>
+	<battletoads>Battletoads는 Rare의 비디오 게임 미디어 프랜차이즈로 Rare의 오리지널 비트업 게임인 Battletoads(1991년)로 시작했습니다. 피부 상태의 이름을 딴 3개의 의인화 된 두꺼비, Rash, Zitz 및 Pimple이 출연한 이 시리즈는 Teen Mutant Ninja Turtles 게임 시리즈와 경쟁하기 위해 제작되었습니다.</battletoads>
+	<pokemon>Pokémon은 Nintendo와 The Pokémon Company에서 발행한 비디오 게임 시리즈입니다. 1996년 일본에서 Game Boy용으로 출시된 최초의 게임인 Pocket Monsters Red and Green인 Satoshi Tajiri와 개발사가 "코어 시리즈"라고 하는 롤플레잉 비디오 게임(RPG)의 주요 시리즈로 제작되었습니다. Nintendo 휴대용 게임기의 각 세대에서 계속되었습니다.</pokemon>
+	<lego>1995년 부터 The Lego Group이 제작한 건설 시스템인 Lego를 기반으로한 85개의 상용 비디오 게임이 출시되었습니다. 장르에는 어드벤처 게임, 보드 게임 및 레이싱 게임이 포함됩니다.</lego>
+	<tic80>TIC-80은 작은 게임을 만들고, 즐기고, 공유할 수 있는 판타지 컴퓨터입니다. 게임은 240x136픽셀 디스플레이, 16색 팔레트, 256개의 8x8색상 스프라이트, 4채널 사운드 등으로 제한됩니다.</tic80>
+	<samsho>일본에서 Samurai Spirits로 알려진 Samurai Shodown은 SNK의 격투 게임 시리즈입니다. 18세기 일본을 배경으로한 게임에는 외국 태생의 캐릭터와 가상의 괴물도 포함됩니다.</samsho>
+	<solarus>Solarus는 Action-RPG를 위한 경량의 무료 오픈 소스 게임 엔진입니다. C++로 빌드되었으며 Lua로 만든 게임을 실행합니다.</solarus>
+	<ddr>댄스 댄스 레볼루션 (이전 유럽 게임에서 댄싱 스테이지라고도 함)은 Konami가 제작한 감동적인 뮤직 비디오 게임 시리즈입니다. 1998년 일본에서 소개된 플레이어는 "댄스 플랫폼"에 서서 음악 및 시각적 신호에 맞춰 색이 지정된 화살표를 칩니다.</ddr>
+	<tux>SuperTux, SuperTux Kart 및 SuperTux Party는 Super Mario 게임에서 영감을 받은 오픈 소스 게임입니다. 90년대 중반부터 개발된 이 제품에는 Tux, Mozilla Thunderbird 및 Pidgin과 같은 다양한 오픈 소스 마스코트가 있습니다.</tux>
+	<subset.ratio>화면 비율</subset.ratio>
+	<d1970s>1970년대는 아케이드 게임의 황금기가 시작되었습니다. 동전으로 작동하는 아케이드 기계는 Pac-Man, Galaxians 및 Space Invaders와 같은 고전을 특징으로하는 인기를 얻었습니다. 또한 Atari 2600과 같은 최초의 가정용 콘솔이 등장했습니다.</d1970s>
+	<d1980s>1980년대에는 Sinclair 및 Commodore와 같은 가정용 컴퓨터와 헤비급 Sega 및 Nintendo의 최초의 대규모 콘솔 출시로 저렴한 가정용 게임 시스템이 등장했습니다.</d1980s>
+	<d1990s>1990년대에는 Street fighter, Tekken, Mortal Kombat와 같은 강력한 격투 게임이 출시되면서 아케이드가 다시 등장했습니다. 국내 시장에서는 Sony Playstation, Sega Saturn 및 Nintendo 64와 같은 5세대 콘솔이 출시되었습니다.</d1990s>
+	<easyrpg>Easy RPG는 RPG Maker 2000 및 2003과 호환되는 게임을 플레이 할 수 있는 무료 오픈 소스 롤플레잉 게임 인터프리터 및 편집기입니다.</easyrpg>	
+	<panlog>패널 로고</panlog>
+	<default>기본</default>
+	<panel>패널</panel>
+	<smallpanel>작은 패널</smallpanel>
+	<panelbox>박스아트 패널</panelbox>
+<!-- pending translation -->
+	<ecwolf>ECWolf는 Wolf4SDL 코드 베이스를 기반으로 하는 Wolfenstein 3D, Spear of Destiny 및 Super 3D Noah 's Ark의 고급 소스 포트입니다.</ecwolf>
+    </variables>
+</theme>

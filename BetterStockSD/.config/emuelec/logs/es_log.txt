@@ -1,0 +1,507 @@
+2014-12-31 18:16:25	INFO	EmulationStation - v31, built Jun 17 2021 - 16:02:05
+2014-12-31 18:16:25	INFO	Parsing XML file "/storage/.emulationstation/resources/genres.xml"...
+2014-12-31 18:16:25	INFO	Window::init
+2014-12-31 18:16:25	INFO	Creating window...
+2014-12-31 18:16:25	INFO	Created window successfully.
+2014-12-31 18:16:25	INFO	Checking available OpenGL extensions...
+2014-12-31 18:16:25	INFO	 ARB_texture_non_power_of_two: MISSING
+2014-12-31 18:16:25	ERROR	Resource path not found: :/splash.xml
+2014-12-31 18:16:25	INFO	Parsing XML file "/storage/.emulationstation/resources/mamenames.xml"...
+2014-12-31 18:16:25	INFO	Parsing XML file "/storage/.emulationstation/resources/mamebioses.xml"...
+2014-12-31 18:16:25	INFO	Parsing XML file "/storage/.emulationstation/resources/mamedevices.xml"...
+2014-12-31 18:16:25	INFO	Loading system config file /storage/.emulationstation/es_systems.cfg...
+2014-12-31 18:16:25	WARNING	  Unknown platform for system "amstradgx4000" (platform "amstradgx4000" from list "amstradgx4000")
+2014-12-31 18:16:25	ERROR	System "amstradgx4000" is missing name, path, extension, or command!
+2014-12-31 18:16:25	WARNING	System "amstradcpc" has no games! Ignoring it.
+2014-12-31 18:16:25	WARNING	System "arcade" has no games! Ignoring it.
+2014-12-31 18:16:25	WARNING	System "atari2600" has no games! Ignoring it.
+2014-12-31 18:16:25	WARNING	System "atari7800" has no games! Ignoring it.
+2014-12-31 18:16:25	WARNING	System "atari800" has no games! Ignoring it.
+2014-12-31 18:16:25	WARNING	System "atari5200" has no games! Ignoring it.
+2014-12-31 18:16:25	INFO	Parsing XML file "/storage/roms/mame/gamelist.xml"...
+2014-12-31 18:16:25	WARNING	System "atarist" has no games! Ignoring it.
+2014-12-31 18:16:25	WARNING	System "wonderswan" has no games! Ignoring it.
+2014-12-31 18:16:25	WARNING	System "atomiswave" has no games! Ignoring it.
+2014-12-31 18:16:25	WARNING	System "cps2" has no games! Ignoring it.
+2014-12-31 18:16:25	WARNING	System "cps3" has no games! Ignoring it.
+2014-12-31 18:16:25	WARNING	  Unknown platform for system "c128" (platform "c128" from list "c128")
+2014-12-31 18:16:25	WARNING	System "colecovision" has no games! Ignoring it.
+2014-12-31 18:16:25	WARNING	System "c128" has no games! Ignoring it.
+2014-12-31 18:16:25	WARNING	System "amiga" has no games! Ignoring it.
+2014-12-31 18:16:25	WARNING	System "amigacd32" has no games! Ignoring it.
+2014-12-31 18:16:25	WARNING	  Unknown platform for system "c16" (platform "c16" from list "c16")
+2014-12-31 18:16:25	WARNING	System "c16" has no games! Ignoring it.
+2014-12-31 18:16:25	WARNING	System "c64" has no games! Ignoring it.
+2014-12-31 18:16:25	WARNING	Unknown property type "iconLr" (for element of type helpsystem).
+2014-12-31 18:16:25	WARNING	System "wonderswancolor" has no games! Ignoring it.
+2014-12-31 18:16:25	WARNING	Unknown property type "iconLr" (for element of type helpsystem).
+2014-12-31 18:16:25	WARNING	Unknown property type "iconLr" (for element of type helpsystem).
+2014-12-31 18:16:25	WARNING	Unknown property type "iconLr" (for element of type helpsystem).
+2014-12-31 18:16:25	WARNING	System "pc" has no games! Ignoring it.
+2014-12-31 18:16:25	WARNING	Unknown property type "iconLr" (for element of type helpsystem).
+2014-12-31 18:16:25	WARNING	Unknown property type "iconLr" (for element of type helpsystem).
+2014-12-31 18:16:25	WARNING	Unknown property type "iconLr" (for element of type helpsystem).
+2014-12-31 18:16:25	WARNING	System "atarilynx" has no games! Ignoring it.
+2014-12-31 18:16:25	ERROR	System "wii" is missing name, path, extension, or command!
+2014-12-31 18:16:25	WARNING	Unknown property type "iconLr" (for element of type helpsystem).
+2014-12-31 18:16:25	WARNING	System "daphne" has no games! Ignoring it.
+2014-12-31 18:16:25	ERROR	System "gamecube" is missing name, path, extension, or command!
+2014-12-31 18:16:25	WARNING	Unknown property type "iconLr" (for element of type helpsystem).
+2014-12-31 18:16:25	WARNING	System "msx" has no games! Ignoring it.
+2014-12-31 18:16:25	WARNING	Unknown property type "iconLr" (for element of type helpsystem).
+2014-12-31 18:16:25	INFO	Parsing XML file "/storage/.emulationstation/recovery/fbn/kof97.xml"...
+2014-12-31 18:16:25	WARNING	Unknown property type "alignment" (for element of type image).
+2014-12-31 18:16:25	WARNING	System "cps1" has no games! Ignoring it.
+2014-12-31 18:16:25	WARNING	Unknown property type "iconLr" (for element of type helpsystem).
+2014-12-31 18:16:25	WARNING	System "odyssey2" has no games! Ignoring it.
+2014-12-31 18:16:25	WARNING	System "pc-9800" has no games! Ignoring it.
+2014-12-31 18:16:25	WARNING	  Unknown platform for system "mplayer" (platform "mplayer" from list "mplayer")
+2014-12-31 18:16:25	WARNING	Unknown property type "iconLr" (for element of type helpsystem).
+2014-12-31 18:16:25	WARNING	System "vic20" has no games! Ignoring it.
+2014-12-31 18:16:25	WARNING	System "msx2" has no games! Ignoring it.
+2014-12-31 18:16:25	WARNING	Unknown property type "iconLr" (for element of type helpsystem).
+2014-12-31 18:16:25	WARNING	System "vectrex" has no games! Ignoring it.
+2014-12-31 18:16:25	WARNING	Unknown property type "iconLr" (for element of type helpsystem).
+2014-12-31 18:16:25	WARNING	Unknown property type "iconLr" (for element of type helpsystem).
+2014-12-31 18:16:25	WARNING	System "pcenginecd" has no games! Ignoring it.
+2014-12-31 18:16:25	WARNING	System "intellivision" has no games! Ignoring it.
+2014-12-31 18:16:25	WARNING	System "pcfx" has no games! Ignoring it.
+2014-12-31 18:16:25	WARNING	System "supergrafx" has no games! Ignoring it.
+2014-12-31 18:16:25	WARNING	System "tg16" has no games! Ignoring it.
+2014-12-31 18:16:25	WARNING	System "mplayer" has no games! Ignoring it.
+2014-12-31 18:16:25	WARNING	System "n64" has no games! Ignoring it.
+2014-12-31 18:16:25	WARNING	System "pcengine" has no games! Ignoring it.
+2014-12-31 18:16:25	WARNING	System "famicom" has no games! Ignoring it.
+2014-12-31 18:16:25	WARNING	System "nes" has no games! Ignoring it.
+2014-12-31 18:16:25	WARNING	System "tg16cd" has no games! Ignoring it.
+2014-12-31 18:16:25	WARNING	Unknown property type "alignment" (for element of type image).
+2014-12-31 18:16:25	WARNING	System "gba" has no games! Ignoring it.
+2014-12-31 18:16:25	WARNING	System "gb" has no games! Ignoring it.
+2014-12-31 18:16:25	WARNING	Included file "./../systems/imageviewer.xml" not found! (resolved to "/storage/.emulationstation/themes/Crystal/systems/imageviewer.xml")
+2014-12-31 18:16:25	WARNING	System "gbah" has no games! Ignoring it.
+2014-12-31 18:16:25	WARNING	System "nesh" has no games! Ignoring it.
+2014-12-31 18:16:25	WARNING	System "gbch" has no games! Ignoring it.
+2014-12-31 18:16:25	WARNING	System "gbh" has no games! Ignoring it.
+2014-12-31 18:16:25	WARNING	  Unknown platform for system "sfc" (platform "sfc" from list "sfc")
+2014-12-31 18:16:25	WARNING	System "gameandwatch" has no games! Ignoring it.
+2014-12-31 18:16:25	WARNING	System "gbc" has no games! Ignoring it.
+2014-12-31 18:16:25	WARNING	System "sfc" has no games! Ignoring it.
+2014-12-31 18:16:25	WARNING	System "snes" has no games! Ignoring it.
+2014-12-31 18:16:25	WARNING	Unknown property type "iconLr" (for element of type helpsystem).
+2014-12-31 18:16:25	WARNING	System "fds" has no games! Ignoring it.
+2014-12-31 18:16:25	WARNING	Unknown property type "iconLr" (for element of type helpsystem).
+2014-12-31 18:16:25	WARNING	System "pokemini" has no games! Ignoring it.
+2014-12-31 18:16:25	WARNING	System "snesmsu1" has no games! Ignoring it.
+2014-12-31 18:16:25	WARNING	Unknown property type "alignment" (for element of type rating).
+2014-12-31 18:16:25	WARNING	System "openbor" has no games! Ignoring it.
+2014-12-31 18:16:25	WARNING	System "snesh" has no games! Ignoring it.
+2014-12-31 18:16:25	WARNING	  Unknown platform for system "ports" (platform "ports" from list "ports")
+2014-12-31 18:16:25	WARNING	Unknown property type "maxlength" (for element of type imagegrid).
+2014-12-31 18:16:25	WARNING	System "videopac" has no games! Ignoring it.
+2014-12-31 18:16:25	WARNING	Empty color
+2014-12-31 18:16:25	WARNING	Unknown property type "alignment" (for element of type image).
+2014-12-31 18:16:25	ERROR	System "residualvm" is missing name, path, extension, or command!
+2014-12-31 18:16:25	WARNING	System "3do" has no games! Ignoring it.
+2014-12-31 18:16:25	WARNING	System "neogeo" has no games! Ignoring it.
+2014-12-31 18:16:25	WARNING	Unknown property type "alignment" (for element of type rating).
+2014-12-31 18:16:25	WARNING	System "neocd" has no games! Ignoring it.
+2014-12-31 18:16:25	WARNING	Unknown property type "zindex" (for element of type image).
+2014-12-31 18:16:25	WARNING	System "ngp" has no games! Ignoring it.
+2014-12-31 18:16:25	WARNING	System "ngpc" has no games! Ignoring it.
+2014-12-31 18:16:25	WARNING	Unknown property type "alignment" (for element of type rating).
+2014-12-31 18:16:25	WARNING	System "sega32x" has no games! Ignoring it.
+2014-12-31 18:16:25	WARNING	Unknown property type "alignment" (for element of type image).
+2014-12-31 18:16:25	WARNING	System "virtualboy" has no games! Ignoring it.
+2014-12-31 18:16:25	WARNING	Unknown property type "iconLr" (for element of type helpsystem).
+2014-12-31 18:16:25	WARNING	Unknown property type "" (for element of type image).
+2014-12-31 18:16:25	WARNING	Unknown property type "zindex" (for element of type image).
+2014-12-31 18:16:25	INFO	Parsing XML file "/storage/roms/ports_scripts/gamelist.xml"...
+2014-12-31 18:16:25	WARNING	System "segacd" has no games! Ignoring it.
+2014-12-31 18:16:25	WARNING	System "scummvm" has no games! Ignoring it.
+2014-12-31 18:16:25	WARNING	Unknown property type "iconLr" (for element of type helpsystem).
+2014-12-31 18:16:25	WARNING	Unknown property type "alignment" (for element of type image).
+2014-12-31 18:16:25	WARNING	System "gamegear" has no games! Ignoring it.
+2014-12-31 18:16:25	INFO	Parsing XML file "/storage/roms/dreamcast/gamelist.xml"...
+2014-12-31 18:16:25	WARNING	Unknown property type "alignment" (for element of type image).
+2014-12-31 18:16:25	WARNING	System "genesis" has no games! Ignoring it.
+2014-12-31 18:16:25	WARNING	System "genh" has no games! Ignoring it.
+2014-12-31 18:16:25	WARNING	System "mastersystem" has no games! Ignoring it.
+2014-12-31 18:16:25	WARNING	System "ggh" has no games! Ignoring it.
+2014-12-31 18:16:25	WARNING	Unknown property type "alignment" (for element of type rating).
+2014-12-31 18:16:25	WARNING	Unknown property type "iconLr" (for element of type helpsystem).
+2014-12-31 18:16:25	WARNING	System "megadrive" has no games! Ignoring it.
+2014-12-31 18:16:25	WARNING	System "megadrive-japan" has no games! Ignoring it.
+2014-12-31 18:16:25	WARNING	  Unknown platform for system "sc-3000" (platform "sc-3000" from list "sc-3000")
+2014-12-31 18:16:25	WARNING	Unknown property type "maxlength" (for element of type imagegrid).
+2014-12-31 18:16:25	WARNING	Empty color
+2014-12-31 18:16:25	WARNING	System "sc-3000" has no games! Ignoring it.
+2014-12-31 18:16:25	WARNING	Unknown property type "zindex" (for element of type image).
+2014-12-31 18:16:25	WARNING	System "sg-1000" has no games! Ignoring it.
+2014-12-31 18:16:25	WARNING	System "naomi" has no games! Ignoring it.
+2014-12-31 18:16:25	WARNING	  Unknown platform for system "setup" (platform "setup" from list "setup")
+2014-12-31 18:16:25	INFO	Parsing XML file "/storage/roms/saturn/gamelist.xml"...
+2014-12-31 18:16:25	WARNING	Unknown property type "alignment" (for element of type image).
+2014-12-31 18:16:25	INFO	Parsing XML file "/usr/bin/scripts/setup/gamelist.xml"...
+2014-12-31 18:16:25	WARNING	Unknown property type "alignment" (for element of type rating).
+2014-12-31 18:16:25	WARNING	Unknown property type "zindex" (for element of type image).
+2014-12-31 18:16:25	WARNING	Unknown property type "zindex" (for element of type image).
+2014-12-31 18:16:25	WARNING	Unknown property type "visible" (for element of type gridtile).
+2014-12-31 18:16:25	WARNING	Unknown property type "alignment" (for element of type rating).
+2014-12-31 18:16:25	WARNING	Unknown property type "visible" (for element of type gridtile).
+2014-12-31 18:16:25	WARNING	Unknown property type "maxlength" (for element of type imagegrid).
+2014-12-31 18:16:25	WARNING	Empty color
+2014-12-31 18:16:25	INFO	Parsing XML file "/storage/.emulationstation/recovery/setup/system_info.xml"...
+2014-12-31 18:16:25	WARNING	Unknown property type "alignment" (for element of type rating).
+2014-12-31 18:16:25	WARNING	Unknown property type "alignment" (for element of type image).
+2014-12-31 18:16:25	WARNING	Unknown property type "" (for element of type image).
+2014-12-31 18:16:25	WARNING	Unknown property type "zindex" (for element of type image).
+2014-12-31 18:16:25	WARNING	Unknown property type "alignment" (for element of type rating).
+2014-12-31 18:16:25	WARNING	Unknown property type "alignment" (for element of type image).
+2014-12-31 18:16:25	WARNING	Unknown property type "alignment" (for element of type image).
+2014-12-31 18:16:25	WARNING	Unknown property type "zindex" (for element of type image).
+2014-12-31 18:16:25	WARNING	Unknown property type "alignment" (for element of type rating).
+2014-12-31 18:16:25	WARNING	Unknown property type "maxlength" (for element of type imagegrid).
+2014-12-31 18:16:25	WARNING	Empty color
+2014-12-31 18:16:25	WARNING	Unknown property type "alignment" (for element of type rating).
+2014-12-31 18:16:25	WARNING	Unknown property type "iconLr" (for element of type helpsystem).
+2014-12-31 18:16:25	WARNING	Unknown property type "iconLr" (for element of type helpsystem).
+2014-12-31 18:16:25	WARNING	Unknown property type "iconLr" (for element of type helpsystem).
+2014-12-31 18:16:25	WARNING	Unknown property type "iconLr" (for element of type helpsystem).
+2014-12-31 18:16:25	WARNING	Unknown property type "iconLr" (for element of type helpsystem).
+2014-12-31 18:16:25	WARNING	Unknown property type "alignment" (for element of type image).
+2014-12-31 18:16:25	WARNING	Unknown property type "" (for element of type image).
+2014-12-31 18:16:25	WARNING	Unknown property type "zindex" (for element of type image).
+2014-12-31 18:16:25	WARNING	Unknown property type "alignment" (for element of type image).
+2014-12-31 18:16:25	WARNING	Unknown property type "zindex" (for element of type image).
+2014-12-31 18:16:25	WARNING	Unknown property type "alignment" (for element of type rating).
+2014-12-31 18:16:25	WARNING	Unknown property type "zindex" (for element of type image).
+2014-12-31 18:16:25	WARNING	Unknown property type "alignment" (for element of type image).
+2014-12-31 18:16:25	WARNING	Unknown property type "alignment" (for element of type image).
+2014-12-31 18:16:25	WARNING	Unknown property type "alignment" (for element of type rating).
+2014-12-31 18:16:25	WARNING	Unknown property type "alignment" (for element of type image).
+2014-12-31 18:16:25	WARNING	Unknown property type "" (for element of type image).
+2014-12-31 18:16:25	WARNING	Unknown property type "zindex" (for element of type image).
+2014-12-31 18:16:25	WARNING	Unknown property type "iconLr" (for element of type helpsystem).
+2014-12-31 18:16:25	WARNING	Unknown property type "iconLr" (for element of type helpsystem).
+2014-12-31 18:16:25	WARNING	Unknown property type "iconLr" (for element of type helpsystem).
+2014-12-31 18:16:25	WARNING	Unknown property type "iconLr" (for element of type helpsystem).
+2014-12-31 18:16:25	WARNING	Unknown property type "iconLr" (for element of type helpsystem).
+2014-12-31 18:16:25	WARNING	Unknown property type "iconLr" (for element of type helpsystem).
+2014-12-31 18:16:25	WARNING	Unknown property type "iconLr" (for element of type helpsystem).
+2014-12-31 18:16:25	WARNING	Unknown property type "iconLr" (for element of type helpsystem).
+2014-12-31 18:16:25	WARNING	Unknown property type "iconLr" (for element of type helpsystem).
+2014-12-31 18:16:25	WARNING	Unknown property type "iconLr" (for element of type helpsystem).
+2014-12-31 18:16:25	WARNING	Unknown property type "alignment" (for element of type image).
+2014-12-31 18:16:25	WARNING	Unknown property type "iconLr" (for element of type helpsystem).
+2014-12-31 18:16:25	WARNING	Unknown property type "alignment" (for element of type image).
+2014-12-31 18:16:25	WARNING	Unknown property type "alignment" (for element of type image).
+2014-12-31 18:16:25	WARNING	Unknown property type "iconLr" (for element of type helpsystem).
+2014-12-31 18:16:25	WARNING	Unknown property type "zindex" (for element of type image).
+2014-12-31 18:16:25	WARNING	Unknown property type "zindex" (for element of type image).
+2014-12-31 18:16:25	WARNING	Unknown property type "visible" (for element of type gridtile).
+2014-12-31 18:16:25	WARNING	Unknown property type "visible" (for element of type gridtile).
+2014-12-31 18:16:25	WARNING	Unknown property type "iconLr" (for element of type helpsystem).
+2014-12-31 18:16:25	WARNING	Unknown property type "alignment" (for element of type image).
+2014-12-31 18:16:25	WARNING	Unknown property type "alignment" (for element of type rating).
+2014-12-31 18:16:25	WARNING	Unknown property type "maxlength" (for element of type imagegrid).
+2014-12-31 18:16:25	WARNING	Unknown property type "iconLr" (for element of type helpsystem).
+2014-12-31 18:16:25	WARNING	Unknown property type "iconLr" (for element of type helpsystem).
+2014-12-31 18:16:25	WARNING	System "x68000" has no games! Ignoring it.
+2014-12-31 18:16:25	WARNING	Empty color
+2014-12-31 18:16:25	WARNING	System "zxspectrum" has no games! Ignoring it.
+2014-12-31 18:16:25	WARNING	System "zx81" has no games! Ignoring it.
+2014-12-31 18:16:25	WARNING	Unknown property type "iconLr" (for element of type helpsystem).
+2014-12-31 18:16:25	WARNING	System "psx" has no games! Ignoring it.
+2014-12-31 18:16:25	WARNING	Unknown property type "iconLr" (for element of type helpsystem).
+2014-12-31 18:16:25	WARNING	Unknown property type "iconLr" (for element of type helpsystem).
+2014-12-31 18:16:25	WARNING	Unknown property type "iconLr" (for element of type helpsystem).
+2014-12-31 18:16:25	WARNING	Unknown property type "iconLr" (for element of type helpsystem).
+2014-12-31 18:16:25	INFO	Parsing XML file "/storage/roms/psp/gamelist.xml"...
+2014-12-31 18:16:25	WARNING	Unknown property type "alignment" (for element of type image).
+2014-12-31 18:16:25	INFO	Parsing XML file "/storage/.emulationstation/recovery/psp/50-Tekken 6.xml"...
+2014-12-31 18:16:25	WARNING	Unknown property type "alignment" (for element of type rating).
+2014-12-31 18:16:25	WARNING	Unknown property type "zindex" (for element of type image).
+2014-12-31 18:16:25	WARNING	Unknown property type "alignment" (for element of type image).
+2014-12-31 18:16:25	WARNING	Unknown property type "zindex" (for element of type image).
+2014-12-31 18:16:25	WARNING	Unknown property type "alignment" (for element of type rating).
+2014-12-31 18:16:25	WARNING	Unknown property type "zindex" (for element of type image).
+2014-12-31 18:16:25	WARNING	Unknown property type "visible" (for element of type gridtile).
+2014-12-31 18:16:25	WARNING	Unknown property type "visible" (for element of type gridtile).
+2014-12-31 18:16:25	INFO	Parsing XML file "/storage/.emulationstation/recovery/psp/09-Tekken Dark Resurrection.xml"...
+2014-12-31 18:16:25	INFO	Parsing XML file "/storage/.emulationstation/recovery/psp/01-God Of War Chains Of Olympus.xml"...
+2014-12-31 18:16:25	WARNING	Unknown property type "maxlength" (for element of type imagegrid).
+2014-12-31 18:16:25	WARNING	Empty color
+2014-12-31 18:16:25	WARNING	Unknown property type "alignment" (for element of type rating).
+2014-12-31 18:16:25	WARNING	Unknown property type "alignment" (for element of type image).
+2014-12-31 18:16:25	WARNING	Unknown property type "" (for element of type image).
+2014-12-31 18:16:25	WARNING	Unknown property type "zindex" (for element of type image).
+2014-12-31 18:16:25	WARNING	System "pspminis" has no games! Ignoring it.
+2014-12-31 18:16:25	WARNING	System "uzebox" has no games! Ignoring it.
+2014-12-31 18:16:25	WARNING	System "solarus" has no games! Ignoring it.
+2014-12-31 18:16:25	WARNING	System "pico8" has no games! Ignoring it.
+2014-12-31 18:16:25	WARNING	System "prboom" has no games! Ignoring it.
+2014-12-31 18:16:25	WARNING	  Unknown platform for system "tic-80" (platform "tic-80" from list "tic-80")
+2014-12-31 18:16:25	WARNING	System "tic-80" has no games! Ignoring it.
+2014-12-31 18:16:25	WARNING	System "easyrpg" has no games! Ignoring it.
+2014-12-31 18:16:25	WARNING	System "ecwolf" has no games! Ignoring it.
+2014-12-31 18:16:25	WARNING	System "supervision" has no games! Ignoring it.
+2014-12-31 18:16:25	WARNING	  Unknown platform for system "freej2me" (platform "freej2me" from list "freej2me")
+2014-12-31 18:16:25	WARNING	System "freej2me" has no games! Ignoring it.
+2014-12-31 18:16:25	WARNING	Unknown property type "alignment" (for element of type rating).
+2014-12-31 18:16:25	WARNING	Unknown property type "maxlength" (for element of type imagegrid).
+2014-12-31 18:16:25	WARNING	Unknown property type "zindex" (for element of type image).
+2014-12-31 18:16:25	WARNING	Unknown property type "visible" (for element of type gridtile).
+2014-12-31 18:16:25	WARNING	Unknown property type "visible" (for element of type gridtile).
+2014-12-31 18:16:25	WARNING	Empty color
+2014-12-31 18:16:25	WARNING	Unknown property type "alignment" (for element of type image).
+2014-12-31 18:16:25	WARNING	Unknown property type "alignment" (for element of type image).
+2014-12-31 18:16:25	WARNING	Unknown property type "alignment" (for element of type rating).
+2014-12-31 18:16:25	WARNING	Unknown property type "alignment" (for element of type rating).
+2014-12-31 18:16:25	WARNING	Unknown property type "zindex" (for element of type image).
+2014-12-31 18:16:25	WARNING	Unknown property type "maxlength" (for element of type imagegrid).
+2014-12-31 18:16:25	WARNING	Empty color
+2014-12-31 18:16:25	WARNING	Unknown property type "alignment" (for element of type rating).
+2014-12-31 18:16:25	WARNING	Unknown property type "zindex" (for element of type image).
+2014-12-31 18:16:25	WARNING	Unknown property type "alignment" (for element of type rating).
+2014-12-31 18:16:25	WARNING	Unknown property type "alignment" (for element of type rating).
+2014-12-31 18:16:25	WARNING	Unknown property type "maxlength" (for element of type imagegrid).
+2014-12-31 18:16:25	WARNING	Unknown property type "alignment" (for element of type image).
+2014-12-31 18:16:25	WARNING	Unknown property type "" (for element of type image).
+2014-12-31 18:16:25	WARNING	Unknown property type "zindex" (for element of type image).
+2014-12-31 18:16:25	WARNING	Unknown property type "alignment" (for element of type rating).
+2014-12-31 18:16:25	WARNING	Unknown property type "alignment" (for element of type rating).
+2014-12-31 18:16:25	WARNING	Empty color
+2014-12-31 18:16:25	WARNING	Unknown property type "zindex" (for element of type image).
+2014-12-31 18:16:25	WARNING	Unknown property type "zindex" (for element of type image).
+2014-12-31 18:16:25	WARNING	Unknown property type "alignment" (for element of type image).
+2014-12-31 18:16:25	WARNING	Unknown property type "" (for element of type image).
+2014-12-31 18:16:25	WARNING	Unknown property type "zindex" (for element of type image).
+2014-12-31 18:16:25	WARNING	Unknown property type "alignment" (for element of type rating).
+2014-12-31 18:16:25	WARNING	Unknown property type "alignment" (for element of type image).
+2014-12-31 18:16:25	WARNING	Unknown property type "" (for element of type image).
+2014-12-31 18:16:25	WARNING	Unknown property type "alignment" (for element of type image).
+2014-12-31 18:16:25	WARNING	Unknown property type "zindex" (for element of type image).
+2014-12-31 18:16:25	WARNING	Unknown property type "alignment" (for element of type image).
+2014-12-31 18:16:25	WARNING	Unknown property type "alignment" (for element of type image).
+2014-12-31 18:16:25	WARNING	Unknown property type "iconLr" (for element of type helpsystem).
+2014-12-31 18:16:25	WARNING	Unknown property type "alignment" (for element of type image).
+2014-12-31 18:16:25	WARNING	Unknown property type "iconLr" (for element of type helpsystem).
+2014-12-31 18:16:25	WARNING	Unknown property type "iconLr" (for element of type helpsystem).
+2014-12-31 18:16:25	WARNING	Unknown property type "iconLr" (for element of type helpsystem).
+2014-12-31 18:16:25	WARNING	Unknown property type "iconLr" (for element of type helpsystem).
+2014-12-31 18:16:25	WARNING	Unknown property type "alignment" (for element of type rating).
+2014-12-31 18:16:25	WARNING	Unknown property type "zindex" (for element of type image).
+2014-12-31 18:16:25	WARNING	Unknown property type "alignment" (for element of type image).
+2014-12-31 18:16:25	WARNING	Unknown property type "zindex" (for element of type image).
+2014-12-31 18:16:25	WARNING	Unknown property type "alignment" (for element of type image).
+2014-12-31 18:16:25	WARNING	Unknown property type "alignment" (for element of type image).
+2014-12-31 18:16:25	WARNING	Unknown property type "visible" (for element of type gridtile).
+2014-12-31 18:16:25	WARNING	Unknown property type "visible" (for element of type gridtile).
+2014-12-31 18:16:25	WARNING	Unknown property type "alignment" (for element of type rating).
+2014-12-31 18:16:25	WARNING	Unknown property type "zindex" (for element of type image).
+2014-12-31 18:16:25	WARNING	Unknown property type "alignment" (for element of type image).
+2014-12-31 18:16:25	WARNING	Unknown property type "zindex" (for element of type image).
+2014-12-31 18:16:25	WARNING	Unknown property type "" (for element of type image).
+2014-12-31 18:16:25	WARNING	Unknown property type "zindex" (for element of type image).
+2014-12-31 18:16:25	WARNING	Unknown property type "alignment" (for element of type image).
+2014-12-31 18:16:25	WARNING	Unknown property type "zindex" (for element of type image).
+2014-12-31 18:16:25	WARNING	Unknown property type "alignment" (for element of type image).
+2014-12-31 18:16:25	WARNING	Unknown property type "zindex" (for element of type image).
+2014-12-31 18:16:25	WARNING	Unknown property type "visible" (for element of type gridtile).
+2014-12-31 18:16:25	WARNING	Unknown property type "visible" (for element of type gridtile).
+2014-12-31 18:16:25	WARNING	Unknown property type "zindex" (for element of type image).
+2014-12-31 18:16:25	WARNING	Unknown property type "visible" (for element of type gridtile).
+2014-12-31 18:16:25	WARNING	Unknown property type "visible" (for element of type gridtile).
+2014-12-31 18:16:25	WARNING	Unknown property type "alignment" (for element of type rating).
+2014-12-31 18:16:25	WARNING	Unknown property type "zindex" (for element of type image).
+2014-12-31 18:16:25	WARNING	Unknown property type "maxlength" (for element of type imagegrid).
+2014-12-31 18:16:25	WARNING	Unknown property type "visible" (for element of type gridtile).
+2014-12-31 18:16:25	WARNING	Unknown property type "visible" (for element of type gridtile).
+2014-12-31 18:16:25	WARNING	Empty color
+2014-12-31 18:16:25	WARNING	Unknown property type "zindex" (for element of type image).
+2014-12-31 18:16:25	WARNING	Unknown property type "alignment" (for element of type rating).
+2014-12-31 18:16:25	WARNING	Unknown property type "zindex" (for element of type image).
+2014-12-31 18:16:25	WARNING	Unknown property type "zindex" (for element of type image).
+2014-12-31 18:16:25	WARNING	Unknown property type "visible" (for element of type gridtile).
+2014-12-31 18:16:25	WARNING	Unknown property type "visible" (for element of type gridtile).
+2014-12-31 18:16:25	WARNING	Unknown property type "alignment" (for element of type rating).
+2014-12-31 18:16:25	WARNING	Unknown property type "alignment" (for element of type image).
+2014-12-31 18:16:25	WARNING	Unknown property type "" (for element of type image).
+2014-12-31 18:16:25	WARNING	Unknown property type "zindex" (for element of type image).
+2014-12-31 18:16:25	WARNING	Unknown property type "alignment" (for element of type image).
+2014-12-31 18:16:25	WARNING	Unknown property type "alignment" (for element of type image).
+2014-12-31 18:16:25	WARNING	Unknown property type "zindex" (for element of type image).
+2014-12-31 18:16:25	WARNING	Unknown property type "zindex" (for element of type image).
+2014-12-31 18:16:25	WARNING	Unknown property type "visible" (for element of type gridtile).
+2014-12-31 18:16:25	WARNING	Unknown property type "visible" (for element of type gridtile).
+2014-12-31 18:16:25	WARNING	Unknown property type "iconLr" (for element of type helpsystem).
+2014-12-31 18:16:25	WARNING	Unknown property type "iconLr" (for element of type helpsystem).
+2014-12-31 18:16:25	WARNING	Unknown property type "iconLr" (for element of type helpsystem).
+2014-12-31 18:16:25	WARNING	Unknown property type "iconLr" (for element of type helpsystem).
+2014-12-31 18:16:25	WARNING	Unknown property type "iconLr" (for element of type helpsystem).
+2014-12-31 18:16:25	WARNING	Included file "./../systems/custom-collections.xml" not found! (resolved to "/storage/.emulationstation/themes/Crystal/systems/custom-collections.xml")
+2014-12-31 18:16:25	WARNING	Unknown property type "alignment" (for element of type image).
+2014-12-31 18:16:25	WARNING	Unknown property type "alignment" (for element of type rating).
+2014-12-31 18:16:25	WARNING	Unknown property type "maxlength" (for element of type imagegrid).
+2014-12-31 18:16:25	WARNING	Empty color
+2014-12-31 18:16:25	WARNING	Unknown property type "alignment" (for element of type rating).
+2014-12-31 18:16:25	WARNING	Unknown property type "zindex" (for element of type image).
+2014-12-31 18:16:25	WARNING	Unknown property type "alignment" (for element of type rating).
+2014-12-31 18:16:25	WARNING	Unknown property type "alignment" (for element of type image).
+2014-12-31 18:16:25	WARNING	Unknown property type "" (for element of type image).
+2014-12-31 18:16:25	WARNING	Unknown property type "zindex" (for element of type image).
+2014-12-31 18:16:25	WARNING	Unknown property type "alignment" (for element of type image).
+2014-12-31 18:16:25	WARNING	Unknown property type "alignment" (for element of type image).
+2014-12-31 18:16:25	WARNING	Unknown property type "zindex" (for element of type image).
+2014-12-31 18:16:25	WARNING	Unknown property type "zindex" (for element of type image).
+2014-12-31 18:16:25	WARNING	Unknown property type "visible" (for element of type gridtile).
+2014-12-31 18:16:25	WARNING	Unknown property type "visible" (for element of type gridtile).
+2014-12-31 18:16:26	WARNING	ImageIO::loadImageSize	Unknown file type
+2014-12-31 18:16:26	WARNING	ImageIO::loadImageSize	Unknown file type
+2014-12-31 18:16:26	INFO	Approximative device found using guid=03000000bc2000000055000011010000 name=Twin USB Joystick)
+2014-12-31 18:16:26	INFO	Approximative device found using guid=03000000bc2000000055000011010000 name=Twin USB Joystick)
+2014-12-31 18:16:26	INFO	Added known joystick SHANWAN Android Gamepad (GUID: 03000000bc2000000055000011010000, instance ID: 0, device index: 0)
+2014-12-31 18:16:26	WARNING	ImageIO::loadImageSize	Unknown file type
+2014-12-31 18:16:26	WARNING	ImageIO::loadImageSize	Unknown file type
+2014-12-31 18:16:26	WARNING	ImageIO::loadImageSize	Unknown file type
+2014-12-31 18:16:26	WARNING	ImageIO::loadImageSize	Unknown file type
+2014-12-31 18:16:26	WARNING	ImageIO::loadImageSize	Unknown file type
+2014-12-31 18:16:26	WARNING	ImageIO::loadImageSize	Unknown file type
+2014-12-31 18:16:26	WARNING	ImageIO::loadImageSize	Unknown file type
+2014-12-31 18:16:27	WARNING	ImageIO::loadImageSize	Unknown file type
+2014-12-31 18:16:27	WARNING	ImageIO::loadImageSize	Unknown file type
+2014-12-31 18:16:27	WARNING	ImageIO::loadImageSize	Unknown file type
+2014-12-31 18:16:27	WARNING	ImageIO::loadImageSize	Unknown file type
+2014-12-31 18:16:27	WARNING	ImageIO::loadImageSize	Unknown file type
+2014-12-31 18:16:27	WARNING	ImageIO::loadImageSize	Unknown file type
+2014-12-31 18:16:27	WARNING	ImageIO::loadImageSize	Unknown file type
+2014-12-31 18:16:27	WARNING	ImageIO::loadImageSize	Unknown file type
+2014-12-31 18:16:27	INFO	SDL AUDIO Initialized
+2014-12-31 18:16:28	INFO	Approximative device found using guid=03000000bc2000000055000011010000 name=Twin USB Joystick)
+2014-12-31 18:16:28	INFO	Approximative device found using guid=03000000bc2000000055000011010000 name=Twin USB Joystick)
+2014-12-31 18:16:28	INFO	Added known joystick SHANWAN Android Gamepad (GUID: 03000000bc2000000055000011010000, instance ID: 1, device index: 0)
+2014-12-31 18:16:28	INFO	VolumeControl::init() - Unable to find mixer PCM -> Search for alternative mixer
+2014-12-31 18:16:28	INFO	mixername : AED Clip THD
+2014-12-31 18:16:29	INFO	Cannot update 
+2014-12-31 18:16:29	WARNING	ImageIO::loadImageSize	Unknown file type
+2014-12-31 18:16:34	WARNING	ImageIO::loadImageSize	Unknown file type
+2014-12-31 18:16:34	WARNING	ImageIO::loadImageSize	Unknown file type
+2014-12-31 18:16:34	WARNING	ImageIO::loadImageSize	Unknown file type
+2014-12-31 18:16:37	WARNING	ImageIO::loadImageSize	Unknown file type
+2014-12-31 18:16:38	WARNING	ImageIO::loadImageSize	Unknown file type
+2014-12-31 18:16:38	WARNING	ImageIO::loadImageSize	Unknown file type
+2014-12-31 18:16:39	WARNING	ImageIO::loadImageSize	Unknown file type
+2014-12-31 18:16:42	WARNING	ImageIO::loadImageSize	Unknown file type
+2014-12-31 18:16:42	WARNING	ImageIO::loadImageSize	Unknown file type
+2014-12-31 18:16:42	WARNING	ImageIO::loadImageSize	Unknown file type
+2014-12-31 18:17:05	WARNING	ImageIO::loadImageSize	Unknown file type
+2014-12-31 18:17:05	WARNING	ImageIO::loadImageSize	Unknown file type
+2014-12-31 18:17:07	WARNING	ImageIO::loadImageSize	Unknown file type
+2014-12-31 18:17:21	WARNING	ImageIO::loadImageSize	Unknown file type
+2014-12-31 18:17:21	WARNING	ImageIO::loadImageSize	Unknown file type
+2014-12-31 18:17:23	WARNING	ImageIO::loadImageSize	Unknown file type
+2014-12-31 18:17:29	WARNING	ImageIO::loadImageSize	Unknown file type
+2014-12-31 18:17:31	WARNING	ImageIO::loadImageSize	Unknown file type
+2014-12-31 18:17:32	WARNING	ImageIO::loadImageSize	Unknown file type
+2014-12-31 18:17:33	WARNING	ImageIO::loadImageSize	Unknown file type
+2014-12-31 18:17:36	WARNING	ImageIO::loadImageSize	Unknown file type
+2014-12-31 18:17:36	WARNING	ImageIO::loadImageSize	Unknown file type
+2014-12-31 18:17:41	WARNING	ImageIO::loadImageSize	Unknown file type
+2014-12-31 18:17:43	WARNING	ImageIO::loadImageSize	Unknown file type
+2014-12-31 18:17:43	WARNING	ImageIO::loadImageSize	Unknown file type
+2014-12-31 18:17:43	WARNING	ImageIO::loadImageSize	Unknown file type
+2014-12-31 18:17:45	WARNING	ImageIO::loadImageSize	Unknown file type
+2014-12-31 18:17:49	WARNING	ImageIO::loadImageSize	Unknown file type
+2014-12-31 18:17:49	WARNING	ImageIO::loadImageSize	Unknown file type
+2014-12-31 18:17:50	WARNING	ImageIO::loadImageSize	Unknown file type
+2014-12-31 18:17:53	INFO	1 INPUT P1NAME INPUT P1GUID
+2014-12-31 18:17:53	INFO	adding entry for player0 (not selected): SHANWAN Android Gamepad  03000000bc2000000055000011010000
+2014-12-31 18:17:53	INFO	2 INPUT P2NAME INPUT P2GUID
+2014-12-31 18:17:53	INFO	adding entry for player1 (not selected): SHANWAN Android Gamepad  03000000bc2000000055000011010000
+2014-12-31 18:17:53	INFO	3 INPUT P3NAME INPUT P3GUID
+2014-12-31 18:17:53	INFO	adding entry for player2 (not selected): SHANWAN Android Gamepad  03000000bc2000000055000011010000
+2014-12-31 18:17:53	INFO	4 INPUT P4NAME INPUT P4GUID
+2014-12-31 18:17:53	INFO	adding entry for player3 (not selected): SHANWAN Android Gamepad  03000000bc2000000055000011010000
+2014-12-31 18:17:53	INFO	5 INPUT P5NAME INPUT P5GUID
+2014-12-31 18:17:53	INFO	adding entry for player4 (not selected): SHANWAN Android Gamepad  03000000bc2000000055000011010000
+2014-12-31 18:17:53	INFO	6 INPUT P6NAME INPUT P6GUID
+2014-12-31 18:17:53	INFO	adding entry for player5 (not selected): SHANWAN Android Gamepad  03000000bc2000000055000011010000
+2014-12-31 18:17:53	INFO	7 INPUT P7NAME INPUT P7GUID
+2014-12-31 18:17:53	INFO	adding entry for player6 (not selected): SHANWAN Android Gamepad  03000000bc2000000055000011010000
+2014-12-31 18:17:53	INFO	8 INPUT P8NAME INPUT P8GUID
+2014-12-31 18:17:53	INFO	adding entry for player7 (not selected): SHANWAN Android Gamepad  03000000bc2000000055000011010000
+2014-12-31 18:17:53	WARNING	ImageIO::loadImageSize	Unknown file type
+2014-12-31 18:17:53	WARNING	ImageIO::loadImageSize	Unknown file type
+2014-12-31 18:17:55	WARNING	ImageIO::loadImageSize	Unknown file type
+2014-12-31 18:17:55	WARNING	ImageIO::loadImageSize	Unknown file type
+2014-12-31 18:17:56	WARNING	ImageIO::loadImageSize	Unknown file type
+2014-12-31 18:17:56	WARNING	ImageIO::loadImageSize	Unknown file type
+2014-12-31 18:18:47	WARNING	ImageIO::loadImageSize	Unknown file type
+2014-12-31 18:18:47	WARNING	ImageIO::loadImageSize	Unknown file type
+2014-12-31 18:18:51	WARNING	ImageIO::loadImageSize	Unknown file type
+2014-12-31 18:18:51	WARNING	ImageIO::loadImageSize	Unknown file type
+2014-12-31 18:18:52	WARNING	ImageIO::loadImageSize	Unknown file type
+2014-12-31 18:18:58	WARNING	ImageIO::loadImageSize	Unknown file type
+2014-12-31 18:19:01	WARNING	ImageIO::loadImageSize	Unknown file type
+2014-12-31 18:19:01	WARNING	ImageIO::loadImageSize	Unknown file type
+2014-12-31 18:19:01	WARNING	ImageIO::loadImageSize	Unknown file type
+2014-12-31 18:19:04	WARNING	ImageIO::loadImageSize	Unknown file type
+2014-12-31 18:19:05	WARNING	ImageIO::loadImageSize	Unknown file type
+2014-12-31 18:19:06	WARNING	ImageIO::loadImageSize	Unknown file type
+2014-12-31 18:19:10	WARNING	ImageIO::loadImageSize	Unknown file type
+2014-12-31 18:19:10	WARNING	ImageIO::loadImageSize	Unknown file type
+2014-12-31 18:19:11	WARNING	ImageIO::loadImageSize	Unknown file type
+2014-12-31 18:19:15	WARNING	ImageIO::loadImageSize	Unknown file type
+2014-12-31 18:19:15	WARNING	ImageIO::loadImageSize	Unknown file type
+2014-12-31 18:19:15	WARNING	ImageIO::loadImageSize	Unknown file type
+2014-12-31 18:19:17	WARNING	ImageIO::loadImageSize	Unknown file type
+2014-12-31 18:19:20	WARNING	ImageIO::loadImageSize	Unknown file type
+2014-12-31 18:19:20	WARNING	ImageIO::loadImageSize	Unknown file type
+2014-12-31 18:19:20	WARNING	ImageIO::loadImageSize	Unknown file type
+2014-12-31 18:19:20	WARNING	ImageIO::loadImageSize	Unknown file type
+2014-12-31 18:19:23	WARNING	ImageIO::loadImageSize	Unknown file type
+2014-12-31 18:19:35	WARNING	ImageIO::loadImageSize	Unknown file type
+2014-12-31 18:19:35	WARNING	ImageIO::loadImageSize	Unknown file type
+2014-12-31 18:19:36	WARNING	ImageIO::loadImageSize	Unknown file type
+2014-12-31 18:19:36	WARNING	ImageIO::loadImageSize	Unknown file type
+2014-12-31 18:19:36	WARNING	ImageIO::loadImageSize	Unknown file type
+2014-12-31 18:19:42	WARNING	ImageIO::loadImageSize	Unknown file type
+2014-12-31 18:19:46	WARNING	ImageIO::loadImageSize	Unknown file type
+2014-12-31 18:19:48	WARNING	ImageIO::loadImageSize	Unknown file type
+2014-12-31 18:19:53	WARNING	ImageIO::loadImageSize	Unknown file type
+2014-12-31 18:19:58	WARNING	ImageIO::loadImageSize	Unknown file type
+2014-12-31 18:19:58	WARNING	ImageIO::loadImageSize	Unknown file type
+2014-12-31 18:19:58	WARNING	ImageIO::loadImageSize	Unknown file type
+2014-12-31 18:20:03	WARNING	ImageIO::loadImageSize	Unknown file type
+2014-12-31 18:20:03	WARNING	ImageIO::loadImageSize	Unknown file type
+2014-12-31 18:20:03	WARNING	ImageIO::loadImageSize	Unknown file type
+2014-12-31 18:20:04	WARNING	ImageIO::loadImageSize	Unknown file type
+2014-12-31 18:25:05	INFO	Attempting to close SDL AUDIO
+2014-12-31 18:25:06	INFO	SDL AUDIO Deinitialized
+2014-12-31 18:28:21	INFO	SDL AUDIO Initialized
+2014-12-31 18:28:21	WARNING	ImageIO::loadImageSize	Unknown file type
+2014-12-31 18:28:23	WARNING	ImageIO::loadImageSize	Unknown file type
+2014-12-31 18:28:24	WARNING	ImageIO::loadImageSize	Unknown file type
+2014-12-31 18:28:42	WARNING	ImageIO::loadImageSize	Unknown file type
+2014-12-31 18:28:42	WARNING	ImageIO::loadImageSize	Unknown file type
+2014-12-31 18:28:43	WARNING	ImageIO::loadImageSize	Unknown file type
+2014-12-31 18:28:44	WARNING	ImageIO::loadImageSize	Unknown file type
+2014-12-31 18:28:44	WARNING	ImageIO::loadImageSize	Unknown file type
+2014-12-31 18:28:46	WARNING	ImageIO::loadImageSize	Unknown file type
+2014-12-31 18:28:50	WARNING	ImageIO::loadImageSize	Unknown file type
+2014-12-31 18:28:50	WARNING	ImageIO::loadImageSize	Unknown file type
+2014-12-31 18:28:50	WARNING	ImageIO::loadImageSize	Unknown file type
+2014-12-31 18:29:04	WARNING	ImageIO::loadImageSize	Unknown file type
+2014-12-31 18:29:04	WARNING	ImageIO::loadImageSize	Unknown file type
+2014-12-31 18:29:04	WARNING	ImageIO::loadImageSize	Unknown file type
+2014-12-31 18:29:11	WARNING	ImageIO::loadImageSize	Unknown file type
+2014-12-31 18:29:11	WARNING	ImageIO::loadImageSize	Unknown file type
+2014-12-31 18:29:11	WARNING	ImageIO::loadImageSize	Unknown file type
+2014-12-31 18:29:13	WARNING	ImageIO::loadImageSize	Unknown file type
+2014-12-31 18:29:13	WARNING	ImageIO::loadImageSize	Unknown file type
+2014-12-31 18:29:14	WARNING	ImageIO::loadImageSize	Unknown file type
+2014-12-31 18:29:14	WARNING	ImageIO::loadImageSize	Unknown file type
+2014-12-31 18:29:14	WARNING	ImageIO::loadImageSize	Unknown file type
+2014-12-31 18:29:14	WARNING	ImageIO::loadImageSize	Unknown file type
+2014-12-31 18:34:14	INFO	Attempting to close SDL AUDIO
+2014-12-31 18:34:15	INFO	SDL AUDIO Deinitialized

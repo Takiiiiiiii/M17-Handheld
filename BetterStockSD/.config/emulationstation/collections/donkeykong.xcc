@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<filter name="kong">
+	<system>gb</system>
+	<system>sfc</system>
+	<system>gbc</system>
+	<system>gameandwatch</system>
+	<system>atari7800</system>
+	<system>gba</system>
+	<system>atari2600</system>
+	<system>mame</system>
+	<system>n64</system>
+	<system>arcade</system>
+	<system>intellivision</system>
+	<system>famicom</system>
+	<system>atari800</system>
+	<system>virtualboy</system>
+	<system>nes</system>
+	<system>amstradcpc</system>
+	<system>fbn</system>
+	<system>snes</system>
+	<system>colecovision</system>
+	<system>fds</system>
+	<text>DONKEY</text>
+</filter>

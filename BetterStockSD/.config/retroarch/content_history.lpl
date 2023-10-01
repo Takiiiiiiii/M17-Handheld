@@ -1,0 +1,131 @@
+{
+  "version": "1.4",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "sort_mode": 2,
+  "items": [
+    {
+      "path": "/storage/roms/psp/50-Tekken 6.cso",
+      "label": "",
+      "core_path": "/tmp/cores/ppsspp_libretro.so",
+      "core_name": "Sony - PlayStation Portable (PPSSPP)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/fbneo/kof97.zip",
+      "label": "",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/psp/09-Tekken Dark Resurrection.cso",
+      "label": "",
+      "core_path": "/tmp/cores/ppsspp_libretro.so",
+      "core_name": "Sony - PlayStation Portable (PPSSPP)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/dreamcast/08-Sonic Adventure 2.cdi",
+      "label": "",
+      "core_path": "/tmp/cores/flycast_32b_libretro.so",
+      "core_name": "flycast_32b_libretro.so",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/dreamcast/08-Sonic Adventure 2.cdi",
+      "label": "",
+      "core_path": "/tmp/cores/flycast_libretro.so",
+      "core_name": "Sega - Dreamcast/NAOMI (Flycast)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/mame/cryptklr.zip",
+      "label": "",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/saturn/Virtua Cop (USA) (8S, 12S).chd",
+      "label": "",
+      "core_path": "/tmp/cores/yabasanshiro_libretro.so",
+      "core_name": "Sega - Saturn (YabaSanshiro)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/saturn/House of the Dead, The (Europe).chd",
+      "label": "",
+      "core_path": "/tmp/cores/yabasanshiro_libretro.so",
+      "core_name": "Sega - Saturn (YabaSanshiro)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/psp/01-God Of War Chains Of Olympus.cso",
+      "label": "",
+      "core_path": "/tmp/cores/spring_ppsspp_libretro.so",
+      "core_name": "PPSSPP Standalone",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/mame/carnevil.zip",
+      "label": "",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/mame/area51mx.zip",
+      "label": "",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/mame/area51mx.zip",
+      "label": "",
+      "core_path": "/tmp/cores/mame2016_libretro.so",
+      "core_name": "Arcade (MAME 2016)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/mame/bbh2sp.zip",
+      "label": "",
+      "core_path": "/tmp/cores/mame2016_libretro.so",
+      "core_name": "Arcade (MAME 2016)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/saturn/Virtua Cop 2 (USA).chd",
+      "label": "",
+      "core_path": "/tmp/cores/yabasanshiro_libretro.so",
+      "core_name": "Sega - Saturn (YabaSanshiro)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/roms/psp/01-God Of War Chains Of Olympus.cso",
+      "label": "",
+      "core_path": "/tmp/cores/ppsspp_libretro.so",
+      "core_name": "Sony - PlayStation Portable (PPSSPP)",
+      "crc32": "",
+      "db_name": ""
+    }
+  ]
+}

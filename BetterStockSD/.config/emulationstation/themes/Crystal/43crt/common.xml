@@ -1,0 +1,54 @@
+<!-- Horizontal icon menu -->
+
+<theme>
+  <formatVersion>4</formatVersion>
+    <include>./../systems/${system.theme}.xml</include>  
+  <feature supported="carousel">
+  <view name="system">
+
+	       <image name="art">
+         <origin>0 0</origin>
+         <pos>0 0</pos>
+         <size>1 1</size>
+      </image>	  
+	  
+	<image name="logo">
+	</image>
+
+	<image name="BottomBar" extra="static">
+     <tile>false</tile>
+     <pos>0 0</pos>
+      <origin>0 0</origin>
+      <size>1 1</size>
+      <path>./assets/filters/${themecolor}/bg-bottombar.svg</path>
+      <color>ffffff</color>
+      <zIndex>50</zIndex>
+    </image>
+
+   <text name="systemInfo">
+         <pos>0.007 0.893</pos>
+         <backgroundColor>00000000</backgroundColor>
+         <color>${cinfotext}</color>
+         <alignment>left</alignment>
+         <fontPath>./fonts/${font1s}</fontPath>
+         <fontSize>0.050</fontSize>
+         <glowColor>${ctextglow}</glowColor>
+         <glowSize>2</glowSize>
+   </text>
+	  
+  <helpsystem name="help">
+         <fontPath>./fonts/${font1s}</fontPath>
+         <fontSize>0.025</fontSize>     
+         <pos>0.007 0.965</pos>      
+         <textColor>${chelptext}</textColor>
+   </helpsystem>
+
+<image name="background" extra="true">
+         <origin>0 0</origin>
+         <pos>0 0</pos>
+         <size>1 1</size>
+         <path>./assets/filters/${themecolor}/bg-bottombar.svg</path>
+      </image>
+	  </view>
+  </feature>  
+</theme>

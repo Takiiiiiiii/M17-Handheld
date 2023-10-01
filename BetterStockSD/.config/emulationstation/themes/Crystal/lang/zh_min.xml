@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	
+	<variables>
+		
+		<langue>zh</langue>
+
+<!-- FONTS -->
+
+<!-- menu fonts -->
+<font1m>OpenSans-Light.ttf</font1m>
+
+<!-- menu fonts -->
+<font2m>OpenSans-SemiBold.ttf</font2m>
+
+<!-- main system views -->
+<font1s>OpenSans-Bold.ttf</font1s>
+
+<!-- system info -->
+<font2s>OpenSans-Bold.ttf</font2s>
+
+<!-- System description -->
+<font3s>OpenSans-SemiBold.ttf</font3s>
+
+<!-- Font used by gamelist items -->
+<font1g>OpenSans-SemiBold.ttf</font1g>
+
+<!-- Font used by descriptions on gamelists -->
+<font2g>OpenSans-SemiBold.ttf</font2g>
+
+<!-- Font used for title on gamelist panel -->
+<font3g>BebasNeue-Regular.ttf</font3g>
+
+<!-- Font used on gamelist help system -->
+<font4g>OpenSans-SemiBold.ttf</font4g>
+
+<yes>是的</yes>
+<no>不</no>
+<none>没有</none>
+<sysmusic>打开</sysmusic>
+<nomusic>随机</nomusic>
+<silence>无背景音乐</silence>
+<default>默认</default>
+<basiclist>简单列表</basiclist>
+<simplegridName>网格简单</simplegridName>
+<carouselViewName>旋转 木马</carouselViewName>
+<carouselposterViewName>旋转木马详细</carouselposterViewName>
+<tilesViewName>瓷砖</tilesViewName>
+<tilesVideoViewName>带视频的瓷砖</tilesVideoViewName>
+<tilesVideoMarqueeViewName>带视频和徽标的瓷砖</tilesVideoMarqueeViewName>
+<fanartViewName>风扇（默认）</fanartViewName>
+<fanartvlViewName>粉丝（全屏视频）</fanartvlViewName>
+<carouselvideoName>旋转木马视频</carouselvideoName>
+<smallscreengamelist>小屏幕</smallscreengamelist>
+<smallscreengamelistnh>小屏幕（无帮助）</smallscreengamelistnh>
+<ctblue>蓝宝石</ctblue>
+<ctred>红宝石</ctred>
+<ctgreen>翡翠</ctgreen>
+<ctblack>碳</ctblack>
+<ctgold>黄金</ctgold>
+<defaultbg>独奏（光）</defaultbg>
+<darkbg>独奏（黑暗）</darkbg>
+<bellabg>贝拉</bellabg>
+<systembg>安慰</systembg>
+<artflixbg>阿特弗利克斯</artflixbg>
+<whitelog>白色标志的</whitelog>
+<colorlog>颜色徽标的</colorlog>
+<conlog>控制器</conlog>
+<textlog>文本徽标的</textlog>
+<idefault>晶体</idefault>
+<idefaultrev>水晶（反向）</idefaultrev>
+<horizontal>基本水平菜单</horizontal>
+<hordetail>详情（奥里斯塔）</hordetail>
+<rhc>右侧旋转木马</rhc>
+<lhc>左侧旋转木马</lhc>
+<systemdetails>详细（垂直）</systemdetails>
+<delay1>1 秒</delay1>
+<delay2>2 秒</delay2>
+<delay3>3 秒</delay3>
+<delay5>5 秒</delay5>
+<delay10>10 秒</delay10>
+<delay20>20 秒</delay20>
+<delay0>无延迟</delay0>
+<novideo>禁用视频</novideo>
+<subset.systemview>主页布局</subset.systemview>
+<subset.bgset>背景图片</subset.bgset>
+<subset.iconset>帮助图标</subset.iconset>
+<subset.shader>主题着色器</subset.shader>
+<subset.music>系统音乐</subset.music>
+<subset.logoset>系统徽标样式</subset.logoset>
+<subset.thememusic>主题背景音乐</subset.thememusic>
+<subset.vdelay>游戏列表上的视频延迟</subset.vdelay>
+<subset.slog>游戏列表上的系统徽标</subset.slog>
+<subset.colorset>主题配色方案</subset.colorset>
+<subset.videoview>游戏列表视频延迟</subset.videoview>
+<subset.sysvdelay>系统查看视频延迟</subset.sysvdelay>
+<subset.ratio>屏幕比</subset.ratio>
+<panlog>面板徽标</panlog>
+<default>默认</default>
+<panel>面板</panel>
+<smallpanel>小面板</smallpanel>
+<panelbox>带盒装面板</panelbox>
+	</variables>
+		</theme>

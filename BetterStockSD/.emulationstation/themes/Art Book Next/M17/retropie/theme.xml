@@ -1,0 +1,19 @@
+<theme>
+   <formatVersion>6</formatVersion>
+   <include>./../theme.xml</include>
+   <view name="detailed,video">
+      <datetime name="md_lastplayed,md_releasedate">
+         <pos>1 1</pos>
+      </datetime>
+      <rating name="md_rating">
+         <pos>1 1</pos>
+      </rating>
+      <text name="md_genre,md_players,md_developer,md_publisher">
+         <pos>1 1</pos>
+      </text>
+      <image name="md_players_icon,md_releasedate_icon,md_developer_icon,md_publisher_icon" extra="true">
+         <pos>1 1</pos>
+      </image>
+   </view>
+   <include>aspect-ratio-${aspectRatio}.xml</include>
+</theme>

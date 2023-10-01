@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<filter name="genre-boardgames">
+     <genre>JEU DE SOCIETE / PLATEAU</genre>
+     <genre>BRETTSPIELE</genre>
+     <genre>JUEGOS DE MESA</genre>
+     <genre>JOGO DE TABULEIRO</genre>
+     <genre>BOARD GAME</genre>
+</filter>

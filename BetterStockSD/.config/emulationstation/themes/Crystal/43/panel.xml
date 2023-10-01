@@ -1,0 +1,107 @@
+<!-- Horizontal icon menu -->
+
+<theme>
+  <formatVersion>4</formatVersion>
+    <include>./../systems/${system.theme}.xml</include>  
+
+  <feature supported="carousel">
+  <view name="system">
+
+        <image name="art" extra="true">
+         <pos>.3 0</pos>
+         <size>.70 .7</size>
+			<zIndex>1</zIndex>
+      </image>	
+ 
+		<image name="logo">
+		<path>./assets/panels/16-9/${system.theme}.jpg</path>
+	    </image>
+
+   <carousel name="systemcarousel">
+     <type>horizontal</type>
+     <pos>.0 0.32</pos>
+      <size>1 1</size>
+      <color>ffffff00</color>
+      <logoScale>1.0</logoScale>
+      <logoSize>0.25 .5</logoSize>
+      <maxLogoCount>3</maxLogoCount>
+    <logoAlignment>right</logoAlignment>
+      <defaultTransition>instant</defaultTransition>	
+    </carousel>
+      
+   <helpsystem name="help">
+         <fontPath>./fonts/${font1s}</fontPath>
+         <fontSize>0.025</fontSize>     
+         <pos>0.007 0.965</pos>      
+         <textColor>${chelptext}</textColor>
+   </helpsystem>
+	  
+	  <video name="md_video" extra="true">
+        <path>./assets/default.mp4</path> 
+		<path>~/roms/video/${system.theme}.mp4</path> 
+        <origin>0 0</origin>
+         <pos>0.3 0.0</pos>
+		 <size>0.70 0.68</size>
+       <delay>${svdelay}</delay>
+         <showSnapshotNoVideo>false</showSnapshotNoVideo>
+		<visible>true</visible>
+		<zIndex>3</zIndex>
+         </video>
+
+<image name="background" extra="true">
+         <origin>0 0</origin>
+         <pos>0 0</pos>
+         <size>1 1</size>
+         <path>./assets/filters/black/bg-flix.png</path>
+	<zIndex>4</zIndex>
+      </image>
+
+<text name="shortdescription" extra="true">
+ <fontPath>./fonts/${font1s}</fontPath>
+			<alignment>right</alignment>
+			<color>${cshortdescriptiontext}</color>
+			<fontSize>0.0255</fontSize>			
+			<pos>0.025 0.025</pos>
+		<visible>false</visible>
+		</text>
+
+   <text name="systemInfo">
+         <pos>0.250 0.075</pos>
+         <backgroundColor>00000000</backgroundColor>
+         <color>${cinfotext}</color>
+        <size>0.7 0.00</size>
+         <alignment>right</alignment>
+         <fontPath>./fonts/${font1s}</fontPath>
+         <fontSize>0.070</fontSize>
+         <glowColor>${ctextglow}</glowColor>
+         <glowSize>0</glowSize>
+   </text>
+
+	<image name="console" extra="true">
+		<path>./assets/logos/color_logo/${system.theme}.svg</path>
+        <pos>0.025 0.075</pos>
+         <maxSize>0.28 0.25</maxSize>
+        <alignment>left</alignment>
+      </image> 
+
+<text name="description" extra="true">
+           <fontPath>./fonts/${font3s}</fontPath>
+			<pos>.028 0.28</pos>
+            <size>0.90 0</size>
+			<alignment>left</alignment>
+			<color>${cdescriptiontext}</color>
+			<fontSize>0.037</fontSize>
+        <glowColor>${ctextglow}</glowColor>
+         <glowSize>0</glowSize>
+		</text>
+
+	   <text name="logoText">
+         <color>${cgtbgedgeselect}</color>
+        <fontPath>./fonts/${font1s}</fontPath>
+		 <fontSize>0.05</fontSize>
+         <alignment>center</alignment>
+      </text>
+
+	  </view>
+  </feature>  
+</theme>

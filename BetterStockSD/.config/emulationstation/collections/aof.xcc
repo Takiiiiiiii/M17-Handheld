@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<filter name="aof">
+	<system>neogeo</system>
+	<system>neocd</system>
+	<system>megadrive</system>
+	<system>genesis</system>
+	<system>megadrive-japan</system>
+	<system>snes</system>
+	<system>fbn</system>
+	<system>tg16cd</system>
+	<system>arcade</system>
+	<system>mame</system>
+	<system>pcenginecd</system>
+	<system>wii</system>
+	<system>sfc</system>
+	<text>ART OF</text>
+</filter>

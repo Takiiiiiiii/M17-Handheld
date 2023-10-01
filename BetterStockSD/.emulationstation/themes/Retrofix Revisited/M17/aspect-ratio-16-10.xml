@@ -1,0 +1,113 @@
+<!--
+16:10 Apsect Ratio
+(based on 1920x1200 Resolution)
+-->
+
+<theme>
+   <formatVersion>6</formatVersion>
+
+   <view name="system,basic,detailed,video">
+      <helpsystem name="help">
+         <fontSize>0.019</fontSize><!-- 24 -->
+      </helpsystem>
+   </view>
+
+   <view name="system">
+      <text name="systemInfo">
+         <pos>0.276041666666667 0.9</pos><!-- 530 1080 -->
+         <size>0.697916666666667 0.04</size><!-- 1340 48 -->
+         <fontSize>0.04</fontSize><!-- 48 -->
+      </text>
+      <helpsystem name="help">
+         <pos>0.276041666666667 0.95</pos><!-- 530 1140 -->
+      </helpsystem>
+      <image name="logo">
+         <path>./${system.theme}/logo.svg</path>
+      </image>
+      <text name="logoText">
+         <fontSize>0.0225</fontSize><!-- 27 -->
+         <lineSpacing>1.2</lineSpacing>
+      </text>
+      <carousel name="systemcarousel">
+         <pos>0.028645833333333 0</pos><!-- 55 0 -->
+         <size>0.171875 1</size><!-- 330 1200 -->
+         <logoScale>1.5</logoScale>
+         <logoSize>0.1 0.1</logoSize><!-- 192 120 -->
+         <maxLogoCount>7</maxLogoCount>
+      </carousel>
+      <image name="system-marker" extra="true">
+         <pos>0 0.5</pos><!-- 0 600 -->
+         <size>0.239583333333333 0.166666666666667</size><!-- 460 200 -->
+      </image>
+      <image name="system-view-overlay" extra="true">
+         <path>./_inc/images/system-view-overlay-16-10.png</path>
+      </image>
+      <image name="system-view-art" extra="true">
+         <origin>0.5 0</origin>
+         <pos>0.614322916666667 0</pos><!-- 1270 0 -->
+         <size>0 1</size>
+      </image>
+   </view>
+
+   <view name="basic,detailed,video">
+      <helpsystem name="help">
+         <origin>0.5 1</origin>
+         <pos>0.661458333333333 0.95</pos><!-- 1270 1140 -->
+      </helpsystem>
+      <image name="logo">
+         <pos>0.161458333333333 0.09</pos><!-- 310 108 -->
+         <maxSize>0.2 0.08</maxSize>
+      </image>
+      <text name="logoText">
+         <pos>0.161458333333333 0.09</pos><!-- 310 108 -->
+         <size>0.25 0.1</size>
+         <fontSize>0.035</fontSize>
+         <lineSpacing>1</lineSpacing>
+      </text>
+      <textlist name="gamelist">
+         <pos>0 0.18</pos>
+         <size>0.333333333333333 0.795</size>
+         <fontSize>0.027</fontSize>
+         <horizontalMargin>0.028645833333333</horizontalMargin>
+         <selectorHeight>0.054</selectorHeight>
+         <selectorOffsetY>-0.00675</selectorOffsetY>
+         <lineSpacing>2</lineSpacing>
+      </textlist>
+      <image name="gamelist-view-overlay" extra="true">
+         <path>./_inc/images/gamelist-view-overlay-16-10.png</path>
+      </image>
+   </view>
+
+   <view name="detailed,video">
+      <image name="gamelist-metadata" extra="true">
+         <pos>0.661458333333333 0.665740740740741</pos><!-- 1270  -->
+         <size>0.299895833333333 0.062083333333333</size><!-- 575.8 74.5-->
+      </image>
+      <text name="md_description">
+         <pos>0.661458333333333 0.778333333333333</pos><!-- 1270 934 -->
+         <size>0.5 0.12</size>
+         <fontSize>0.024</fontSize>
+      </text>
+      <text name="md_genre">
+         <pos>0.477604166666667 0.696666666666667</pos><!-- 917 832 -->
+         <size>0.083333333333333 0.033333333333333</size><!-- 160 40 -->
+         <fontSize>0.016</fontSize>
+      </text> 
+      <text name="md_players">
+         <pos>0.572395833333333 0.696666666666667</pos><!-- 1099 832 -->
+         <size>0.083333333333333 0.033333333333333</size><!-- 160 40 -->
+         <fontSize>0.016</fontSize>
+      </text>
+      <text name="md_developer">
+         <pos>0.6671875 0.696666666666667</pos><!-- 1281 832 -->
+         <size>0.083333333333333 0.033333333333333</size><!-- 160 40 -->
+         <fontSize>0.016</fontSize>
+      </text>
+      <datetime name="md_releasedate">
+         <pos>0.761979166666667 0.696666666666667</pos><!-- 1463 832 -->
+         <size>0.083333333333333 0.033333333333333</size><!-- 160 40 -->
+         <fontSize>0.016</fontSize>
+      </datetime>
+   </view>
+
+</theme>

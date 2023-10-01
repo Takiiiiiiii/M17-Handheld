@@ -1,0 +1,20 @@
+EmuELEC Run Log
+##############################################
+#                 EmuELEC                    #
+#     Retro emulation for Amlogic Devices    #
+#             Based on CoreELEC              #
+##############################################
+EmuELEC (Official - EmuELEC is FREE! NOT FOR SALE!): 4.2 (Amlogic-ng.aarch64)
+PLATFORM: psp
+ROM NAME: /storage/roms/psp/01-God Of War Chains Of Olympus.cso
+BASE ROM NAME: 01-God Of War Chains Of Olympus.cso
+USING CONFIG: /storage/.config/retroarch/retroarch.cfg
+1st Argument: /storage/roms/psp/01-God Of War Chains Of Olympus.cso
+2nd Argument: -Ppsp
+3rd Argument: --core=PPSSPPSDL
+4th Argument: --emulator=PPSSPPSDL
+Full arguments: /storage/roms/psp/01-God Of War Chains Of Olympus.cso -Ppsp --core=PPSSPPSDL --emulator=PPSSPPSDL --controllers=-p1index 0 -p1guid 03000000bc2000000055000011010000 
+Run Command is:
+/usr/bin/bash /usr/bin/ppsspp.sh /storage/roms/psp/01-God Of War Chains Of Olympus.cso
+Emulator Output is:
+[?25l

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<filter name="genre-racing">
+     <genre>COURSE, CONDUITE</genre>
+     <genre>RENNEN, FAHREN</genre>
+     <genre>RACE, DRIVING</genre>
+     <genre>CARRERAS, CONDUCCIÓN</genre>
+     <genre>CORRIDA, PILOTAGEM</genre>
+</filter>
+

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<filter name="crashbandicoot">
+	<system>wii</system>
+	<system>gamecube</system>
+	<system>gba</system>
+	<system>psx</system>
+	<system>psp</system>
+	<text>CRASH</text>
+</filter>

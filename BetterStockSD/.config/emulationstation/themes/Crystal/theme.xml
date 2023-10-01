@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+theme name:		Crystal
+author:			dm2912
+license:		creative commons CC-BY-NC-SA
+github:			https://github.com/dm2912
+-->
+
+<!-- default view -->
+
+<theme defaultView="detailed">
+   <formatVersion>7</formatVersion>
+   <include>./config.xml</include>
+	<include>./gamelists${ratset}.xml</include>
+   
+<!-- screen settings -->
+	
+   <view name="screen">
+      <controllerActivity name="controllerActivity">
+         <pos>0.01 0.012</pos>
+         <size>0.085 0.025</size>
+         <!--<horizontalAlignment>right</horizontalAlignment>-->
+         <itemSpacing>0.003</itemSpacing>
+         <imagePath>./assets/gamepad.svg</imagePath>
+         <color>${ccontroller}</color>
+         <activityColor>${cactivity}</activityColor>
+         <hotkeyColor>${chotkey}</hotkeyColor>
+      </controllerActivity>
+   <text name="clock">
+      <color>777777FF</color>
+      <fontSize>0.035</fontSize>
+      <pos>0.90 0.94</pos>
+      <size>0.09 0.058</size>
+      <alignment>right</alignment>
+      <verticalAlignment>center</verticalAlignment>
+    </text>
+   </view>
+
+<!-- menu configs -->
+	
+ <!-- menu configs -->
+	
+   <view name="menu">
+      <menuText name="menufooter">
+         <fontPath>./fonts/${font2m}</fontPath>
+         <fontSize>0.025</fontSize>
+         <color>${cmenufooter}</color>
+      </menuText>
+      <menuText name="menutext">
+         <fontPath>./fonts/${font1m}</fontPath>
+         <fontSize>0.035</fontSize>
+         <color>${cmenutext}</color>
+         <separatorColor>${cmenuseperator}</separatorColor>
+         <selectorColor>${cselector}</selectorColor>
+         <selectorColorEnd>${cselectorend}</selectorColorEnd>
+         <selectedColor>${cselected}</selectedColor>
+         <selectorGradientType>${cgradienttype}</selectorGradientType>
+       </menuText>
+      <menuTextSmall name="menutextsmall">
+         <fontPath>./fonts/${font2m}</fontPath>
+         <fontSize>0.03</fontSize>
+         <color>${cmenusubtitle}</color>
+      </menuTextSmall>
+      <menuText name="menutitle">
+         <fontPath>./fonts/${font2m}</fontPath>
+         <fontSize>0.04</fontSize>
+         <color>${cmenutitle}</color>
+      </menuText>
+      <menuBackground name="menubg">
+         <color>${cmenubg}</color>
+	<path>./assets/menu_filters/${cmenufilter}/back.png</path>
+         <fadePath>./assets/menu_filters/${cmenufilter}/fade.png</fadePath>
+     </menuBackground>
+
+      <menuIcons name="menuicons">
+         <iconKodi>./assets/menu_icons/${cmenuicons}/Kodi.png</iconKodi>
+         <iconSystem>./assets/menu_icons/${cmenuicons}/System.png</iconSystem>
+         <iconUpdates>./assets/menu_icons/${cmenuicons}/Updates.png</iconUpdates>
+         <iconGames>./assets/menu_icons/${cmenuicons}/Games.png</iconGames>
+         <iconControllers>./assets/menu_icons/${cmenuicons}/Controllers.png</iconControllers>
+         <iconUI>./assets/menu_icons/${cmenuicons}/UI.png</iconUI>
+         <iconSound>./assets/menu_icons/${cmenuicons}/Sound.png</iconSound>
+         <iconNetwork>./assets/menu_icons/${cmenuicons}/Network.png</iconNetwork>
+         <iconScraper>./assets/menu_icons/${cmenuicons}/Scraper.png</iconScraper>
+         <iconAdvanced>./assets/menu_icons/${cmenuicons}/Advanced.png</iconAdvanced>
+         <iconQuit>./assets/menu_icons/${cmenuicons}/Quit.png</iconQuit>
+         <iconRestart>./assets/menu_icons/${cmenuicons}/Restart.png</iconRestart>
+         <iconShutdown>./assets/menu_icons/${cmenuicons}/Shutdown.png</iconShutdown>
+         <iconFastShutdown>./assets/menu_icons/${cmenuicons}/Fastshutdown.png</iconFastShutdown>
+		 <iconRetroachievements>./assets/menu_icons/${cmenuicons}/Contest.png</iconRetroachievements>
+		 <iconEmuelec>./assets/menu_icons/${cmenuicons}/Emuelec.png</iconEmuelec>
+      </menuIcons>
+      <helpsystem name="help">
+         <fontPath>./fonts/${font3s}</fontPath>
+         <fontSize>0.035</fontSize>
+         <pos>0.06 0.955</pos>
+         <textColor>${chelptext}</textColor>
+      </helpsystem>
+   </view>
+   
+	
+<!-- tinyscreen 
+ 
+   <include tinyScreen="true">./gpicase.xml</include> -->
+
+<!-- help bar -->
+
+   <view name="system" ifHelpPrompts="false">
+      <image name="BottomBar" extra="true">
+         <visible>false</visible>
+      </image>
+   </view>
+
+	<view name="basic, detailed, grid" ifHelpPrompts="false">
+      <image name="bottom" extra="true">
+         <visible>false</visible>
+      </image>
+   </view>
+	
+	
+
+	
+	<!--
+   
+   <view name="grid" ifHelpPrompts="false">
+      <imagegrid name="gamegrid">
+         <pos>0.025 0.16</pos>
+         <size>0.950 0.84</size>
+      </imagegrid>
+   </view> -->
+	
+	
+</theme>

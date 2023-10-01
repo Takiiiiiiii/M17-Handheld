@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<gameList parentHash="3939">
+	<game>
+		<path>./system_info.sh</path>
+		<name>System info</name>
+		<desc>Display System info</desc>
+		<image>./downloaded_images/info.png</image>
+		<developer>shantigilbert</developer>
+		<publisher>Emuelec</publisher>
+		<genre>script</genre>
+		<playcount>1</playcount>
+		<lastplayed>20141231T180307</lastplayed>
+		<gametime>28</gametime>
+	</game>
+</gameList>

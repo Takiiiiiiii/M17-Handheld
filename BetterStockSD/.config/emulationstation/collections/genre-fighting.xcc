@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<filter name="genre-fighting">
+     <genre>COMBAT</genre>
+     <genre>KAMPF</genre>
+     <genre>FIGHT</genre>
+     <genre>LUCHA</genre>
+     <genre>LUTA</genre>
+</filter>
+
+
+

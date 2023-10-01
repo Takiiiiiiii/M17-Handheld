@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>	
+<variables>
+	<delay>86400</delay>
+    <pandelay>100000</pandelay>
+</variables>
+</theme>

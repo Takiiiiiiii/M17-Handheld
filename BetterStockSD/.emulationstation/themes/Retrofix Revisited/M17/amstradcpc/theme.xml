@@ -1,0 +1,14 @@
+<theme>
+   <formatVersion>6</formatVersion>
+   <include>./../theme.xml</include>
+   <view name="system">
+      <image name="system-marker" extra="true">
+         <color>75D08A</color>
+      </image> 
+   </view>
+   <view name="basic,detailed,video">
+      <textlist name="gamelist">
+        <selectorColor>75D08A</selectorColor>
+      </textlist>
+   </view>
+</theme>

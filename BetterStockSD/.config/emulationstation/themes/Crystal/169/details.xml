@@ -1,0 +1,87 @@
+<!-- slideshow -->
+
+<theme>
+  <formatVersion>4</formatVersion> 
+ <include>./common.xml</include>
+
+  <feature supported="carousel">
+
+  <view name="system">
+
+    <carousel name="systemcarousel">
+     <type>horizontal</type>
+     <pos>.51 -.25</pos>
+      <size>.43 .8</size>
+      <color>ffffff00</color>
+      <logoScale>1</logoScale>
+      <logoSize>0.25 .35</logoSize>
+      <maxLogoCount>1</maxLogoCount>
+    <logoAlignment>left</logoAlignment>
+      <defaultTransition>instant</defaultTransition>	
+    </carousel>
+
+	<image name="logo">
+		<path>./assets/logos/color_logo/${system.theme}.svg</path>
+	</image>
+
+	<image name="controller" extra="true">
+		<path>./assets/logos/controllers/right/${system.theme}.png</path>
+        <pos>0.69 0.730</pos>
+         <maxSize>0.20 0.20</maxSize>
+        <alignment>right</alignment>
+      </image> 
+	  
+   <helpsystem name="help">
+         <fontPath>./fonts/${font1s}</fontPath>
+         <fontSize>0.025</fontSize>     
+         <pos>0.007 0.965</pos>      
+         <textColor>${chelptext}</textColor>
+   </helpsystem>  
+
+    <text name="shortdescription" extra="true">
+ <fontPath>./fonts/${font1s}</fontPath>
+			<alignment>right</alignment>
+			<color>${cshortdescriptiontext}</color>
+			<fontSize>0.032</fontSize>			
+			<pos>0.57 0.03</pos>
+            <size>0.32 0.0</size>
+		</text>
+
+    <text name="systemInfo">
+         <pos>0.57 0.25</pos>
+         <backgroundColor>00000000</backgroundColor>
+         <color>${cinfotext}</color>
+          <size>0.32 0.047</size>
+         <alignment>right</alignment>
+         <fontPath>./fonts/${font2s}</fontPath>
+         <fontSize>0.040</fontSize>
+   </text>
+
+
+		<text name="description" extra="true">
+           <fontPath>./fonts/${font3s}</fontPath>
+			<pos>0.57 0.31</pos>
+            <size>0.32 0</size>
+			<alignment>right</alignment>
+			<color>${cdescriptiontext}</color>
+			<fontSize>0.032</fontSize>
+		</text>
+
+ <image name="background" extra="true">
+         <origin>0 0</origin>
+         <pos>0 0</pos>
+         <size>1 1</size>
+         <path>./assets/filters/${themecolor}/crt-right.svg</path>
+      </image> 
+
+	   <text name="logoText">
+         <color>${cgtbgedgeselect}</color>
+        <fontPath>./fonts/${font1s}</fontPath>
+		 <fontSize>0.05</fontSize>
+         <alignment>center</alignment>
+      </text>
+
+	  </view>
+  </feature>  
+</theme>
+

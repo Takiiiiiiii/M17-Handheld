@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<gameList parentHash="0">
+	<game>
+		<path>./Pokemon - Silver Version (UE) (C).gbc</path>
+		<name>Pokemon - Silver Version (UE) (C)</name>
+		<favorite>true</favorite>
+		<lang>fr</lang>
+		<region>wr</region>
+	</game>
+</gameList>

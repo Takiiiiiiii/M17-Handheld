@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<filter name="genre-action">
+     <genre>ACTION</genre>
+     <genre>ACCIÓN</genre>
+     <genre>AÇÃO</genre>
+</filter>
+

@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<filter name="dbz">
+	<system>psp</system>
+	<system>psx</system>
+	<system>saturn</system>
+	<system>megadrive</system>
+	<system>genesis</system>
+	<system>tg16</system>
+	<system>famicom</system>
+	<system>nes</system>
+	<system>wonderswancolor</system>
+	<system>supergrafx</system>
+	<system>arcade</system>
+	<system>gamecube</system>
+	<system>pcengine</system>
+	<system>wonderswan</system>
+	<system>gb</system>
+	<system>gbc</system>
+	<system>sfc</system>
+	<system>snes</system>
+	<system>gba</system>
+	<system>wii</system>
+	<system>megadrive-japan</system>
+	<text>DRAGON BALL</text>
+</filter>

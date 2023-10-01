@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<filter name="genre-sport">
+     <genre>SPORT</genre>
+     <genre>SPORTS</genre>
+     <genre>DEPORTES</genre>
+     <genre>ESPORTE</genre>
+</filter>
+
+
+
