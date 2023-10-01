@@ -1,0 +1,22 @@
+<theme>
+<formatVersion>7</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="basic, detailed, video">
+    <text name="nameLabel" extra="true">
+    <text>Adventure Genre</text>
+  </text>
+</view>    
+
+<view name="system">
+  <text name="sys_line2" extra="true">
+    <text>Adventure</text>
+  </text>    
+  <text name="shortdescription" extra="true">
+   <text>Game Genre</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>In an adventure game the player follows an interactive story, driven by exploration and puzzle-solving</text>
+  </text>
+ </view>
+</theme>

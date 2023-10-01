@@ -1,0 +1,23 @@
+<theme>
+<formatVersion>7</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="basic, detailed, video">
+    <text name="nameLabel" extra="true">
+    <text>OpenBOR</text>
+  </text>
+</view>    
+
+<view name="system">
+  <text name="sys_line2" extra="true">
+    <text>OpenBOR</text>
+
+  </text> 
+  <text name="shortdescription" extra="true">
+   <text>2003 · Arcade</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>OpenBOR is the continuation of the open source program Beats of Rage, a 2D side scrolling beat em up game engine.</text>
+  </text>
+ </view>
+</theme>

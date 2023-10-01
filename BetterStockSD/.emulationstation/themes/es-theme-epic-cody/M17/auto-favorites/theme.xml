@@ -1,0 +1,27 @@
+<theme>
+<formatVersion>7</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="basic, detailed, video">
+    <text name="nameLabel" extra="true">
+    <text>My favorites</text>
+  </text>
+</view>    
+
+<view name="system">
+    <text name="sys_line1" extra="true">
+    <text>My games</text>
+
+  </text>
+  <text name="sys_line2" extra="true">
+    <text>favorites</text>
+
+ </text>
+  <text name="shortdescription" extra="true">
+   <text>All systems</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Quickly access and play your favorite games throughout the library</text>
+  </text>
+ </view>
+</theme>

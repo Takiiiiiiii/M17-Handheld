@@ -1,0 +1,25 @@
+<theme>
+<formatVersion>7</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="basic, detailed, video">
+    <text name="nameLabel" extra="true">
+    <text>TI-99</text>
+  </text>
+</view>    
+
+<view name="system">
+  <text name="sys_line1" extra="true">
+    <text>Texas Instrument</text>
+</text>
+  <text name="sys_line2" extra="true">
+    <text>TI-99</text>
+</text> 
+  <text name="shortdescription" extra="true">
+   <text>1981  ·  16 Bit Computer</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>The Texas Instruments TI-99/4A is a home computer released in June 1981 in the United States. It is an enhanced version of the less successful TI-99/4 which was released in late 1979.</text>
+  </text>
+ </view>
+</theme>

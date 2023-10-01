@@ -1,0 +1,22 @@
+<theme>
+<formatVersion>7</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="basic, detailed, video">
+    <text name="nameLabel" extra="true">
+    <text>Role Playing Genre</text>
+  </text>
+</view>    
+
+<view name="system">
+  <text name="sys_line2" extra="true">
+    <text>Role Playing</text>
+  </text>    
+  <text name="shortdescription" extra="true">
+   <text>Game Genre</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>In a role-playing game, the player controls the actions of one or several characters, immersed in an often fantastical world</text>
+  </text>
+ </view>
+</theme>

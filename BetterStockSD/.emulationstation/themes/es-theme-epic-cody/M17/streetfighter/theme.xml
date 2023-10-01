@@ -1,0 +1,22 @@
+<theme>
+<formatVersion>7</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="basic, detailed, video">
+    <text name="nameLabel" extra="true">
+    <text>Street Fighter</text>
+  </text>
+</view>    
+
+<view name="system">
+  <text name="sys_line2" extra="true">
+    <text>Street Fighter</text>
+  </text>    
+  <text name="shortdescription" extra="true">
+   <text>Street Fighter  ·  Game Series</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Street Fighter is one of highest-grossing video game franchises of all time and serves as one of Capcom's flagship series</text>
+  </text>
+ </view>
+</theme>

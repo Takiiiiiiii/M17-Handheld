@@ -1,0 +1,23 @@
+<theme>
+<formatVersion>7</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="basic, detailed, video">
+    <text name="nameLabel" extra="true">
+    <text>COMMODORE 16</text>
+  </text>
+</view>    
+
+<view name="system">
+  <text name="sys_line2" extra="true">
+    <text>C16</text>
+
+  </text>    
+  <text name="shortdescription" extra="true">
+   <text>1984  ·  16-bit Computer</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>home computer made by Commodore International,intended to be an entry-level computer to replace the VIC-20</text>
+  </text>
+ </view>
+</theme>

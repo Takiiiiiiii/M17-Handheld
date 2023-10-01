@@ -1,0 +1,23 @@
+<theme>
+<formatVersion>7</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="basic, detailed, video">
+    <text name="nameLabel" extra="true">
+    <text>Nintendo DS</text>
+  </text>
+</view>    
+
+<view name="system">
+  <text name="sys_line2" extra="true">
+    <text>Nintendo DS</text>
+
+  </text> 
+  <text name="shortdescription" extra="true">
+   <text>2004  ·  Portatil de 32-bit</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>The Nintendo DS is a dual-screen portable game console developed and released by Nintendo that featured two LCD screens that worked together.</text>
+  </text>
+ </view>
+</theme>

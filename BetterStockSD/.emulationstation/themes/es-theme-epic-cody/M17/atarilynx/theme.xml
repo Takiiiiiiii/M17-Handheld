@@ -1,0 +1,23 @@
+<theme>
+<formatVersion>7</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="basic, detailed, video">
+  <text name="nameLabel" extra="true">
+    <text>Atari Lynx</text>
+  </text>
+</view>    
+
+<view name="system">
+
+  <text name="sys_line2" extra="true">
+    <text>Atari Lynx</text>
+</text>
+  <text name="shortdescription" extra="true">
+   <text>1989  ·  16-bit handheld</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Lynx was the world's first portable electronic game with a color LCD screen and was also noted for its advanced graphics.</text>
+  </text>
+ </view>
+</theme>

@@ -1,0 +1,23 @@
+<theme>
+<formatVersion>7</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="basic, detailed, video">
+    <text name="nameLabel" extra="true">
+    <text>Beat 'em Up Genre</text>
+  </text>
+</view>    
+
+<view name="system">
+  <text name="sys_line2" extra="true">
+    <text>Beat 'em Up</text>
+
+  </text>  
+  <text name="shortdescription" extra="true">
+   <text>Game Genre</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Beat 'em up (also known as brawler) feature hand-to-hand or weapon combat between the protagonist and an improbably large number of opponents</text>
+  </text>
+ </view>
+</theme>

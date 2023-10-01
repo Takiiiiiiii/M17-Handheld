@@ -1,0 +1,23 @@
+<theme>
+<formatVersion>7</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="basic, detailed, video">
+    <text name="nameLabel" extra="true">
+    <text>SINCLAIR ZX-81</text>
+  </text>
+</view>    
+
+<view name="system">
+  <text name="sys_line2" extra="true">
+    <text>ZX-81</text>
+
+  </text>    
+  <text name="shortdescription" extra="true">
+   <text>1980  ·  8-bit Computer</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Notable for being one of the first computers available in the United Kingdom for less than a hundred pounds</text>
+  </text>
+ </view>
+</theme>

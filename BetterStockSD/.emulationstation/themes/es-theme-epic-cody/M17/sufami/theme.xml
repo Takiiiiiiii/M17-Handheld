@@ -1,0 +1,27 @@
+<theme>
+<formatVersion>7</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="basic, detailed, video">
+  <text name="nameLabel" extra="true">
+    <text>sufami turbo</text>
+  </text>
+</view>    
+
+<view name="system">
+  <text name="sys_line1" extra="true">
+    <text>bandai</text>
+
+  </text>
+  <text name="sys_line2" extra="true">
+    <text>sufami turbo</text>
+
+</text>
+  <text name="shortdescription" extra="true">
+   <text>1996  ·  16-bit accessory</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>This device is designed to sit on top of the Super Famicom, and features two cartridge slots.</text>
+  </text>
+ </view>
+</theme>

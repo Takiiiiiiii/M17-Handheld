@@ -1,0 +1,28 @@
+<theme>
+<formatVersion>7</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="basic, detailed, video">
+    <text name="nameLabel" extra="true">
+    <text>Commodore 64</text>
+  </text>
+</view>    
+
+<view name="system">
+  <text name="sys_line1" extra="true">
+    <text>Commodore</text>
+  </text>    
+  
+   <text name="sys_line2" extra="true">
+    <text>c64</text>
+
+  </text>    
+  
+  <text name="shortdescription" extra="true">
+   <text>1982  ·  8-bit Personal Computer</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>The C64 is listed in the Guinness World Records as the best-selling personal computer model of all time.</text>
+  </text>
+ </view>
+</theme>

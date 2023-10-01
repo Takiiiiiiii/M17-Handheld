@@ -1,0 +1,22 @@
+<theme>
+<formatVersion>7</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="basic, detailed, video">
+    <text name="nameLabel" extra="true">
+    <text>Mario</text>
+  </text>
+</view>    
+
+<view name="system">
+  <text name="sys_line2" extra="true">
+    <text>Mario</text>
+  </text>    
+  <text name="shortdescription" extra="true">
+   <text>Mario · Game Series</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Mario is a character in the Mario video game franchise, owned by Nintendo and created by Japanese video game designer Shigeru Miyamoto</text>
+  </text>
+ </view>
+</theme>

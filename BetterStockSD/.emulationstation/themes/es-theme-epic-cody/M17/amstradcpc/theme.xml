@@ -1,0 +1,27 @@
+<theme>
+<formatVersion>7</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="basic, detailed, video">
+    <text name="nameLabel" extra="true">
+    <text>Amstrad CPC</text>
+  </text>
+</view>    
+
+<view name="system">
+  <text name="sys_line2" extra="true">
+    <text>Amstrad</text>
+  </text>    
+  <text name="shortdescription" extra="true">
+   <text>1984  ·  Ordenador de 8-bit</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Amstrad CPC belongs to a series of 8-bit home computers. The CPC series was pitched against other home computers and I enjoy a lot of gaming software.</text>
+  </text>
+    <text name="longdescription" extra="true">
+        <pos>0.003 0.68</pos>
+        <fontSize>0.025</fontSize>
+    </text>
+
+ </view>
+</theme>

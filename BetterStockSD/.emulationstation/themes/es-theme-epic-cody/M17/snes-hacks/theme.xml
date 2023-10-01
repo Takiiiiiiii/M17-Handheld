@@ -1,0 +1,24 @@
+<theme>
+<formatVersion>7</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="basic, detailed, video">
+  <text name="nameLabel" extra="true">
+    <text>SNES HACKS</text>
+  </text>
+</view>    
+
+<view name="system">
+
+  <text name="sys_line2" extra="true">
+    <text>SNES HACKS</text>
+
+</text>
+  <text name="shortdescription" extra="true">
+   <text>ROM HACKS</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Rom hacks of SNES games</text>
+  </text>
+ </view>
+</theme>

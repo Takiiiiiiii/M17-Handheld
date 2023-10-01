@@ -1,0 +1,23 @@
+<theme>
+<formatVersion>7</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="basic, detailed, video">
+    <text name="nameLabel" extra="true">
+    <text>Metal Slug</text>
+  </text>
+</view>
+
+<view name="system">
+  <text name="sys_line2" extra="true">
+    <text>Metal Slug</text>
+
+  </text>
+  <text name="shortdescription" extra="true">
+   <text>Metal Slug · Game Series</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Metal Slug is a series of run and gun video games originally created by Nazca Corporation before merging with SNK in 1996 after the completion of the first game in the series.</text>
+  </text>
+ </view>
+</theme>

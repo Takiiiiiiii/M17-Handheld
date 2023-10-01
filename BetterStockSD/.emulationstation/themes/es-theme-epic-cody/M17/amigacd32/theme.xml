@@ -1,0 +1,22 @@
+<theme>
+<formatVersion>7</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="basic, detailed, video">
+    <text name="nameLabel" extra="true">
+    <text>Amiga CD32</text>
+  </text>
+</view>    
+
+<view name="system">
+  <text name="sys_line2" extra="true">
+    <text>Amiga CD32</text>
+  </text>    
+  <text name="shortdescription" extra="true">
+   <text>1993  ·  32-bit Console</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>The CD32 is part of a family of Amiga computers and other hardware. It was first released September 16, 1993 and was discontinued only eight months after its debut.</text>
+  </text>
+ </view>
+</theme>

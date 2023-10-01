@@ -1,0 +1,30 @@
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="detailed, video">
+    		<textlist name="gamelist">
+        	<pos>0 0.12</pos>
+	        <size>0.319 0.91</size>
+	        <fontSize>0.04</fontSize>
+	        <lineSpacing>1.583</lineSpacing>
+	        <horizontalMargin>0.01</horizontalMargin>
+	       </textlist>
+	</view>	
+ <view name="menu">
+    <menuBackground name="menubg">
+      <color>202020</color>
+    </menuBackground>
+	<menuText name="menutext">
+	  <fontPath>./_art/Acre.otf</fontPath>
+	  <fontSize>.044</fontSize>
+	  <color>FFAE00</color>
+	</menuText>
+	<menuTextEdit name="menutextedit">
+      <inactive>./_art/assets/textinput_inactive.png</inactive>
+      <active>./_art/assets/textinput_active.png</active>
+    </menuTextEdit>
+	<menuText name="menufooter">
+      <fontSize>.05</fontSize>		 
+    </menuText>
+  </view>
+</theme>

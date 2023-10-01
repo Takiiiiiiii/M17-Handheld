@@ -1,0 +1,20 @@
+<theme>
+<formatVersion>7</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="basic, detailed, video">
+  <text name="nameLabel" extra="true">
+    <text>Magnavox Odissey</text>
+  </text>
+</view>    
+
+<view name="system">
+ 
+  <text name="shortdescription" extra="true">
+   <text>1972  ·  8-bit Console</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Magnavox Odyssey is the general brand name of Magnavox's complete line of home video game consoles released from 1972 through 1978.</text>
+  </text>
+ </view>
+</theme>

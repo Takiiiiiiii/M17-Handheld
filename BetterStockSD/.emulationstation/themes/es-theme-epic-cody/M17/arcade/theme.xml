@@ -1,0 +1,22 @@
+<theme>
+<formatVersion>7</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="basic, detailed, video">
+    <text name="nameLabel" extra="true">
+    <text>Arcade</text>
+  </text>
+</view>    
+
+<view name="system">
+  <text name="sys_line2" extra="true">
+    <text>Arcade</text>
+  </text>    
+  <text name="shortdescription" extra="true">
+   <text>Arcade system</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Coin-operated amusement machines. The Golden Age is defined as a period from the late 1970s to the mid-1980s.</text>
+  </text>
+ </view>
+</theme>

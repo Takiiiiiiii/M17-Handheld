@@ -1,0 +1,23 @@
+<theme>
+<formatVersion>7</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="basic, detailed, video">
+    <text name="nameLabel" extra="true">
+    <text>Doom</text>
+  </text>
+</view>    
+
+<view name="system">
+  <text name="sys_line2" extra="true">
+    <text>Doom</text>
+
+  </text> 
+  <text name="shortdescription" extra="true">
+   <text>LZdoom · Doom Engine</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>LZDoom is a classic style GZDoom fork with lower system requirements</text>
+  </text>
+ </view>
+</theme>

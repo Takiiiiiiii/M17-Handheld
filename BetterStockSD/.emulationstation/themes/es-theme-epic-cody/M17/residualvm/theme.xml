@@ -1,0 +1,23 @@
+<theme>
+<formatVersion>7</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="basic, detailed, video">
+    <text name="nameLabel" extra="true">
+    <text>Residual VM</text>
+  </text>
+</view>    
+
+<view name="system">
+  <text name="sys_line2" extra="true">
+    <text>Residual VM</text>
+
+  </text> 
+  <text name="shortdescription" extra="true">
+   <text>CROSS PLATFORM COMPUTER</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Play the classic "Point and Click" graphic adventure games from different platforms and systems like MS-DOS, C64, Apple II or PC</text>
+  </text>
+ </view>
+</theme>

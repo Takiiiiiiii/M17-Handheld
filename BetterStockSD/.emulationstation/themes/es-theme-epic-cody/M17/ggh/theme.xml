@@ -1,0 +1,19 @@
+<theme>
+<formatVersion>7</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="basic, detailed, video">
+  <text name="nameLabel" extra="true">
+    <text>Sega GameGear Hacks</text>
+  </text>
+</view>    
+
+<view name="system">
+  <text name="shortdescription" extra="true">
+   <text>1990  ·  8-bit Handheld Console</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Homebrew games for the GameGear</text>
+  </text>
+ </view>
+</theme>

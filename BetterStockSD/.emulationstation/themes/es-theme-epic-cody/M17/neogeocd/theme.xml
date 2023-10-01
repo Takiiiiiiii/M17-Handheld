@@ -1,0 +1,28 @@
+<theme>
+<formatVersion>7</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="basic, detailed, video">
+    <text name="nameLabel" extra="true">
+    <text>Neo Geo CD</text>
+  </text>
+</view>    
+
+<view name="system">
+  <text name="sys_line2" extra="true">
+    <text>Neo Geo CD</text>
+
+  </text> 
+  <text name="shortdescription" extra="true">
+   <text>1990  ·  34-bit video console</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Originally released as a coin-operated MVS arcade machine. I am ranked 19th of the 25 best video game consoles of all time.</text>
+  </text>
+    <text name="longdescription" extra="true">
+        <pos>0.003 0.68</pos>
+        <fontSize>0.025</fontSize>
+    </text>
+
+ </view>
+</theme>

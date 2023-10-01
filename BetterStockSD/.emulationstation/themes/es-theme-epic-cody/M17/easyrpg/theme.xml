@@ -1,0 +1,28 @@
+<theme>
+<formatVersion>7</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="basic, detailed, video">
+    <text name="nameLabel" extra="true">
+    <text>EASY RPG</text>
+  </text>
+</view>    
+
+<view name="system">
+  <text name="sys_line2" extra="true">
+    <text>EASY RPG</text>
+
+  </text> 
+  <text name="shortdescription" extra="true">
+   <text>2000  ·  Role Playing Games or RPG</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>EasyRPG is a community project to create a tool for creating free and open source role-playing games, compatible with RPG Maker 2000/2003 games.</text>
+  </text>
+    <text name="longdescription" extra="true">
+        <pos>0.003 0.68</pos>
+        <fontSize>0.02985</fontSize>
+    </text>
+
+ </view>
+</theme>

@@ -1,0 +1,23 @@
+<theme>
+<formatVersion>7</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="basic, detailed, video">
+    <text name="nameLabel" extra="true">
+    <text>Daphne</text>
+  </text>
+</view>    
+
+<view name="system">
+  <text name="sys_line2" extra="true">
+    <text>Daphne</text>
+
+  </text>    
+  <text name="shortdescription" extra="true">
+   <text>1983  · Laserdisc system</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Converged device and domestic video game console capable of playing LD-G laser discs, compact discs, console games and karaoke discs</text>
+  </text>
+ </view>
+</theme>

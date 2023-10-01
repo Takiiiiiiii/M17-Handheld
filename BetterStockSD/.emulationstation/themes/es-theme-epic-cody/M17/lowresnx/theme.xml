@@ -1,0 +1,23 @@
+<theme>
+<formatVersion>7</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="basic, detailed, video">
+    <text name="nameLabel" extra="true">
+    <text>LOWRES NX</text>
+  </text>
+</view>    
+
+<view name="system">
+  <text name="sys_line2" extra="true">
+    <text>LOWRES NX</text>
+
+  </text> 
+  <text name="shortdescription" extra="true">
+   <text>2017  ·  8-bit Fantasy Computer</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>A simulated retro game console, which can be programmed in the classic BASIC language.</text>
+  </text>
+ </view>
+</theme>

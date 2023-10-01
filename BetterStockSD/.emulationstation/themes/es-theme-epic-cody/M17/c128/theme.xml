@@ -1,0 +1,23 @@
+<theme>
+<formatVersion>7</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="basic, detailed, video">
+    <text name="nameLabel" extra="true">
+    <text>Commodore 128</text>
+  </text>
+</view>    
+
+<view name="system">
+  <text name="sys_line2" extra="true">
+    <text>Commodore</text>
+
+  </text>    
+  <text name="shortdescription" extra="true">
+   <text>1985  ·  8-bit Computer</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>The Commodore 128 is the last 8-bit home computer that was commercially released by Commodore Business Machines</text>
+  </text>
+ </view>
+</theme>

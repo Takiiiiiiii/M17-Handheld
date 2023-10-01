@@ -1,0 +1,27 @@
+<theme>
+<formatVersion>7</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="basic, detailed, video">
+  <text name="nameLabel" extra="true">
+    <text>Sega Master System</text>
+  </text>
+</view>    
+
+<view name="system">
+  <text name="sys_line1" extra="true">
+    <text>Sega Master</text>
+	
+  </text>
+  <text name="sys_line2" extra="true">
+    <text>System</text>
+
+</text>
+  <text name="shortdescription" extra="true">
+   <text>1985  ·  8-bit video console</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Successor to the SG-1000, Master System was released as a direct competitor to the Nintendo Entertainment System (NES).</text>
+  </text>
+ </view>
+</theme>

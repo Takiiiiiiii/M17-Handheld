@@ -1,0 +1,23 @@
+<theme>
+<formatVersion>7</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="basic, detailed, video">
+  <text name="nameLabel" extra="true">
+    <text>Cave</text>
+  </text>
+</view>
+
+<view name="system">
+  <text name="sys_line2" extra="true">
+    <text>Cave</text>
+  </text>
+
+  <text name="shortdescription" extra="true">
+   <text>Cave Interactive · Game Developer</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Cave Interactive is a Japanese video game company founded in 1994 by former employees of Toaplan following its bankruptcy."CAVE" is an acronym for "Computer Art Visual Entertainment".</text>
+  </text>
+ </view>
+</theme>

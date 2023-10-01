@@ -1,0 +1,27 @@
+<theme>
+<formatVersion>7</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="basic, detailed, video">
+  <text name="nameLabel" extra="true">
+    <text>Nintendo Entertainment System</text>
+  </text>
+</view>    
+
+<view name="system">
+
+  <text name="sys_line1" extra="true">
+    <text>Nintendo</text>
+</text>
+ 
+  <text name="sys_line2" extra="true">
+    <text>NES</text>
+</text>
+  <text name="shortdescription" extra="true">
+   <text>1983  ·  8-bit video console</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>It was the best-selling game console of its time. The NES helped revitalize the US video game industry after the video game collapse of 1983.</text>
+  </text>
+ </view>
+</theme>

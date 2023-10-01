@@ -1,0 +1,23 @@
+<theme>
+<formatVersion>7</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="basic, detailed, video">
+    <text name="nameLabel" extra="true">
+    <text>TIC-80</text>
+  </text>
+</view>    
+
+<view name="system">
+  <text name="sys_line2" extra="true">
+    <text>TIC-80</text>
+
+  </text>   
+  <text name="shortdescription" extra="true">
+   <text>2017  ·  16-bit Fantasy Computer</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>TIC-80 is a fantasy computer for making, playing and sharing tiny games.</text>
+  </text>
+ </view>
+</theme>

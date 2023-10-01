@@ -1,0 +1,331 @@
+<!--
+Theme name:  Epic Cody
+Artwork by:  CodyV59 
+Coding by:   CodyV59
+Fonts used:  Acre Medium & Bebas Neue Bold
+
+thanks to Chicuelo and Nick L (c64-dev)
+
+# Thanks and Credits
+Some controllers and graphics used in this theme are created by great artists who kindly agreed to include their art within the theme.
+
+# License
+This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. Please see README.md for full details.
+
+Modificado por M1ch3l
+-->
+
+<theme>
+<formatVersion>7</formatVersion>
+
+  	<variables>
+		<controllerSubsetName>Muestra los mandos en la vista de sistemas</controllerSubsetName>
+	</variables>
+	
+	<subset name="controller" displayName="${controllerSubsetName}">
+        	<include name="on" displayName="si"/>
+        	<include name="off" displayName="no">./_art/settings/controllers.xml</include>
+       </subset>
+
+<view name="system">
+    <image name="background" extra="true">
+        <path>./_art/var/dot.png</path>
+        <tile>false</tile>
+        <size>1 1</size>
+        <pos>0 0</pos>
+        <origin>0 0</origin>
+    </image>
+
+	<helpsystem name="help">
+        <pos>1 1</pos>
+	    <origin>1 1</origin>
+        <textColor>ffffff</textColor>
+        <iconColor>ffffff</iconColor>
+        <pos>0.0 0.0</pos>
+        <size>0.01 0.01</size>
+    </helpsystem>
+ 
+    <image name="poster" extra="true">
+        <path>./_art/posters/${system.theme}.jpg</path>
+        <path>./_art/posters/${system.theme}.png</path>
+        <tile>false</tile>
+        <origin>1 0</origin>
+        <pos>1 0</pos>
+        <size>0 1</size>
+    </image>
+
+    <carousel name="systemcarousel">
+        <type>horizontal</type>
+        <color>00000000</color>
+        <origin>1 1</origin>
+        <pos>1 1</pos>
+        <size>0.01 0.01</size>
+        <logoScale>1</logoScale>
+        <logoSize>0.01 0.01</logoSize>
+        <maxLogoCount>0</maxLogoCount>
+    </carousel>
+    
+    <text name="sys_line1" extra="true">
+        <fontPath>./_art/BebasNeue.otf</fontPath>
+        <alignment>left</alignment>
+        <forceUppercase>1</forceUppercase>
+        <color>FFFFFF</color>
+		<fontSize>0.050</fontSize>
+        <origin>0 0</origin>
+        <pos>0.003 0.132</pos>
+        <size>0 0</size>
+    </text>
+    
+    <text name="sys_line2" extra="true">
+        <fontPath>./_art/BebasNeue.otf</fontPath>
+        <alignment>left</alignment>
+        <forceUppercase>1</forceUppercase>
+		<fontSize>0.20</fontSize>
+        <origin>0 0</origin>
+        <pos>0.003 0.150</pos>
+        <size>0 0</size>
+        <color>FFFFFF</color>
+    </text>
+
+    <image name="buttonA" extra="true">
+		<path>./_art/var/button.svg</path>
+        <tile>false</tile>
+        <origin>0 0</origin>
+        <pos>0.003 0.48</pos>
+        <size>0 0.085</size>
+	<color>585858</color>
+    </image>
+
+    <text name="shortdescription" extra="true">
+        <fontPath>./_art/Acre.otf</fontPath>
+        <alignment>left</alignment>
+        <forceUppercase>0</forceUppercase>
+        <fontSize>0.022</fontSize>
+        <color>ffffff</color>
+        <origin>0 0</origin>
+        <pos>0.003 0.092</pos>
+        <size>0.320 0.025</size>
+    </text>
+
+    <text name="systemInfo">
+        <fontPath>./_art/BebasNeue.otf</fontPath>
+        <alignment>left</alignment>
+        <backgroundColor>00000000</backgroundColor>
+        <forceUppercase>1</forceUppercase>
+        <color>FFAE00</color>
+        <origin>0 0</origin>
+        <pos>0.250 0.50</pos>
+        <size>0.400 0.042</size>
+        <fontSize>0.070</fontSize>
+    </text>
+    
+    <text name="longdescription" extra="true">
+        <fontPath>./_art/Acre.otf</fontPath>
+        <alignment>left</alignment>
+        <forceUppercase>0</forceUppercase>
+        <fontSize>0.025</fontSize>
+        <color>ffffff</color>
+ 	<lineSpacing>1.18</lineSpacing>
+        <origin>0 0</origin>
+        <pos>0.003 0.645</pos>
+        <size>0.28 0.24</size>
+    </text>
+
+    <image name="controller" extra="true">
+        <path>./_art/controllers/${system.theme}.png</path>
+        <tile>false</tile>
+        <origin>0 0</origin>
+        <pos>0.35 0.65</pos>
+        <maxSize>0.33 0.33</maxSize>
+    </image>
+</view>
+
+<view name="basic, detailed, video">
+
+    <image name="background" extra="true">
+        <tile>false</tile>
+        <path>./_art/ingame-global-bg.png</path>
+        <size>1 1</size>
+        <pos>0 0</pos>
+    </image>
+
+    <textlist name="gamelist">
+        <selectorColor>1c1c1c</selectorColor>
+        <selectedColor>FFAE00</selectedColor>
+        <selectorHeight>0.062</selectorHeight>
+        <primaryColor>585858</primaryColor>
+        <secondaryColor>888888</secondaryColor>
+        <fontPath>./_art/Acre.otf</fontPath>
+        <alignment>left</alignment>
+        <pos>0 0.12</pos>
+	    <size>0.319 0.91</size>
+        <fontSize>0.03</fontSize>
+        <lineSpacing>1.683</lineSpacing>
+        <horizontalMargin>0.01</horizontalMargin>
+    </textlist>
+
+	<helpsystem name="help">
+        <pos>1 1</pos>
+	    <origin>1 1</origin>
+        <textColor>ffffff</textColor>
+        <iconColor>ffffff</iconColor>
+        <pos>0.0 0.0</pos>
+        <size>0.01 0.01</size>
+    </helpsystem>
+
+    <text name="top_label" extra="true">
+        <fontPath>./_art/BebasNeue.otf</fontPath>
+        <text></text>
+        <alignment>left</alignment>
+        <color>F8F8F8</color>
+        <fontSize>0.039</fontSize>
+        <origin>0 0</origin>
+        <pos>0.01 0.01</pos>
+        <size>0.20 0.08</size>
+    </text>
+    
+    <text name="nameLabel" extra="true">
+        <fontPath>./_art/BebasNeue.otf</fontPath>
+        <alignment>left</alignment>
+        <forceUppercase>1</forceUppercase>
+        <color>FFAE00</color>
+        <fontSize>0.055</fontSize>
+        <origin>0 0</origin>
+        <pos>0.35 0.02</pos>
+        <size>0.65 0.08</size>
+        <zIndex>32</zIndex>
+    </text>
+
+<!-- Define metadata -->
+
+<!-- Place metadata --> 
+        
+<!-- Extra Text Labels. Edit text values if needed.-->       
+
+    <text name="txt_descript" extra="true">
+        <text></text>
+        <fontPath>./_art/Acre.otf</fontPath>
+        <alignment>left</alignment>
+        <fontSize>0.02</fontSize>
+        <color>FFAE00</color>
+        <origin>0 0</origin>
+        <pos>0.339 0.630</pos>
+        <size>0.06 0.2</size>
+    </text> 
+        
+<!-- Hidden Elements -->
+ 
+    <text name="shortdescription, longdescription" extra="true">
+        <origin>1 1</origin>
+        <pos>0 0</pos>
+        <color>00000000</color>
+    </text>
+        
+    <text name="md_lbl_releasedate, md_lbl_developer, md_developer, md_lbl_playcount, md_playcount, md_lbl_lastplayed, md_lbl_publisher, md_publsher">
+        <origin>1 1</origin>
+        <color>00000000</color>
+        <pos>0 0</pos>
+    </text>
+
+    <datetime name="md_releasedate, md_lastplayed">
+        <origin>1 1</origin>
+        <color>00000000</color>
+        <pos>0 0</pos>
+        </datetime>
+        
+</view>
+
+<view name="basic, detailed">
+    <image name="md_image">
+        <tile>false</tile>
+        <origin>0.5 0.5</origin>
+        <pos>0.66 0.52</pos>
+        <maxSize>0.65 0.75</maxSize>
+    </image>
+        <image name="md_marquee">
+            <pos>0.6598958333333333 0.220</pos>
+            <origin>0.5 0.5</origin>
+            <maxSize>0.300 0.180</maxSize>
+        </image>
+        <image name="logo">
+            <path>./_assets/systems/${system.theme}.svg</path>
+			<path>./_assets/systems/${system.theme}.png</path>
+            <pos>0.705 0.865</pos>
+            <maxSize>0.296 0.122</maxSize>
+            <origin>0.5 0.5</origin>
+        </image>
+
+</view>
+
+<feature supported="video">
+    <view name="basic, video">
+        <image name="tvoverlay" extra="true">
+            <tile>false</tile>
+	    <path>./_art/titlelogo.png</path>
+            <size>1 1</size>
+            <pos>0 0</pos>
+            <zIndex>31</zIndex>
+        </image>
+        <image name="md_marquee">
+            <pos>0.85 0.91</pos>
+            <origin>0.5 0.5</origin>
+            <maxSize>0.280 0.160</maxSize>
+      	    <reflexion>0.15 0.0</reflexion>
+            <zIndex>32</zIndex>
+        </image>
+      <rating name="md_rating">
+         <origin>0.5 0.5</origin>       
+         <pos>0.39 0.95</pos>
+         <size>0.06 0.06</size>
+         <zIndex>33</zIndex>
+         <filledPath>./_art/star_full.png</filledPath>
+         <unfilledPath>./_art/star_hollow.png</unfilledPath>
+      </rating>
+        <video name="md_video">
+            <origin>0.5 0.5</origin>
+            <pos>0.665 0.495</pos>
+            <maxSize>0.68 0.79</maxSize>
+            <delay>0.6</delay>
+            <showSnapshotNoVideo>true</showSnapshotNoVideo>
+            <showSnapshotDelay>true</showSnapshotDelay>
+        </video>
+    </view>
+</feature>
+
+   <view name="screen">
+    <text name="clock">
+      <fontPath>./_art/BebasNeue.otf</fontPath>
+      <backgroundColor>00000000</backgroundColor>
+      <color>FFAE00</color>
+      <fontSize>0.055</fontSize>
+      <pos>0.840 0.92</pos>
+      <size>0.15 0.058</size>
+      <alignment>right</alignment>
+      <verticalAlignment>center</verticalAlignment>
+    </text>
+    <batteryIndicator name="batteryIndicator">
+      <pos>0.855 0.01</pos>
+      <size>0.033 0.033</size>
+      <incharge>./art/battery/incharge.svg</incharge>
+      <full>./art/battery/full.svg</full>
+      <at75>./art/battery/75.svg</at75>
+      <at50>./art/battery/50.svg</at50>
+      <at25>./art/battery/25.svg</at25>
+      <empty>./art/battery/empty.svg</empty>
+      <color>FFFFFFA0</color>
+    </batteryIndicator>
+    <batteryIndicator name="batteryIndicator" tinyScreen="true">
+      <pos>0.915 0.013</pos>
+      <size>0.07 0.07</size>
+    </batteryIndicator>
+  </view>
+	
+ 
+	
+	<subset name="text" displayName="Letra Lista de games & Menu">
+    	        <include name="menor" displayName="Menor">./_art/settings/menor.xml</include>
+        	<include name="mormal" displayName="Normal">./_art/settings/normal.xml</include>
+        	<include name="grande" displayName="Grande">./_art/settings/grande.xml</include>
+        </subset>
+
+</theme>

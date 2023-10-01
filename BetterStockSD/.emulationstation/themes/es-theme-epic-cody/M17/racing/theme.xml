@@ -1,0 +1,29 @@
+<theme>
+<formatVersion>7</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="basic, detailed, video">
+    <text name="nameLabel" extra="true">
+    <text>Genre Racing</text>
+  </text>
+</view>    
+
+
+
+<view name="system">
+  <text name="sys_line2" extra="true">
+    <text>Racing</text>
+  </text>    
+  <text name="shortdescription" extra="true">
+   <text>Game Genre</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>In racing games, the player participates in competitions with any type of land, water, air or space vehicles, whether real or fictional.</text>
+  </text>
+    <text name="longdescription" extra="true">
+        <pos>0.003 0.68</pos>
+        <fontSize>0.025</fontSize>
+    </text>
+
+ </view>
+</theme>
