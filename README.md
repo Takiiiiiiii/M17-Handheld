@@ -1,7 +1,7 @@
 # M17 Stock SD Replacement
 This repository contains a reconfigured stock SD image for the M17 Gaming Handheld.
 
-Latest SD Package: 
+Latest SD Package: https://github.com/Takiiiiiiii/M17-Handheld/releases/tag/1.0
 
 ## Stock SD Notice
 
