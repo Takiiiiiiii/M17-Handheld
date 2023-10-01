@@ -23,4 +23,4 @@ If you want to make changes to the default cores for a specific system, edit the
 
 Dreamcast is super broken with the stock firmware. Even though it probably isn't worth your time, you can use a workaround to run Dreamcast games. After transferring the ROMs that you want to play to `/roms/dreamcast/`, you need to go to the `/retroarch/config/Flycast/` folder and clone one of the two .opt files that you find. Rename the copied file to the exact file name of the game that you want to play.
 
-For example, if I want to play `Sonic Adventure (U).cdi`, I will rename my copied opt file to `Sonic Adventure (U).opt`. As long as you do this, the game should boot. Flycast will search for `/dc/dc_boot.bin` and `/dc/dc_flash.bin` in `/roms/dreamcast/` or `/retroarch/system/`.
+For example, if I wanted to play `Sonic Adventure (U).cdi`, I would rename my copied opt file to `Sonic Adventure (U).opt`. As long as you do this step, your game should boot. Flycast will search for `/dc/dc_boot.bin` and `/dc/dc_flash.bin` in `/roms/dreamcast/` or `/retroarch/system/`.
